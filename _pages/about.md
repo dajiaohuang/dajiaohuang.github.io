@@ -1,3 +1,22 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Information Security (IEEE Pilot Class). I'm now researching under the supervision of Prof. [Yichao Yan](https://daodaofr.github.io/). Currently, I'm working on human-centric topics, including modeling human body, human motion, human activity and human interaction, and I welcome any invitation for collaboration or discussion.
 
 I intend to gain some experience as an intern in a company while prepare my MS or PHD applications in Fall 2025, so if interested, please drop me an email!
@@ -77,4 +96,9 @@ NIS4301</div>
 # 📖 Educations
 - *2021.09 - (now)*, Shanghai Jiao Tong University, Shanghai, China.
 - *2018.09 - 2021.06*, Shanghai High School, Shanghai, China.
+
+<!-- # 💬 Invited Talks
+
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 

@@ -53,7 +53,7 @@ Inter-X is a large-scale human-human interaction MoCap dataset with ~11K interac
   <div class="paper-box-image">
   <div>
   <div class="badge">AI3603</div>
-  <img src="images/AI3603.png" width="100%"></div>
+  <img src="images/ai3603.png" width="100%"></div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://github.com/dajiaohuang/SVD-InST">SVD-InST: Image Style Transfer</a></p>
@@ -62,11 +62,12 @@ Inter-X is a large-scale human-human interaction MoCap dataset with ~11K interac
   </div>
 </div>
 
+
 <div class="paper-box">
   <div class="paper-box-image">
   <div>
   <div class="badge">CS3324</div>
-  <img src="images/CS3324.png" width="100%"></div>
+  <img src="images/cs3324.png" width="100%"></div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://github.com/dajiaohuang/Text-Aligned-SalGAN">Text Aligned SalGAN

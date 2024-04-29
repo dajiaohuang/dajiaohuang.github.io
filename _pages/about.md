@@ -1,4 +1,5 @@
 ---
+
 permalink: /
 title: ""
 author_profile: true
@@ -34,9 +35,14 @@ I intend to gain some experience as an intern in a company while prepare my MS o
     </div>
   </div>
   <div class="paper-box-text">
-    <p><strong>Inter-X: Towards Versatile Human-Human Interaction Analysis(CVPR2024)</strong></p>
+    <p><strong>Inter-X: Towards Versatile Human-Human Interaction Analysis</strong></p>
 
-  <p>Inter-X is a large-scale human-human interaction MoCap dataset with ~11K interaction sequences and more than 8.1M frames. The fine-grained textual descriptions, semantic action categories, interaction order, and relationship and personality annotations allow for 4 categories of downstream tasks.</p>
+*Liang Xu, Xintao Lv, Yichao Yan, Xin Jin, **Shuwen Wu**, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
+      [[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
+
+<p>         
+Inter-X is a large-scale human-human interaction MoCap dataset with ~11K interaction sequences and more than 8.1M frames. The fine-grained textual descriptions, semantic action categories, interaction order, and relationship and personality annotations allow for 4 categories of downstream tasks.</p>
 
   </div>
 </div>

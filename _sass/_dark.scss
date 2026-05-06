@@ -1,0 +1,232 @@
+/* ==========================================================================
+   Dark Theme
+   ========================================================================== */
+
+[data-theme="dark"] {
+  /* Backgrounds */
+  body {
+    background-color: #0f172a;
+    color: #cbd5e1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f1f5f9;
+  }
+
+  /* Masthead */
+  .masthead {
+    background-color: rgba(15, 23, 42, 0.92);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+
+  .greedy-nav {
+    background-color: transparent;
+
+    .visible-links a {
+      color: #94a3b8;
+
+      &:hover {
+        color: #e2e8f0;
+      }
+
+      &:before {
+        background: #3b82f6;
+      }
+    }
+
+    .hidden-links {
+      background: #1e293b;
+      border-color: #334155;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+      a {
+        color: #94a3b8;
+
+        &:hover {
+          color: #e2e8f0;
+          background: rgba(59, 130, 246, 0.15);
+        }
+      }
+
+      &:before {
+        border-color: #334155 transparent;
+      }
+
+      &:after {
+        border-color: #1e293b transparent;
+      }
+    }
+
+    button {
+      background-color: #3b82f6;
+    }
+  }
+
+  /* Sidebar */
+  .sidebar {
+    p, li {
+      color: #94a3b8;
+    }
+  }
+
+  .author__avatar img {
+    border-color: #334155;
+  }
+
+  .author__bio {
+    color: #94a3b8;
+  }
+
+  .author__urls {
+    background: #1e293b;
+    border-color: #334155;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+
+    a {
+      color: #cbd5e1;
+
+      &:hover {
+        color: #60a5fa;
+      }
+    }
+  }
+
+  .author__urls_sm a {
+    color: #cbd5e1;
+
+    &:hover {
+      color: #60a5fa;
+    }
+  }
+
+  /* Page content */
+  .page__content {
+    h1 {
+      border-left-color: #3b82f6;
+      color: #f1f5f9;
+    }
+
+    a {
+      color: #60a5fa;
+
+      &:hover {
+        color: #93bbfd;
+      }
+    }
+
+    strong {
+      color: #f1f5f9;
+    }
+  }
+
+  /* Paper box cards */
+  .paper-box {
+    background: #1e293b;
+    border-color: #334155;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+
+    &:hover {
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+    }
+
+    .paper-box-image img {
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  /* Footer */
+  .page__footer {
+    background-color: #1e293b;
+    border-top-color: #334155;
+    color: #64748b;
+
+    a {
+      color: #94a3b8;
+
+      &:hover {
+        color: #60a5fa;
+      }
+    }
+  }
+
+  /* Code */
+  code {
+    background-color: #1e293b;
+    border-color: #334155;
+  }
+
+  /* Selection */
+  ::selection {
+    color: #fff;
+    background: #3b82f6;
+  }
+
+  /* Horizontal rule */
+  hr {
+    border-top-color: #334155;
+  }
+
+  /* Forms and selects */
+  select, input, textarea {
+    background-color: #1e293b;
+    color: #cbd5e1;
+    border-color: #334155;
+  }
+
+  /* blockquote */
+  blockquote {
+    border-left-color: #3b82f6;
+  }
+
+  /* Navigation */
+  .breadcrumbs {
+    color: #94a3b8;
+  }
+
+  /* TOC */
+  .toc {
+    background-color: #1e293b;
+    border-color: #334155;
+
+    .nav__title {
+      background: #3b82f6;
+    }
+  }
+
+  /* Collapse */
+  .container {
+    border-color: #334155;
+
+    .header {
+      background-color: #1e293b;
+      color: #e2e8f0;
+
+      &:hover {
+        background-color: #334155;
+      }
+    }
+  }
+
+  /* Utility */
+  .well {
+    background-color: #1e293b;
+    border-color: #334155;
+  }
+
+  /* Social icons */
+  .social-icons .fa {
+    color: #e2e8f0;
+  }
+
+  /* Buttons */
+  .btn--inverse {
+    color: #cbd5e1 !important;
+    background-color: #1e293b;
+    border-color: #334155 !important;
+
+    &:hover {
+      color: #60a5fa !important;
+      border-color: #60a5fa;
+    }
+  }
+}

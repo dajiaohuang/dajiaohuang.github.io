@@ -18,6 +18,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    position: relative;
     padding: 0.6em 1em;
     font-family: $sans-serif-narrow;
 
@@ -60,5 +61,38 @@
   &--lg {
     padding-right: 2em;
     font-weight: 600;
+  }
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  position: absolute;
+  right: 1em;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #64748b;
+  padding: 4px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  z-index: 30;
+
+  &:hover {
+    color: #1e3a5f;
+    background: #f1f5f9;
+  }
+}
+
+[data-theme="dark"] .theme-toggle {
+  color: #94a3b8;
+
+  &:hover {
+    color: #60a5fa;
+    background: rgba(59, 130, 246, 0.15);
   }
 }

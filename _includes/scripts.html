@@ -1,4 +1,30 @@
 <script src="assets/js/main.min.js"></script>
 
+<script>
+  document.getElementById('theme-toggle').addEventListener('click', function() {
+    var html = document.documentElement;
+    var sun = document.getElementById('theme-icon-sun');
+    var moon = document.getElementById('theme-icon-moon');
+    if (html.getAttribute('data-theme') === 'dark') {
+      html.removeAttribute('data-theme');
+      localStorage.setItem('theme', 'light');
+      sun.style.display = '';
+      moon.style.display = 'none';
+    } else {
+      html.setAttribute('data-theme', 'dark');
+      localStorage.setItem('theme', 'dark');
+      sun.style.display = 'none';
+      moon.style.display = '';
+    }
+  });
+
+  (function() {
+    if (document.documentElement.getAttribute('data-theme') === 'dark') {
+      document.getElementById('theme-icon-sun').style.display = 'none';
+      document.getElementById('theme-icon-moon').style.display = '';
+    }
+  })();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

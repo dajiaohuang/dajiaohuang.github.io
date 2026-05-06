@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "dajiaohuang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "djhwswdjh"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "wu-shuwen-ab3977259"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -56,6 +56,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  bilibili         : "https://space.bilibili.com/481998906"
   wikipedia        :
 
 

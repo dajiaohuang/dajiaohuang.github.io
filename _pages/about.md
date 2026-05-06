@@ -40,12 +40,11 @@ I am currently a Master's student in Data Science and Machine Learning at [Natio
   <div class="paper-box-text">
     <p><strong>Inter-X: Towards Versatile Human-Human Interaction Analysis</strong></p>
 
-*Liang Xu, Xintao Lv, Yichao Yan, Xin Jin, **Shuwen Wu**, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
-      [[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
+<p><em>Liang Xu, Xintao Lv, Yichao Yan, Xin Jin, <strong>Shuwen Wu</strong>, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.<br>
+IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.</em><br>
+<a href="https://arxiv.org/pdf/2312.16051.pdf">[paper]</a> <a href="https://liangxuy.github.io/inter-x/">[project]</a></p>
 
-<p>         
-The largest dual-human interaction dataset to date (~11K sequences, 8.1M+ frames), featuring SMPL-X parameters, skeleton sequences, body-part-level textual descriptions, interaction order, relationship, and personality annotations. Supports 8 downstream tasks including text-to-motion, reaction generation, and motion captioning.</p>
+<p>The largest dual-human interaction dataset to date (~11K sequences, 8.1M+ frames), featuring SMPL-X parameters, skeleton sequences, body-part-level textual descriptions, interaction order, relationship, and personality annotations. Supports 8 downstream tasks including text-to-motion, reaction generation, and motion captioning.</p>
 
   </div>
 </div>
@@ -59,12 +58,11 @@ The largest dual-human interaction dataset to date (~11K sequences, 8.1M+ frames
   <div class="paper-box-text">
     <p><strong>HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects</strong></p>
 
-*Xintao Lv, Liang Xu, Yichao Yan, Xin Jin, Congsheng Xu, **Shuwen Wu**, Yizhou Zhou, Yifan Liu, Lincheng Li, Mengxiao Bi, Wenjun Zeng, Xiaokang Yang.  
-European Conference on Computer Vision (**ECCV**), 2024.*  
-      [[paper]](https://arxiv.org/abs/2407.12371) [[project]](https://lvxintao.github.io/himo/)
+<p><em>Xintao Lv, Liang Xu, Yichao Yan, Xin Jin, Congsheng Xu, <strong>Shuwen Wu</strong>, Yizhou Zhou, Yifan Liu, Lincheng Li, Mengxiao Bi, Wenjun Zeng, Xiaokang Yang.<br>
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024.</em><br>
+<a href="https://arxiv.org/abs/2407.12371">[paper]</a> <a href="https://lvxintao.github.io/himo/">[project]</a></p>
 
-<p>         
-First large-scale full-body human-multi-object interaction benchmark (3.3K sequences, 4.08M frames, 53 object types). Proposes a dual-branch diffusion model with Mutual Interaction Module and autoregressive generation pipeline for fine-grained temporal control in HOI synthesis.</p>
+<p>First large-scale full-body human-multi-object interaction benchmark (3.3K sequences, 4.08M frames, 53 object types). Proposes a dual-branch diffusion model with Mutual Interaction Module and autoregressive generation pipeline for fine-grained temporal control in HOI synthesis.</p>
 
   </div>
 </div>

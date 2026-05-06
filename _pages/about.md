@@ -166,6 +166,20 @@ First large-scale full-body human-multi-object interaction benchmark (3.3K seque
   </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+  <div>
+  <div class="badge">React</div>
+  <img src="" width="100%"></div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Solar — Interactive Solar System Trajectory Visualizer</strong></p>
+    <p><i>Personal Project</i> | 2025</p>
+    <p>An interactive 3D solar system simulation built with <strong>React + Three.js + Vite + TypeScript</strong>. Features real-time planetary trajectory rendering in both 2D and 3D views, asteroid catalog browsing with chunked lazy loading, conjunction event detection, split-screen reference frame comparison, URL-based state persistence, and JSON/CSV data export. Supports NEO distance heatmaps and custom celestial body group management.</p>
+    <p><i class="fas fa-fw fa-globe" aria-hidden="true"></i> <a href="https://dajiaohuang.github.io/solar/"> Live Demo</a></p>
+  </div>
+</div>
+
 <span class='anchor' id='-experiences'></span>
 # 📇 Experiences
 
@@ -211,3 +225,8 @@ First large-scale full-body human-multi-object interaction benchmark (3.3K seque
 - *2021.09 - 2025.06*, **Bachelor of Engineering, Information Security (IEEE Honor Class)**, Shanghai Jiao Tong University, Shanghai, China. GPA: 85.5/100
   - Selected Courses: Algorithm Design and Analysis (A), C++ Program Design Practice (A+), Unreal Engine Program Design (A+), Artificial Intelligence Principles (A), Natural Language Processing (A)
 - *2018.09 - 2021.06*, Shanghai High School, Shanghai, China.
+
+<span class='anchor' id='-links'></span>
+# 🔗 Links
+
+- [Solar — Interactive Solar System Trajectory Visualizer](https://dajiaohuang.github.io/solar/) — A 3D solar system simulation with React, Three.js, and TypeScript. Explore planetary orbits, browse asteroid catalogs, and detect conjunction events.

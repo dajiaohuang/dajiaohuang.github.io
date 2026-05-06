@@ -40,33 +40,50 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   Custom Components
+   ========================================================================== */
+
+/* Paper box card */
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+    padding: 1.5em;
+    margin-bottom: 1.25em;
+    transition: $global-transition;
+
+    &:hover {
+        box-shadow: $box-shadow-md;
+        transform: translateY(-2px);
+    }
 
     .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+        position: relative;
+
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border-radius: $border-radius;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -74,36 +91,55 @@
             max-width: 40%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
+/* Paper box variant — text-only card (no image) */
+.paper-box:has(.paper-box-text:only-child),
+.paper-box .paper-box-text:only-child {
+    max-width: 100%;
+    padding-left: 0;
+}
+
+/* Anchor offset for sticky nav */
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
+/* Badge pill */
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.25em 0.75em;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: 0.5em;
+    left: -0.25em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background: linear-gradient(135deg, $primary-color, $info-color);
+    font-size: 0.75em;
+    font-weight: 600;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    z-index: 2;
+}
+
+/* Section divider */
+.page__content h1 + p {
+    margin-top: 0.5em;
+}
+
+/* Strong emphasis */
+.page__content strong {
+    color: $darker-gray;
 }

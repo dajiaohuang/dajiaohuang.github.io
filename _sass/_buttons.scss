@@ -2,28 +2,25 @@
    BUTTONS
    ========================================================================== */
 
-/*
-   Default button
-   ========================================================================== */
-
 .btn {
-  /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
   color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
-  font-weight: bold;
+  font-weight: 500;
   text-align: center;
   text-decoration: none;
   background-color: $primary-color;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  transition: $global-transition;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(white, $primary-color, 20%);
+    text-decoration: none !important;
   }
 
   .icon {
@@ -31,10 +28,8 @@
   }
 
   .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
+    margin-left: -0.5em;
   }
-
-  /* fills width of parent container */
 
   &--block {
     display: block;
@@ -45,27 +40,22 @@
     }
   }
 
-  /* for dark backgrounds */
-
   &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
+    color: $text-color !important;
+    border: 1px solid $border-color !important;
     background-color: #fff;
 
     &:hover {
-      color: #fff !important;
-      border-color: $gray;
+      color: $primary-color !important;
+      border-color: $primary-color;
+      background-color: #fff;
     }
   }
 
-  /* light outline */
-
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: 1px solid #fff !important;
     background-color: transparent;
   }
-
-  /* information */
 
   &--info {
     background-color: $info-color;
@@ -75,8 +65,6 @@
     }
   }
 
-  /* warning */
-
   &--warning {
     background-color: $warning-color;
 
@@ -84,8 +72,6 @@
       background-color: mix(#000, $warning-color, 20%);
     }
   }
-
-  /* success */
 
   &--success {
     background-color: $success-color;
@@ -95,8 +81,6 @@
     }
   }
 
-  /* danger */
-
   &--danger {
     background-color: $danger-color;
 
@@ -105,8 +89,6 @@
     }
   }
 
-  /* disabled */
-
   &--disabled {
     pointer-events: none;
     cursor: not-allowed;
@@ -114,8 +96,6 @@
     box-shadow: none;
     opacity: 0.65;
   }
-
-  /* social buttons */
 
   $social:
   (facebook, $facebook-color),
@@ -133,19 +113,13 @@
     }
   }
 
-  /* extra large button */
-
   &--x-large {
     font-size: $type-size-4;
   }
 
-  /* large button */
-
   &--large {
     font-size: $type-size-5;
   }
-
-  /* small button */
 
   &--small {
     font-size: $type-size-7;

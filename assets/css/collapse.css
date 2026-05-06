@@ -1,16 +1,25 @@
 .container {
     width:100%;
-    border:1px solid #d3d3d3;
+    border:1px solid #e2e8f0;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1em;
 }
 .container div {
     width:100%;
 }
 .container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
+    background-color:#f1f5f9;
+    padding: 8px 12px;
     cursor: pointer;
-    font-weight: bold;
+    font-weight: 600;
+    color: #1e293b;
+    transition: background-color 0.2s ease;
+}
+.container .header:hover {
+    background-color: #e2e8f0;
 }
 .container .content {
     display: none;
-    padding : 5px;
+    padding: 12px;
+}

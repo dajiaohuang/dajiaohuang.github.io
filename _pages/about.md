@@ -171,6 +171,48 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024.</em><br>
   <img src="" width="100%"></div>
   </div>
   <div class="paper-box-text">
+    <p><a href="https://github.com/dajiaohuang/evo">Evo — Paleontological Evolution Visualization</a></p>
+    <p><i>Personal Project</i> | 2026</p>
+    <p>Built an interactive web application for exploring the history of life on Earth through three synchronized views: a <strong>paleogeographic map</strong>, a <strong>phylogenetic tree of life</strong>, and a draggable <strong>geological timeline</strong>. The app renders continental reconstructions across Phanerozoic periods, temporal filtering on the tree of life, and 13,600+ fossil occurrence records from the Paleobiology Database. Implemented with <strong>React + TypeScript</strong>, Leaflet/react-leaflet, D3.js, custom SVG timeline interactions, and Zustand state management.</p>
+    <p><i class="fas fa-fw fa-globe" aria-hidden="true"></i> <a href="https://dajiaohuang.github.io/evo/"> Live Demo</a> | <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/dajiaohuang/evo"> GitHub</a></p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+  <div>
+  <div class="badge">React</div>
+  <img src="" width="100%"></div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://github.com/dajiaohuang/sg_rent">SG Rent — Singapore Rental Housing Recommendation System</a></p>
+    <p><i>Personal Project</i> | 2026</p>
+    <p>Developed a browser-based rental recommendation tool for Singapore housing search. Users enter up to five commuting destinations and receive ranked HDB and condo properties based on MRT commute time, price, and amenities. The system includes Dijkstra shortest-path routing across MRT/LRT lines, Leaflet map visualization with property and station overlays, weighted ranking, property filters, and a static dataset of 1,535 properties and 163 MRT/LRT stations. Built as a pure static frontend with <strong>React + TypeScript</strong>, requiring no backend at runtime.</p>
+    <p><i class="fas fa-fw fa-globe" aria-hidden="true"></i> <a href="https://dajiaohuang.github.io/sg_rent/"> Live Demo</a> | <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/dajiaohuang/sg_rent"> GitHub</a></p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+  <div>
+  <div class="badge">AgentSkill</div>
+  <img src="" width="100%"></div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://github.com/dajiaohuang/claude-code-skill">Claude Code Skill — OpenClaw AgentSkill</a></p>
+    <p><i>Personal Tooling Project</i> | 2026</p>
+    <p>Created an OpenClaw-compatible AgentSkill that routes coding tasks through the <strong>Claude Code CLI</strong>, covering implementation, refactoring, debugging, code review, and project scaffolding workflows. The skill defines Windows-first installation guidance, one-shot and interactive invocation patterns, fallback behavior, subagent parallelism for independent tasks, and prompt-writing conventions for reliable code execution.</p>
+    <p><i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/dajiaohuang/claude-code-skill"> GitHub</a></p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+  <div>
+  <div class="badge">React</div>
+  <img src="" width="100%"></div>
+  </div>
+  <div class="paper-box-text">
     <p><strong>Solar — Interactive Solar System Trajectory Visualizer</strong></p>
     <p><i>Personal Project</i> | 2025</p>
     <p>An interactive 3D solar system simulation built with <strong>React + Three.js + Vite + TypeScript</strong>. Features real-time planetary trajectory rendering in both 2D and 3D views, asteroid catalog browsing with chunked lazy loading, conjunction event detection, split-screen reference frame comparison, URL-based state persistence, and JSON/CSV data export. Supports NEO distance heatmaps and custom celestial body group management.</p>
@@ -227,4 +269,6 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024.</em><br>
 <span class='anchor' id='-links'></span>
 # 🔗 Links
 
+- [Evo — Paleontological Evolution Visualization](https://dajiaohuang.github.io/evo/) — Explore fossils, continental reconstructions, phylogenetic relationships, and geological time through synchronized interactive views.
+- [SG Rent — Singapore Rental Housing Recommendation System](https://dajiaohuang.github.io/sg_rent/) — Rank Singapore HDB and condo rentals by MRT commute time, price, amenities, and search filters.
 - [Solar — Interactive Solar System Trajectory Visualizer](https://dajiaohuang.github.io/solar/) — A 3D solar system simulation with React, Three.js, and TypeScript. Explore planetary orbits, browse asteroid catalogs, and detect conjunction events.

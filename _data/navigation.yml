@@ -21,5 +21,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Skills"
+    url: "/#-skills"
+
   - title: "Links"
     url: "/#-links"

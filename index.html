@@ -1,25 +1,30 @@
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang="zh-CN" data-theme="light" data-lang="zh">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <meta name="theme-color" content="#edf3f7">
-    <title>Wu Shuwen — Systems, agents, and evidence</title>
-    <meta name="description" content="Wu Shuwen builds agent infrastructure, evidence-first workflows, and scientific interfaces in Singapore.">
+    <title>Wu Shuwen — 系统、智能体与证据</title>
+    <meta name="description" content="Wu Shuwen 在新加坡构建智能体基础设施、证据优先工作流与科学交互界面。">
     <link rel="canonical" href="https://dajiaohuang.github.io/">
     <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="/styles.css">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Wu Shuwen — Systems, agents, and evidence">
-    <meta property="og:description" content="Agent infrastructure, evidence-first workflows, and scientific interfaces.">
+    <meta property="og:title" content="Wu Shuwen — 系统、智能体与证据">
+    <meta property="og:description" content="智能体基础设施、证据优先工作流与科学交互界面。">
     <meta property="og:url" content="https://dajiaohuang.github.io/">
     <meta property="og:image" content="https://github.com/dajiaohuang.png?size=1200">
     <meta name="twitter:card" content="summary">
     <script>
       document.documentElement.classList.add('js');
       try {
+        const savedLanguage = localStorage.getItem('ws-lang');
+        if (savedLanguage === 'en') {
+          document.documentElement.dataset.lang = 'en';
+          document.documentElement.lang = 'en';
+        }
         const savedTheme = localStorage.getItem('ws-theme');
         if (savedTheme === 'dark' || savedTheme === 'light') {
           document.documentElement.dataset.theme = savedTheme;
@@ -49,55 +54,61 @@
     </script>
   </head>
   <body>
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main" data-i18n="skip">跳至正文</a>
 
     <header class="site-header" data-header>
-      <a class="wordmark" href="#top" aria-label="Wu Shuwen, back to top">
+      <a class="wordmark" href="#top" aria-label="Wu Shuwen，返回顶部" data-i18n-aria="backTop">
         <span class="wordmark-name">WS</span>
         <span class="wordmark-meta">Singapore · UTC+8</span>
       </a>
-      <nav class="site-nav" aria-label="Primary navigation">
-        <a href="#work">Work</a>
-        <a href="#method">Method</a>
-        <a href="#research">Research</a>
-        <a href="#about">About</a>
+      <nav class="site-nav" aria-label="主导航" data-i18n-aria="primaryNav">
+        <a href="#work" data-i18n="navWork">作品</a>
+        <a href="#contributions" data-i18n="navContributions">贡献</a>
+        <a href="#method" data-i18n="navMethod">方法</a>
+        <a href="#research" data-i18n="navResearch">研究</a>
+        <a href="#about" data-i18n="navAbout">关于</a>
       </nav>
-      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark theme">
-        <span aria-hidden="true" class="theme-toggle-track"><span class="theme-toggle-dot"></span></span>
-        <span class="theme-toggle-label">Theme</span>
-      </button>
+      <div class="header-actions">
+        <button class="language-toggle" type="button" data-language-toggle aria-label="Switch to English">
+          <span data-language-current>中</span><span aria-hidden="true"> / </span><span data-language-other>EN</span>
+        </button>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="切换至深色主题">
+          <span aria-hidden="true" class="theme-toggle-track"><span class="theme-toggle-dot"></span></span>
+          <span class="theme-toggle-label" data-i18n="theme">主题</span>
+        </button>
+      </div>
     </header>
 
     <main id="main">
       <section class="hero" id="top" aria-labelledby="hero-title">
         <div class="hero-copy">
-          <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Building in public</p>
-          <h1 id="hero-title">I build systems that can <em>explain themselves.</em></h1>
-          <p class="hero-lede">Agent infrastructure, evidence-first workflows, and scientific interfaces—designed with explicit authority, reproducible state, and honest boundaries.</p>
+          <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> <span data-i18n="heroEyebrow">持续公开构建</span></p>
+          <h1 id="hero-title" data-i18n-html="heroTitle">我构建能够<em>解释自己</em>的系统。</h1>
+          <p class="hero-lede" data-i18n="heroLede">智能体基础设施、证据优先工作流与科学交互界面——以明确权限、可复现状态和诚实边界为设计起点。</p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#work">Explore selected work <span aria-hidden="true">↘</span></a>
-            <a class="button button-quiet" href="mailto:mikewushuwen@gmail.com">Start a conversation</a>
+            <a class="button button-primary" href="#work"><span data-i18n="exploreWork">查看代表作品</span> <span aria-hidden="true">↘</span></a>
+            <a class="button button-quiet" href="mailto:mikewushuwen@gmail.com" data-i18n="startConversation">与我联系</a>
           </div>
           <dl class="coordinates" aria-label="Current coordinates">
             <div>
-              <dt>Now</dt>
-              <dd>Software Engineer Intern · TikTok</dd>
+              <dt data-i18n="coordNow">此刻</dt>
+              <dd data-i18n="coordNowValue">TikTok · 软件工程实习生</dd>
             </div>
             <div>
-              <dt>Study</dt>
-              <dd>MSc, Data Science &amp; Machine Learning · NUS</dd>
+              <dt data-i18n="coordStudy">在读</dt>
+              <dd data-i18n="coordStudyValue">新加坡国立大学 · 数据科学与机器学习硕士</dd>
             </div>
             <div>
-              <dt>Range</dt>
-              <dd>Agents · MCP · scientific computing · open source</dd>
+              <dt data-i18n="coordRange">方向</dt>
+              <dd data-i18n="coordRangeValue">智能体 · MCP · 科学计算 · 开源</dd>
             </div>
           </dl>
         </div>
 
         <div class="system-map" aria-labelledby="map-title">
           <div class="map-heading">
-            <p class="utility-label" id="map-title">Current system map</p>
-            <p><span data-map-title>Wu Shuwen</span> <span aria-hidden="true">/</span> <span data-map-kind>builder</span></p>
+            <p class="utility-label" id="map-title" data-i18n="mapHeading">当前系统图</p>
+            <p><span data-map-title>Wu Shuwen</span> <span aria-hidden="true">/</span> <span data-map-kind>构建者</span></p>
           </div>
           <div class="map-canvas">
             <svg class="map-lines" viewBox="0 0 600 480" aria-hidden="true">
@@ -107,48 +118,48 @@
               <path d="M300 240 C392 242 478 272 535 334"></path>
               <path d="M300 240 C302 314 305 372 315 429"></path>
             </svg>
-            <a class="map-node map-node-center" href="#about" data-map-node data-title="Wu Shuwen" data-kind="builder" data-copy="I connect product engineering, research discipline, and repository stewardship.">
+            <a class="map-node map-node-center" href="#about" data-map-node data-title="Wu Shuwen" data-kind-zh="构建者" data-kind-en="builder" data-copy-zh="我把产品工程、研究纪律与仓库维护连接在一起。" data-copy-en="I connect product engineering, research discipline, and repository stewardship.">
               <span>WS</span>
             </a>
-            <a class="map-node map-node-archive" href="#archive-apply" data-map-node data-title="Archive &amp; Apply" data-kind="evidence" data-copy="A source-first system for turning experience into traceable application material.">
+            <a class="map-node map-node-archive" href="#archive-apply" data-map-node data-title="Archive &amp; Apply" data-kind-zh="证据" data-kind-en="evidence" data-copy-zh="把经历证据转化为可追溯申请材料的来源优先系统。" data-copy-en="A source-first system for turning experience into traceable application material.">
               <span>Archive<br>&amp; Apply</span>
             </a>
-            <a class="map-node map-node-repostew" href="#repostew" data-map-node data-title="RepoStew" data-kind="stewardship" data-copy="A careful operating system for auditing, fixing, and maintaining repositories.">
+            <a class="map-node map-node-repostew" href="#repostew" data-map-node data-title="RepoStew" data-kind-zh="维护" data-kind-en="stewardship" data-copy-zh="用于审计、修复与持续维护仓库的谨慎工作系统。" data-copy-en="A careful operating system for auditing, fixing, and maintaining repositories.">
               <span>Repo<br>Stew</span>
             </a>
-            <a class="map-node map-node-evo" href="#evo" data-map-node data-title="Evo Atlas" data-kind="deep time" data-copy="A static-first evidence atlas for 4.567 billion years of Earth and life history.">
+            <a class="map-node map-node-evo" href="#evo" data-map-node data-title="Evo Atlas" data-kind-zh="深时" data-kind-en="deep time" data-copy-zh="面向 45.67 亿年地球与生命史的静态优先证据图谱。" data-copy-en="A static-first evidence atlas for 4.567 billion years of Earth and life history.">
               <span>Evo</span>
             </a>
-            <a class="map-node map-node-solar" href="#solar" data-map-node data-title="Solar Atlas" data-kind="orbital systems" data-copy="A browser-native Solar System dynamics and small-body atlas.">
+            <a class="map-node map-node-solar" href="#solar" data-map-node data-title="Solar Atlas" data-kind-zh="轨道系统" data-kind-en="orbital systems" data-copy-zh="浏览器原生的太阳系动力学与小天体图谱。" data-copy-en="A browser-native Solar System dynamics and small-body atlas.">
               <span>Solar</span>
             </a>
-            <a class="map-node map-node-saga" href="#sagasmith" data-map-node data-title="SagaSmith" data-kind="agent platform" data-copy="An AI-native TTRPG platform where agents interpret and engines settle state.">
+            <a class="map-node map-node-saga" href="#sagasmith" data-map-node data-title="SagaSmith" data-kind-zh="智能体平台" data-kind-en="agent platform" data-copy-zh="由智能体负责理解、规则引擎负责结算状态的 AI 原生 TTRPG 平台。" data-copy-en="An AI-native TTRPG platform where agents interpret and engines settle state.">
               <span>Saga<br>Smith</span>
             </a>
           </div>
           <div class="map-readout" aria-live="polite">
-            <span class="utility-label">Signal</span>
-            <p data-map-copy>I connect product engineering, research discipline, and repository stewardship.</p>
+            <span class="utility-label" data-i18n="signal">信号</span>
+            <p data-map-copy>我把产品工程、研究纪律与仓库维护连接在一起。</p>
           </div>
         </div>
       </section>
 
       <section class="work section" id="work" aria-labelledby="work-title">
         <div class="section-heading reveal">
-          <p class="eyebrow">Selected systems</p>
-          <h2 id="work-title">Five projects, one operating idea.</h2>
-          <p>Useful systems make their sources, state, permissions, and failure modes visible. These projects apply that idea at very different scales.</p>
+          <p class="eyebrow" data-i18n="workEyebrow">精选系统</p>
+          <h2 id="work-title" data-i18n="workTitle">五个项目，一套方法。</h2>
+          <p data-i18n="workIntro">好系统应当让来源、状态、权限和故障边界可见。这五个项目在不同尺度上实践同一原则。</p>
         </div>
 
         <article class="project project-featured reveal" id="sagasmith">
           <div class="project-copy">
             <div class="project-topline">
-              <p class="project-domain">Agent platform · multi-repository system</p>
-              <span class="project-state">Active alpha</span>
+              <p class="project-domain" data-i18n="sagaDomain">智能体平台 · 多仓库系统</p>
+              <span class="project-state" data-i18n="activeAlpha">活跃 Alpha</span>
             </div>
             <h3>SagaSmith</h3>
-            <p class="project-thesis">A world should remember every choice—without asking the model to become the database.</p>
-            <p>SagaSmith is an AI-native TTRPG platform spanning a local Agent Kit, a hosted web product, system-neutral runtime primitives, and D&amp;D, CoC, and narrative domains. Agents interpret and host; deterministic engines and authoritative MCP services own rules and persistent state.</p>
+            <p class="project-thesis" data-i18n="sagaThesis">一个世界应当记住每次选择，而不是让模型充当数据库。</p>
+            <p data-i18n="sagaDesc">SagaSmith 是一个 AI 原生 TTRPG 平台，覆盖本地 Agent Kit、托管网页产品、系统无关运行时，以及 D&amp;D、CoC 与叙事领域。智能体负责理解和主持；确定性引擎与权威 MCP 服务管理规则和持久状态。</p>
             <ul class="tag-list" aria-label="SagaSmith themes">
               <li>MCP 2026-07-28</li>
               <li>authority boundaries</li>
@@ -156,8 +167,8 @@
               <li>Python / TypeScript</li>
             </ul>
             <div class="project-links">
-              <a href="https://sagasmithai.github.io/">Visit product site <span aria-hidden="true">↗</span></a>
-              <a href="https://github.com/SagaSmithAI">Explore the organization <span aria-hidden="true">↗</span></a>
+              <a href="https://sagasmithai.github.io/"><span data-i18n="visitProduct">访问产品网站</span> <span aria-hidden="true">↗</span></a>
+              <a href="https://github.com/SagaSmithAI"><span data-i18n="exploreOrg">浏览组织仓库</span> <span aria-hidden="true">↗</span></a>
             </div>
           </div>
           <div class="project-diagram saga-diagram" aria-hidden="true">
@@ -171,94 +182,141 @@
 
         <div class="project-grid">
           <article class="project reveal" id="repostew">
-            <p class="project-domain">Open-source stewardship</p>
+            <p class="project-domain" data-i18n="repoDomain">开源仓库维护</p>
             <h3>RepoStew</h3>
-            <p class="project-thesis">Contribution is a maintenance loop, not a one-shot patch.</p>
-            <p>A portable Agent Skill for finding actionable work, auditing complete repositories, producing focused fixes, verifying current GitHub state, and maintaining PRs through review and CI.</p>
+            <p class="project-thesis" data-i18n="repoThesis">贡献是一条维护闭环，而不是一次性补丁。</p>
+            <p data-i18n="repoDesc">一个可移植的 Agent Skill：寻找可执行任务、审计完整仓库、产出聚焦修复、核验 GitHub 当前状态，并持续维护 PR 直至完成评审与 CI。</p>
             <ul class="tag-list" aria-label="RepoStew themes">
               <li>GitHub</li>
               <li>evidence gates</li>
               <li>safe autonomy</li>
             </ul>
-            <a class="project-link" href="https://github.com/dajiaohuang/RepoStew_skills">Repository <span aria-hidden="true">↗</span></a>
+            <a class="project-link" href="https://github.com/dajiaohuang/RepoStew_skills"><span data-i18n="repository">查看仓库</span> <span aria-hidden="true">↗</span></a>
           </article>
 
           <article class="project reveal" id="archive-apply">
-            <p class="project-domain">Evidence-to-application workflow</p>
+            <p class="project-domain" data-i18n="archiveDomain">证据到申请的工作流</p>
             <h3>Archive &amp; Apply</h3>
-            <p class="project-thesis">Career materials should be derived from evidence, not memory.</p>
-            <p>A source-first Codex Skill that turns experience evidence and role requirements into traceable resumes, interview packs, job pipelines, and academic application materials.</p>
+            <p class="project-thesis" data-i18n="archiveThesis">职业材料应从证据派生，而不是凭记忆编写。</p>
+            <p data-i18n="archiveDesc">一个来源优先的 Codex Skill，把经历证据与职位要求转化为可追溯的简历、面试材料、求职管线与学术申请材料。</p>
             <ul class="tag-list" aria-label="Archive and Apply themes">
               <li>provenance</li>
               <li>CV / interview</li>
               <li>TeX / PDF QA</li>
             </ul>
-            <a class="project-link" href="https://github.com/dajiaohuang/Archive_and_Apply_Skill">Repository <span aria-hidden="true">↗</span></a>
+            <a class="project-link" href="https://github.com/dajiaohuang/Archive_and_Apply_Skill"><span data-i18n="repository">查看仓库</span> <span aria-hidden="true">↗</span></a>
           </article>
 
           <article class="project reveal" id="evo">
-            <p class="project-domain">Scientific interface · deep time</p>
+            <p class="project-domain" data-i18n="evoDomain">科学交互 · 深时</p>
             <h3>Evo Atlas</h3>
-            <p class="project-thesis">Explore 4.567 billion years without hiding uncertainty.</p>
-            <p>A static-first atlas linking geological time, fossil occurrence coordinates, phylogenetic hypotheses, and curated evidence. It separates navigation ontology, sampled occurrence records, and scientific maturity instead of blending them into false certainty.</p>
+            <p class="project-thesis" data-i18n="evoThesis">探索 45.67 亿年历史，同时不隐藏不确定性。</p>
+            <p data-i18n="evoDesc">一个静态优先的图谱，连接地质年代、化石产出坐标、系统发育假说与策展证据。它区分导航本体、抽样产出记录与科学成熟度，避免把它们混合成虚假的确定性。</p>
             <ul class="tag-list" aria-label="Evo Atlas themes">
               <li>React 19</li>
               <li>D3 + Leaflet</li>
               <li>13,600+ occurrences</li>
             </ul>
             <div class="project-links compact">
-              <a href="https://dajiaohuang.github.io/evo/">Live atlas <span aria-hidden="true">↗</span></a>
-              <a href="https://github.com/dajiaohuang/evo">Source <span aria-hidden="true">↗</span></a>
+              <a href="https://dajiaohuang.github.io/evo/"><span data-i18n="liveAtlas">在线图谱</span> <span aria-hidden="true">↗</span></a>
+              <a href="https://github.com/dajiaohuang/evo"><span data-i18n="source">源码</span> <span aria-hidden="true">↗</span></a>
             </div>
           </article>
 
           <article class="project reveal" id="solar">
-            <p class="project-domain">Scientific interface · orbital dynamics</p>
+            <p class="project-domain" data-i18n="solarDomain">科学交互 · 轨道动力学</p>
             <h3>Solar Atlas</h3>
-            <p class="project-thesis">Make the model—and its limits—part of the interface.</p>
-            <p>A browser-native Solar System dynamics and small-body atlas connecting spatial views, orbital-element space, event search, mission analysis, and reproducible scene URLs. Built for exploration and teaching, not operational navigation.</p>
+            <p class="project-thesis" data-i18n="solarThesis">让模型及其适用边界成为界面的一部分。</p>
+            <p data-i18n="solarDesc">浏览器原生的太阳系动力学与小天体图谱，连接空间视图、轨道根数空间、事件检索、任务分析与可复现场景 URL。它服务于探索和教学，而非实际导航。</p>
             <ul class="tag-list" aria-label="Solar Atlas themes">
               <li>React + Three.js</li>
               <li>MPCORB</li>
               <li>scientific contract</li>
             </ul>
             <div class="project-links compact">
-              <a href="https://dajiaohuang.github.io/solar/">Live atlas <span aria-hidden="true">↗</span></a>
-              <a href="https://github.com/dajiaohuang/solar">Source <span aria-hidden="true">↗</span></a>
+              <a href="https://dajiaohuang.github.io/solar/"><span data-i18n="liveAtlas">在线图谱</span> <span aria-hidden="true">↗</span></a>
+              <a href="https://github.com/dajiaohuang/solar"><span data-i18n="source">源码</span> <span aria-hidden="true">↗</span></a>
             </div>
           </article>
         </div>
       </section>
 
+      <section class="contributions section" id="contributions" aria-labelledby="contributions-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="contribEyebrow">开源贡献</p>
+          <h2 id="contributions-title" data-i18n="contribTitle">在自己的项目之外，参与真实的软件维护。</h2>
+          <p data-i18n="contribIntro">以下只收录由其他个人或组织拥有、且贡献已合并的公开仓库。数字来自可核验的 GitHub PR 记录。</p>
+        </div>
+        <a class="activity-panel reveal" href="https://github.com/dajiaohuang?tab=contributions" aria-label="查看 Wu Shuwen 的 GitHub Contribution Activity" data-i18n-aria="activityAria">
+          <div class="activity-heading">
+            <span class="utility-label">Contribution Activity</span>
+            <span data-i18n="dailyRefresh">每日自动刷新 ↗</span>
+          </div>
+          <picture class="contribution-animation">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dajiaohuang/dajiaohuang/main/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dajiaohuang/dajiaohuang/main/output/github-contribution-grid-snake.svg">
+            <img src="https://raw.githubusercontent.com/dajiaohuang/dajiaohuang/main/output/github-contribution-grid-snake.svg" alt="Wu Shuwen 的 GitHub Contribution Activity 动画" data-i18n-alt="activityAlt" width="900" height="180" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+          </picture>
+          <p class="activity-static" data-i18n="motionPaused">已根据你的减少动态效果偏好暂停动画。打开 GitHub 查看贡献记录。</p>
+        </a>
+        <div class="contribution-list">
+          <a class="contribution-item reveal" href="https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>PraisonAI</strong><small data-i18n="praisonFocus">智能体运行时、可靠性与桌面端</small></span><span class="contribution-count">30 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>VisActor / VChart</strong><small data-i18n="vchartFocus">构建修复与文档链接完整性</small></span><span class="contribution-count">9 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>ByteDance / g3</strong><small data-i18n="g3Focus">Rust、跨平台命令、CI 与文档</small></span><span class="contribution-count">6 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>ByteDance / vArmor</strong><small data-i18n="varmorFocus">策略正确性、并发与测试</small></span><span class="contribution-count">5 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>HKUDS / nanobot</strong><small data-i18n="nanobotFocus">安全边界、Windows 支持与会话恢复</small></span><span class="contribution-count">4 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>Volcengine / OpenViking</strong><small data-i18n="openvikingFocus">记忆索引、补丁处理与 Go SDK</small></span><span class="contribution-count">3 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>ruvnet / ruflo</strong><small data-i18n="rufloFocus">会话状态、Windows 启动与 MCP 工具选择</small></span><span class="contribution-count">3 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+          <a class="contribution-item reveal" href="https://github.com/web-infra-dev/rslib/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged">
+            <span><strong>Web Infra / Rslib</strong><small data-i18n="rslibFocus">Node 归档性能与文档维护</small></span><span class="contribution-count">2 <small data-i18n="mergedPRs">个已合并 PR</small></span>
+          </a>
+        </div>
+        <p class="contribution-note reveal"><span data-i18n="contribNote">统计核验于 2026-08-29；不含 dajiaohuang 与 SagaSmithAI 名下仓库。</span> <a href="https://github.com/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged+-user%3Adajiaohuang+-org%3ASagaSmithAI" data-i18n="viewAllContribs">查看全部外部贡献 ↗</a></p>
+      </section>
+
       <section class="method section" id="method" aria-labelledby="method-title">
         <div class="section-heading reveal">
-          <p class="eyebrow">How I work</p>
-          <h2 id="method-title">Interfaces on top. Contracts underneath.</h2>
+          <p class="eyebrow" data-i18n="methodEyebrow">我的工作方式</p>
+          <h2 id="method-title" data-i18n="methodTitle">界面在上，契约在下。</h2>
         </div>
         <div class="principle-grid">
           <article class="principle reveal">
             <span class="principle-mark">{ }</span>
-            <h3>Make authority explicit</h3>
-            <p>Separate the model from the source of truth. Every write path should reveal who may act, against which revision, and with what scope.</p>
+            <h3 data-i18n="authorityTitle">明确权限</h3>
+            <p data-i18n="authorityDesc">把模型与事实来源分开。每一条写入路径都应说明谁可以行动、针对哪个版本、作用范围是什么。</p>
           </article>
           <article class="principle reveal">
             <span class="principle-mark">↺</span>
-            <h3>Design for maintenance</h3>
-            <p>Verification, rollback, observability, and handoff are product features. A shipped system begins a maintenance relationship.</p>
+            <h3 data-i18n="maintenanceTitle">面向维护设计</h3>
+            <p data-i18n="maintenanceDesc">验证、回滚、可观测性与交接都是产品能力。系统交付之时，维护关系才刚刚开始。</p>
           </article>
           <article class="principle reveal">
             <span class="principle-mark">≠</span>
-            <h3>Keep evidence distinct</h3>
-            <p>A source, an inference, and a polished claim are not interchangeable. Good tools keep the path between them inspectable.</p>
+            <h3 data-i18n="evidenceTitle">区分证据层级</h3>
+            <p data-i18n="evidenceDesc">来源、推断与润色后的表述并不等价。好的工具会让它们之间的路径始终可检查。</p>
           </article>
         </div>
       </section>
 
       <section class="research section" id="research" aria-labelledby="research-title">
         <div class="section-heading reveal">
-          <p class="eyebrow">Research &amp; earlier work</p>
-          <h2 id="research-title">From human motion to agent systems.</h2>
-          <p>My research foundation is computer vision and multimodal understanding; my current work brings the same emphasis on measurement and reproducibility to agents and software systems.</p>
+          <p class="eyebrow" data-i18n="researchEyebrow">研究与早期工作</p>
+          <h2 id="research-title" data-i18n="researchTitle">从人体运动到智能体系统。</h2>
+          <p data-i18n="researchIntro">我的研究基础是计算机视觉与多模态理解；现在，我把同样的测量意识和可复现要求带入智能体与软件系统。</p>
         </div>
         <div class="research-list">
           <article class="research-item reveal">
@@ -266,8 +324,8 @@
             <div>
               <p class="research-venue">CVPR</p>
               <h3>Inter-X: Towards Versatile Human-Human Interaction Analysis</h3>
-              <p>Co-authored a large dual-human interaction dataset and benchmark spanning motion, text, interaction order, relationship, and personality annotations.</p>
-              <p class="research-links"><a href="https://arxiv.org/abs/2312.16051">Paper</a><a href="https://liangxuy.github.io/inter-x/">Project</a><a href="https://doi.org/10.1109/CVPR52733.2024.02101">DOI</a></p>
+              <p data-i18n="interxDesc">共同构建大型双人交互数据集与基准，涵盖动作、文本、交互顺序、关系和性格标注。</p>
+              <p class="research-links"><a href="https://arxiv.org/abs/2312.16051" data-i18n="paper">论文</a><a href="https://liangxuy.github.io/inter-x/" data-i18n="project">项目</a><a href="https://doi.org/10.1109/CVPR52733.2024.02101">DOI</a></p>
             </div>
           </article>
           <article class="research-item reveal">
@@ -275,16 +333,16 @@
             <div>
               <p class="research-venue">ECCV</p>
               <h3>HIMO: Full-Body Human Interaction with Multiple Objects</h3>
-              <p>Co-authored a benchmark for fine-grained, full-body human–multi-object interaction synthesis across 3.3K sequences and 53 object types.</p>
-              <p class="research-links"><a href="https://arxiv.org/abs/2407.12371">Paper</a><a href="https://lvxintao.github.io/himo/">Project</a><a href="https://doi.org/10.1007/978-3-031-73235-5_17">DOI</a></p>
+              <p data-i18n="himoDesc">共同构建细粒度全身人体—多物体交互合成基准，包含 3,300 个序列与 53 类物体。</p>
+              <p class="research-links"><a href="https://arxiv.org/abs/2407.12371" data-i18n="paper">论文</a><a href="https://lvxintao.github.io/himo/" data-i18n="project">项目</a><a href="https://doi.org/10.1007/978-3-031-73235-5_17">DOI</a></p>
             </div>
           </article>
           <article class="research-item reveal">
             <div class="research-year">3rd</div>
             <div>
               <p class="research-venue">CVPR 2024 Ego-Exo4D Challenge</p>
-              <h3>3D human body motion estimation</h3>
-              <p>Placed third in the Body Pose track as team SJTU-SEIEE with a level-wise Transformer for egocentric and exocentric 3D keypoint estimation.</p>
+              <h3 data-i18n="challengeTitle">三维人体运动估计</h3>
+              <p data-i18n="challengeDesc">以 SJTU-SEIEE 队成员身份获得 Body Pose 赛道第三名，使用分层 Transformer 进行第一与第三人称三维关键点估计。</p>
             </div>
           </article>
         </div>
@@ -294,35 +352,35 @@
         <div class="about-portrait reveal">
           <img src="https://github.com/dajiaohuang.png?size=640" alt="Wu Shuwen" width="640" height="640" loading="lazy">
           <div class="portrait-caption">
-            <span class="utility-label">Current base</span>
-            <span>Singapore</span>
+            <span class="utility-label" data-i18n="currentBase">当前所在地</span>
+            <span data-i18n="singapore">新加坡</span>
           </div>
         </div>
         <div class="about-copy reveal">
-          <p class="eyebrow">About</p>
+          <p class="eyebrow" data-i18n="aboutEyebrow">关于</p>
           <h2 id="about-title">Wu Shuwen</h2>
-          <p class="about-lede">I am a software engineer and MSc student working across agent infrastructure, retrieval, scientific visualization, and open-source maintenance.</p>
-          <p>I study Data Science and Machine Learning at the National University of Singapore and graduated from Shanghai Jiao Tong University’s IEEE Honor Class in Information Security. Before my current TikTok internship, I worked on enterprise agentic RAG at China Pacific Insurance and human-motion research at SJTU’s AI Institute.</p>
+          <p class="about-lede" data-i18n="aboutLede">我是一名软件工程师和硕士生，工作横跨智能体基础设施、检索、科学可视化与开源维护。</p>
+          <p data-i18n="aboutDesc">我在新加坡国立大学攻读数据科学与机器学习硕士，本科毕业于上海交通大学 IEEE 试点班信息安全专业。在目前的 TikTok 实习之前，我曾在中国太平洋保险参与企业级智能体 RAG，并在上海交通大学人工智能研究院从事人体运动研究。</p>
           <div class="timeline" aria-label="Experience timeline">
             <div class="timeline-item">
-              <span>Now</span>
-              <p><strong>TikTok</strong><br>Software Engineer Intern</p>
+              <span data-i18n="timelineNow">现在</span>
+              <p><strong>TikTok</strong><br><span data-i18n="tiktokRole">软件工程实习生</span></p>
             </div>
             <div class="timeline-item">
               <span>2025–</span>
-              <p><strong>National University of Singapore</strong><br>MSc, Data Science &amp; Machine Learning</p>
+              <p><strong data-i18n="nusName">新加坡国立大学</strong><br><span data-i18n="nusDegree">数据科学与机器学习硕士</span></p>
             </div>
             <div class="timeline-item">
               <span>2025</span>
-              <p><strong>China Pacific Insurance</strong><br>Algorithm Intern · agentic RAG and database troubleshooting</p>
+              <p><strong data-i18n="cpicName">中国太平洋保险</strong><br><span data-i18n="cpicRole">算法实习生 · 智能体 RAG 与数据库故障排查</span></p>
             </div>
             <div class="timeline-item">
               <span>2021–25</span>
-              <p><strong>Shanghai Jiao Tong University</strong><br>BEng, Information Security · IEEE Honor Class</p>
+              <p><strong data-i18n="sjtuName">上海交通大学</strong><br><span data-i18n="sjtuDegree">信息安全工学学士 · IEEE 试点班</span></p>
             </div>
           </div>
           <div class="contact-row">
-            <a href="mailto:mikewushuwen@gmail.com">Email</a>
+            <a href="mailto:mikewushuwen@gmail.com" data-i18n="email">邮箱</a>
             <a href="https://github.com/dajiaohuang">GitHub</a>
             <a href="https://www.linkedin.com/in/wu-shuwen-ab3977259">LinkedIn</a>
           </div>
@@ -331,8 +389,8 @@
     </main>
 
     <footer class="site-footer">
-      <p>Designed and built by Wu Shuwen. No trackers, no remote fonts, no framework.</p>
-      <p><span data-year>2026</span> · <a href="https://github.com/dajiaohuang/dajiaohuang.github.io">View source</a></p>
+      <p data-i18n="footerNote">由 Wu Shuwen 设计与构建。无追踪器、无远程字体、无框架。</p>
+      <p><span data-year>2026</span> · <a href="https://github.com/dajiaohuang/dajiaohuang.github.io" data-i18n="viewSource">查看源码</a></p>
     </footer>
 
     <script src="/app.js" defer></script>

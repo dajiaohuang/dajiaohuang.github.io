@@ -2,7 +2,7 @@
 
 [Live site](https://dajiaohuang.github.io/) · [GitHub profile](https://github.com/dajiaohuang)
 
-A hand-built, zero-dependency portfolio for Wu Shuwen. The site presents five connected bodies of work—SagaSmith, RepoStew, Archive & Apply, Evo Atlas, and Solar Atlas—alongside research and experience.
+A hand-built, zero-dependency, Chinese-first bilingual portfolio for Wu Shuwen. The site presents five connected bodies of work—SagaSmith, RepoStew, Archive & Apply, Evo Atlas, and Solar Atlas—alongside verified external open-source contributions, research, and experience.
 
 ## Design direction
 
@@ -26,7 +26,7 @@ Open `http://127.0.0.1:4187/`.
 ```text
 index.html          content, semantics, metadata, and JSON-LD
 styles.css          visual system, responsive layout, print, reduced motion
-app.js              theme, map readout, reveal, and navigation state
+app.js              language, theme, map readout, reveal, and navigation state
 404.html            recovery page
 assets/favicon.svg  first-party vector mark
 tests/site-smoke.cjs optional Playwright smoke and responsive checks

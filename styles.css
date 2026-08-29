@@ -254,10 +254,17 @@ h3 {
   transform-origin: left;
 }
 
-.theme-toggle {
+.header-actions {
   display: inline-flex;
   align-items: center;
   justify-self: end;
+  gap: 0.45rem;
+}
+
+.language-toggle,
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
   gap: 0.55rem;
   padding: 0.45rem 0.55rem;
   color: var(--muted);
@@ -265,6 +272,18 @@ h3 {
   background: transparent;
   font: 650 0.82rem/1 var(--body);
   cursor: pointer;
+}
+
+.language-toggle {
+  border-right: 1px solid var(--line);
+  border-radius: 0;
+  font-family: var(--mono);
+  letter-spacing: 0.04em;
+}
+
+.language-toggle:hover,
+.theme-toggle:hover {
+  color: var(--ink);
 }
 
 .theme-toggle-track {
@@ -707,6 +726,113 @@ h3 {
   min-height: 13rem;
 }
 
+.contributions {
+  border-top: 1px solid var(--line-strong);
+}
+
+.activity-panel {
+  display: block;
+  margin-bottom: 2.5rem;
+  padding: 1.25rem;
+  color: var(--ink);
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  text-decoration: none;
+  overflow: hidden;
+}
+
+.activity-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
+.contribution-animation,
+.contribution-animation img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.activity-static {
+  display: none;
+  margin: 0;
+  color: var(--muted);
+}
+
+.contribution-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  border-top: 1px solid var(--line-strong);
+  border-left: 1px solid var(--line);
+}
+
+.contribution-item {
+  display: flex;
+  min-height: 8.25rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin: -1px 0 0 -1px;
+  padding: 1.5rem;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  text-decoration: none;
+  transition: border-color 180ms ease, background 180ms ease, transform 180ms ease;
+}
+
+.contribution-item:hover {
+  z-index: 1;
+  border-color: var(--build);
+  background: color-mix(in srgb, var(--build) 5%, transparent);
+  transform: translateY(-2px);
+}
+
+.contribution-item > span:first-child {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.contribution-item strong {
+  font: 500 clamp(1.2rem, 2vw, 1.65rem)/1.1 var(--display);
+}
+
+.contribution-item small,
+.contribution-note {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.contribution-count {
+  flex: 0 0 auto;
+  color: var(--build);
+  font: 500 2rem/1 var(--display);
+  text-align: right;
+}
+
+.contribution-count small {
+  display: block;
+  margin-top: 0.35rem;
+  font: 600 0.62rem/1.2 var(--mono);
+  text-transform: uppercase;
+}
+
+.contribution-note {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contribution-note a {
+  flex: 0 0 auto;
+  color: var(--ink);
+  font-weight: 700;
+}
+
 .diagram-agent,
 .diagram-mcp,
 .diagram-state {
@@ -939,12 +1065,24 @@ h3 {
     bottom: 0;
     left: 0;
     z-index: 40;
-    justify-content: space-around;
+    width: 100%;
+    max-width: 100vw;
+    justify-content: flex-start;
+    gap: 1.2rem;
     min-height: 58px;
     padding: 0.5rem 0.8rem max(0.5rem, env(safe-area-inset-bottom));
+    overflow-x: auto;
     border-top: 1px solid var(--line);
     background: var(--header);
     backdrop-filter: blur(18px);
+    overscroll-behavior-inline: contain;
+    scrollbar-width: none;
+  }
+
+  .site-nav::before,
+  .site-nav::after {
+    flex: 1 0 0.01px;
+    content: "";
   }
 
   .site-nav a::after {
@@ -1001,8 +1139,25 @@ h3 {
     padding-inline: 1rem;
   }
 
+  .site-nav {
+    gap: 1rem;
+  }
+
+  .site-nav a {
+    flex: 0 0 auto;
+    font-size: 0.78rem;
+  }
+
   .wordmark-meta {
     display: none;
+  }
+
+  .contribution-list {
+    grid-template-columns: 1fr;
+  }
+
+  .contribution-note {
+    display: grid;
   }
 
   .hero,
@@ -1085,6 +1240,11 @@ h3 {
 }
 
 @media (max-width: 430px) {
+  .language-toggle,
+  .theme-toggle {
+    padding-inline: 0.35rem;
+  }
+
   .hero-actions,
   .hero-actions .button {
     width: 100%;
@@ -1144,6 +1304,14 @@ h3 {
   .js .reveal {
     opacity: 1;
     transform: none;
+  }
+
+  .contribution-animation {
+    display: none;
+  }
+
+  .activity-static {
+    display: block;
   }
 }
 

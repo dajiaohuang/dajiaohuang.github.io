@@ -95,6 +95,10 @@ let browser;
   }
   const activityResponse = await desktopContext.request.get('https://raw.githubusercontent.com/dajiaohuang/dajiaohuang/main/output/github-contribution-grid-snake.svg');
   assert.equal(activityResponse.status(), 200, 'contribution activity asset');
+  for (const projectSite of ['https://dajiaohuang.github.io/RepoStew_skills/', 'https://dajiaohuang.github.io/Archive_and_Apply_Skill/']) {
+    const projectResponse = await desktopContext.request.get(projectSite);
+    assert.equal(projectResponse.status(), 200, projectSite);
+  }
 
   await page.goto(`${baseUrl}/404.html`, { waitUntil: 'networkidle' });
   assert.equal(await page.locator('h1').innerText(), '这条路径到这里结束。');

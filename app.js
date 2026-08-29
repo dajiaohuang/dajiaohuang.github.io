@@ -20,7 +20,7 @@
     sagaDesc: 'SagaSmith is an AI-native TTRPG platform spanning a local Agent Kit, a hosted web product, system-neutral runtime primitives, and D&D, CoC, and narrative domains. Agents interpret and host; deterministic engines and authoritative MCP services own rules and persistent state.',
     visitProduct: 'Visit product site', exploreOrg: 'Explore the organization', repoDomain: 'Open-source stewardship', repoThesis: 'Contribution is a maintenance loop, not a one-shot patch.',
     repoDesc: 'A portable Agent Skill for finding actionable work, auditing complete repositories, producing focused fixes, verifying current GitHub state, and maintaining PRs through review and CI.',
-    repository: 'Repository', archiveDomain: 'Evidence-to-application workflow', archiveThesis: 'Career materials should be derived from evidence, not memory.',
+    repository: 'Repository', projectSite: 'Project site', archiveDomain: 'Evidence-to-application workflow', archiveThesis: 'Career materials should be derived from evidence, not memory.',
     archiveDesc: 'A source-first Codex Skill that turns experience evidence and role requirements into traceable resumes, interview packs, job pipelines, and academic application materials.',
     evoDomain: 'Scientific interface · deep time', evoThesis: 'Explore 4.567 billion years without hiding uncertainty.',
     evoDesc: 'A static-first atlas linking geological time, fossil occurrence coordinates, phylogenetic hypotheses, and curated evidence. It separates navigation ontology, sampled occurrence records, and scientific maturity instead of blending them into false certainty.',

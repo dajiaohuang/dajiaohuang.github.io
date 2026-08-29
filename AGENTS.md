@@ -1,62 +1,44 @@
-# AGENTS.md
+# Personal site maintenance
 
-This file provides guidance to Codex (Codex.ai/code) when working with code in this repository.
-
-## Project Overview
-
-This is a Jekyll-based academic personal homepage (forked from the "AcadHomepage" template), deployed via GitHub Pages at `dajiaohuang.github.io`. The site is for Wu Shuwen, a Master's student at NUS.
-
-## Commands
-
-```bash
-# Start local dev server with live reload
-bash run_server.sh
-# Equivalent to:
-bundle exec jekyll liveserve
-
-# Install dependencies (if Gemfile.lock is missing or stale)
-bundle install
-```
-
-The site is served at `http://127.0.0.1:4000`. Jekyll's `liveserve` auto-rebuilds on source changes.
+This repository is the static personal site for Wu Shuwen, published at `https://dajiaohuang.github.io/` from the root of `main`.
 
 ## Architecture
 
-**Build system**: Uses the `github-pages` gem (not standalone Jekyll), which locks the Jekyll version and included plugins to match GitHub Pages' production environment. The Gemfile also pulls in `hawkins` for live reload via `liveserve`.
+- `index.html` is the only content source and owns metadata, JSON-LD, navigation, projects, research, experience, and contact links.
+- `styles.css` owns all visual tokens and responsive behavior.
+- `app.js` progressively enhances theme selection, the project map, reveal motion, and active navigation.
+- `404.html` is a standalone recovery page that reuses the main stylesheet.
+- `.nojekyll` is required. Do not reintroduce Jekyll, a package manager, a build system, or a deployment workflow without explicit approval.
 
-**Page structure** (single-page site):
-- `_layouts/default.html` — the only layout; assembles head, masthead, sidebar, content, and scripts
-- `_pages/about.md` — the sole content page, mapped to `/` via `permalink: /`. All sections (About Me, News, Publications, etc.) live in this one Markdown file. Uses raw HTML mixed with Markdown.
-- `_data/navigation.yml` — top nav links pointing to anchor fragments on the single page
+## Content rules
 
-**Key includes**:
-- `_includes/author-profile.html` — sidebar with avatar, bio, and social/contact links configured in `_config.yml` under `author`
-- `_includes/fetch_google_scholar_stats.html` — fetches `gs_data.json` from the `google-scholar-stats` branch via jsDelivr CDN (or raw GitHub if `google_scholar_stats_use_cdn: false`), renders total citations and per-paper citation counts for elements with class `show_paper_citations`
-- `_includes/head.html`, `_includes/head/custom.html`, `_includes/seo.html` — meta tags, SEO, CSS
-- `_includes/masthead.html` — top navigation bar
-- `_includes/sidebar.html` — conditionally renders author profile
+- Keep public claims traceable to the linked repository, paper, organization profile, or the user’s current public biography.
+- Preserve contribution boundaries such as “co-authored,” “built,” or “maintained.”
+- Do not publish private employer details, credentials, analytics, or contact data beyond the email already present on the site.
+- Keep SagaSmith maturity wording aligned with the current organization profile; do not turn alpha or experimental status into a production claim.
+- Keep Evo and Solar scientific limits visible; do not present either as certified navigation, exhaustive fossil coverage, or ground truth.
 
-**Styling**: SCSS in `_sass/`, sourced from the Minimal Mistakes Jekyll theme. Entry point is `assets/css/main.scss`. Custom styles (`.paper-box`, `.badge`, anchor offset) are appended at the bottom of `assets/css/main.scss`.
+## Visual rules
 
-**JavaScript**: jQuery-based. Entry point `assets/js/_main.js` initializes plugins (FitVids, Stickyfill, SmoothScroll, Magnific Popup). `assets/js/collapse.js` handles collapsible sections.
+- The system map is the single signature element. Keep the rest of the layout quiet and evidence-led.
+- Derive color changes from the custom properties at the top of `styles.css`.
+- Maintain keyboard focus, semantic headings, reduced motion, dark mode, and mobile layouts down to 320 px.
+- Avoid remote fonts, icon libraries, frontend frameworks, and decorative assets that do not carry information.
 
-**Google Scholar integration**: A GitHub Actions workflow (`.github/workflows/google_scholar_crawler.yaml`) runs daily at 08:00 UTC and on each page build. It executes `google_scholar_crawler/main.py`, which crawls Google Scholar for the ID set in the `GOOGLE_SCHOLAR_ID` repository secret, then force-pushes the resulting JSON to the `google-scholar-stats` branch. The frontend loads this data client-side.
+## Validation
 
-## Configuration
+Serve the repository over HTTP rather than opening `file://` so root-relative paths match GitHub Pages.
 
-All site configuration is in `_config.yml`:
-- `title`, `description`, `repository` — basic site identity
-- `author` hash — name, avatar path (relative to repo root), bio, location, googlescholar URL, email, and optional social links
-- `google_scholar_stats_use_cdn` — whether to fetch citation data via jsDelivr CDN or raw GitHub URLs
-- `google_analytics_id` — optional GA tracking ID
-- SEO verification keys (`google_site_verification`, `bing_site_verification`, `baidu_site_verification`)
+```bash
+python -m http.server 4187
+```
 
-## Content Editing
+Verify at minimum:
 
-The main page is `_pages/about.md`. It supports:
-- Standard Markdown and inline HTML
-- `<span class='anchor' id='some-id'></span>` for navigation anchor points
-- `<div class="paper-box">` with nested `paper-box-image`/`paper-box-text` for publication entries
-- `<span class='show_paper_citations' data='PAPER_ID'></span>` to display per-paper Google Scholar citation counts (the `data` attribute holds the Google Scholar paper ID)
-
-Images go in `images/`. The avatar is `images/avatar.png` (referenced as `image/avatar.png` in `_config.yml`).
+- no console or page errors;
+- every internal asset returns 200;
+- navigation, project-map links, theme toggle, and 404 recovery work;
+- no horizontal overflow at 1440, 768, 390, and 320 px;
+- all links have visible keyboard focus;
+- the page remains readable with JavaScript disabled and reduced motion enabled;
+- HTML metadata, JSON-LD, `robots.txt`, sitemap, and manifest use the production origin.

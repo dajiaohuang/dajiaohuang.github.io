@@ -8,10 +8,10 @@ A hand-built, zero-dependency, Chinese-first bilingual portfolio for Wu Shuwen. 
 
 - **Subject:** a software engineer working across agent systems, scientific interfaces, and open-source stewardship
 - **Audience:** engineering teams, research collaborators, and open-source maintainers
-- **Single job:** make the work, the operating principles behind it, and the best next links understandable in under a minute
-- **Signature:** an interactive system map connecting the five projects to a single evidence-and-authority thesis
+- **Single job:** make the current role, five projects, verified contributions, research, and contact paths understandable in under a minute
+- **Signature:** a compact technical index with one restrained animated contribution record
 
-The palette uses cool fog, graphite, cobalt, teal, solar orange, and research violet. Display typography is deliberately editorial; utility labels use a system monospace stack. No font, analytics, image, or JavaScript dependency is loaded from a third party. The only remote runtime asset is the public GitHub avatar.
+The palette uses cool fog, graphite, cobalt, and teal. Display typography is deliberately editorial; utility labels use a system monospace stack. No font, analytics, or JavaScript dependency is loaded from a third party. The only remote runtime asset is the first-party contribution SVG generated in the GitHub profile repository.
 
 ## Local preview
 
@@ -26,7 +26,7 @@ Open `http://127.0.0.1:4187/`.
 ```text
 index.html          content, semantics, metadata, and JSON-LD
 styles.css          visual system, responsive layout, print, reduced motion
-app.js              language, theme, map readout, reveal, and navigation state
+app.js              language, theme, and active navigation state
 404.html            recovery page
 assets/favicon.svg  first-party vector mark
 tests/site-smoke.cjs optional Playwright smoke and responsive checks

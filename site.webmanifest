@@ -1,11 +1,11 @@
 {
-  "name": "Wu Shuwen — Systems, agents, and evidence",
+  "name": "Wu Shuwen — 软件工程、智能体与开源",
   "short_name": "Wu Shuwen",
-  "description": "Agent infrastructure, evidence-first workflows, and scientific interfaces.",
+  "description": "软件工程、智能体系统、科学交互与开源贡献。",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#edf3f7",
-  "theme_color": "#edf3f7",
+  "background_color": "#f2f6f8",
+  "theme_color": "#f2f6f8",
   "icons": [
     {
       "src": "/assets/favicon.svg",

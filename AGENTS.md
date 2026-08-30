@@ -6,7 +6,7 @@ This repository is the static personal site for Wu Shuwen, published at `https:/
 
 - `index.html` is the only content source and owns metadata, JSON-LD, navigation, projects, research, experience, and contact links.
 - `styles.css` owns all visual tokens and responsive behavior.
-- `app.js` progressively enhances Chinese/English selection, theme selection, the project map, reveal motion, and active navigation.
+- `app.js` progressively enhances Chinese/English selection, theme selection, and active navigation.
 - `404.html` is a standalone recovery page that reuses the main stylesheet.
 - `.nojekyll` is required. Do not reintroduce Jekyll, a package manager, a build system, or a deployment workflow without explicit approval.
 
@@ -22,7 +22,8 @@ This repository is the static personal site for Wu Shuwen, published at `https:/
 
 ## Visual rules
 
-- The system map is the single signature element. Keep the rest of the layout quiet and evidence-led.
+- Keep the site compact enough to scan as a one-page technical index. Long project narratives belong on the linked project sites and repositories.
+- The contribution activity is the only ambient animation. Keep all other motion restrained and functional.
 - Derive color changes from the custom properties at the top of `styles.css`.
 - Maintain keyboard focus, semantic headings, reduced motion, dark mode, and mobile layouts down to 320 px.
 - Avoid remote fonts, icon libraries, frontend frameworks, and decorative assets that do not carry information.
@@ -39,7 +40,8 @@ Verify at minimum:
 
 - no console or page errors;
 - every internal asset returns 200;
-- navigation, project-map links, theme toggle, and 404 recovery work;
+- navigation, project links, language and theme toggles, and 404 recovery work;
+- the page-height compactness thresholds in `tests/site-smoke.cjs` remain satisfied;
 - no horizontal overflow at 1440, 768, 390, and 320 px;
 - all links have visible keyboard focus;
 - the page remains readable with JavaScript disabled and reduced motion enabled;

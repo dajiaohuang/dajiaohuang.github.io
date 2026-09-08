@@ -47,15 +47,15 @@ let browser;
   assert.equal(await page.locator('main section').count(), 5);
   assert.equal(await page.locator('.project-row').count(), 5);
   assert.equal(await page.locator('.contribution-item').count(), 8);
-  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 125 PRS');
+  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 164 PRS');
   assert.deepEqual(
     await page.locator('.contribution-item').evaluateAll((items) => items.map((item) => item.innerText.replace(/\n/g, ' '))),
     [
-      'PraisonAI 31',
+      'PraisonAI 33',
       'VisActor / VChart 9',
       'ByteDance / g3 6',
       'ByteDance / vArmor 5',
-      'HKUDS / nanobot 5',
+      'HKUDS / nanobot 6',
       'Web Infra / Rspress 4',
       'Volcengine / OpenViking 3',
       'LiveKit / Agents 1',

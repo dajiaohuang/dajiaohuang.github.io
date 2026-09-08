@@ -22,7 +22,7 @@
     solarKind: 'Scientific interface · orbital dynamics', solarDesc: 'Browser-native Solar System dynamics, small-body exploration, and reproducible mission workspaces; not for operational navigation.',
     site: 'Site ↗', source: 'Source ↗', atlas: 'Atlas ↗', principlesAria: 'Working principles', principleOne: 'Explicit authority',
     principleTwo: 'Reproducible state', principleThree: 'Focused validation', principleFour: 'Maintainable delivery',
-    contribTitle: 'External contributions', contribIntro: 'As of 2026-09-01: 125 merged PRs across 57 externally owned repositories, with 17 added since August 30.',
+    contribTitle: 'External contributions', contribIntro: 'As of 2026-09-08: 164 merged PRs across 82 externally owned repositories, with 56 added since August 30.',
     activityAria: 'View Wu Shuwen’s GitHub Contribution Activity', dailyRefresh: 'Updated daily ↗', activityAlt: 'Wu Shuwen’s animated GitHub Contribution Activity',
     motionPaused: 'Animation is paused for reduced motion; open GitHub to view the contribution record.',
     exclusionNote: 'Excludes repositories owned by dajiaohuang and SagaSmithAI.', allContribs: 'All external contributions ↗',

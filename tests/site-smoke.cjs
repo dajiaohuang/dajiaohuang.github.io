@@ -45,7 +45,7 @@ let browser;
   assert.equal(await page.locator('html').getAttribute('lang'), 'zh-CN');
   assert.equal(await page.locator('h1').innerText(), 'Wu Shuwen');
   assert.equal(await page.locator('main section').count(), 5);
-  assert.equal(await page.locator('.project-row').count(), 5);
+  assert.equal(await page.locator('.project-row').count(), 6);
   assert.equal(await page.locator('.contribution-item').count(), 9);
   assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 179 PRS');
   assert.deepEqual(

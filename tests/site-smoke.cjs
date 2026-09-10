@@ -46,8 +46,8 @@ let browser;
   assert.equal(await page.locator('h1').innerText(), 'Wu Shuwen');
   assert.equal(await page.locator('main section').count(), 5);
   assert.equal(await page.locator('.project-row').count(), 5);
-  assert.equal(await page.locator('.contribution-item').count(), 8);
-  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 164 PRS');
+  assert.equal(await page.locator('.contribution-item').count(), 9);
+  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 179 PRS');
   assert.deepEqual(
     await page.locator('.contribution-item').evaluateAll((items) => items.map((item) => item.innerText.replace(/\n/g, ' '))),
     [
@@ -56,9 +56,10 @@ let browser;
       'ByteDance / g3 6',
       'ByteDance / vArmor 5',
       'HKUDS / nanobot 6',
+      'Turso 5',
       'Web Infra / Rspress 4',
       'Volcengine / OpenViking 3',
-      'LiveKit / Agents 1',
+      'Puppeteer 3',
     ],
   );
   assert.equal(await page.locator('.research-row').count(), 3);

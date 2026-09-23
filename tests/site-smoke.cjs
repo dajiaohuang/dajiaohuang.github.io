@@ -47,7 +47,7 @@ let browser;
   assert.equal(await page.locator('main section').count(), 5);
   assert.equal(await page.locator('.project-row').count(), 6);
   assert.equal(await page.locator('.contribution-item').count(), 9);
-  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 329 PRS');
+  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 344 PRS');
   assert.deepEqual(
     await page.locator('.contribution-item').evaluateAll((items) => items.map((item) => item.innerText.replace(/\n/g, ' '))),
     [

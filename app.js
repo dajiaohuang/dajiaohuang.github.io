@@ -16,7 +16,7 @@
     study: 'Study', studyValue: 'MSc DSML · National University of Singapore', base: 'Base', baseValue: 'Singapore · UTC+8',
     workTitle: 'Selected work', workIntro: 'Six systems share one approach: make authority explicit, preserve evidence, and state limits honestly.',
     sagaKind: 'Agent platform · Active Alpha', sagaDesc: 'An AI-native TTRPG platform where agents interpret while deterministic engines and MCP services own rules and state.',
-    repoKind: 'Open-source stewardship', repoDesc: 'A durable loop for verification, audit, repair, testing, submission, and PR maintenance.',
+    repoKind: 'Portable stewardship Skill', repoDesc: 'Direct Markdown state and lightweight repository leaves take discovery through fixes, PR delivery and authorized source release, with complementary patrols for ongoing maintenance.',
     cotKind: 'Local-first AI gateway · Go', cotDesc: 'A local-first Go gateway that gives agents and applications one OpenAI-compatible interface across providers, accounts, and sessions.',
     archiveKind: 'Evidence to application', archiveDesc: 'Turns experience evidence into traceable resumes, interview packs, job pipelines, and academic applications.',
     evoKind: 'Scientific interface · deep time', evoDesc: 'A static-first evidence atlas connecting geological time, fossil records, phylogenetic hypotheses, and uncertainty.',

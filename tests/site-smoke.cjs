@@ -52,7 +52,7 @@ let browser;
   assert.equal(await page.locator('.contribution-list a[href*="/pull"]').count(), 0);
   assert.equal(await page.locator('.contribution-list [data-i18n^=contribDesc]').count(), 30);
   assert.equal(await page.locator('.account-stats img').count(), 1);
-  assert.match(await page.locator('[data-i18n=contribIntro]').innerText(), /736.*319/);
+  assert.equal(await page.locator('#contributions .section-header').evaluate((el) => el.nextElementSibling.className), 'contribution-list');
   assert.deepEqual(await page.locator('.contribution-item strong').allTextContents(), ["59", "52", "36", "24", "4", "3", "50", "7", "5", "4", "6", "3", "4", "4", "1", "3", "3", "4", "2", "3", "1", "2", "2", "1", "5", "1", "9", "7", "4", "5"]);
   assert.ok(await page.locator('.account-stats img').evaluate((img) => img.complete && img.naturalWidth > 0));
   assert.equal(await page.locator('.principle-line, .activity-panel').count(), 0);

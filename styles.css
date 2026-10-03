@@ -707,7 +707,7 @@ h2 {
 .contribution-list .contribution-item::before { content: "-"; position: absolute; left: 0; color: var(--muted); }
 .contribution-list .contribution-item a { font-weight: 650; }
 .contribution-list .contribution-item span { white-space: normal; font-size: inherit; font-weight: 400; }
-.account-stats { margin: 0 0 1.5rem; }
+.account-stats { margin: 1rem 0 0; }
 .account-stats img { display: block; max-width: 100%; height: auto; border-radius: 0.3rem; background: white; }
 .account-stats figcaption { margin-top: 0.4rem; color: var(--muted); font-size: 0.7rem; }
 .about-grid { grid-template-columns: 1fr; }
@@ -718,7 +718,7 @@ h2 {
 
 /* All six projects, in compact readable lines. */
 .project-list { list-style: none; margin: 0; padding: 0; }
-.project-list .project-row { display: block; position: relative; padding: 0.4rem 0 0.4rem 1rem; border: 0; font-size: 0.83rem; }
+.project-list .project-row { display: block; position: relative; padding: 0.1rem 0 0.1rem 1rem; border: 0; font-size: 0.83rem; }
 .project-list .project-row::before { content: "-"; position: absolute; left: 0; color: var(--muted); }
 .project-title { font-weight: 700; }
 .project-source { font-size: 0.75rem; color: var(--muted); }

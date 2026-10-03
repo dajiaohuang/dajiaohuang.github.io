@@ -715,3 +715,10 @@ h2 {
 @media (max-width: 560px) { .site-footer { grid-template-columns: 1fr; } }
 
 .contribution-list .contribution-item strong { font: inherit; font-weight: 700; color: var(--ink); }
+
+/* All six projects, in compact readable lines. */
+.project-list { list-style: none; margin: 0; padding: 0; }
+.project-list .project-row { display: block; position: relative; padding: 0.4rem 0 0.4rem 1rem; border: 0; font-size: 0.83rem; }
+.project-list .project-row::before { content: "-"; position: absolute; left: 0; color: var(--muted); }
+.project-title { font-weight: 700; }
+.project-source { font-size: 0.75rem; color: var(--muted); }

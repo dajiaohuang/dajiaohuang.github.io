@@ -8,9 +8,9 @@
   const ogDescription = document.querySelector('meta[property="og:description"]');
 
   const english = {
-    archiveKind: 'Career and academic application workflow', archiveDesc: 'Turns experience records into traceable resumes, interview materials, and academic applications.',
-    evoKind: 'Scientific visualization · geological time', evoDesc: 'Explore geological time, fossils, and evolutionary relationships with scientific uncertainty.',
-    solarKind: 'Scientific visualization · orbital dynamics', solarDesc: 'Explore Solar System orbits and small bodies; not for operational navigation.',
+    archiveDesc: "Traceable resumes, interview materials, and applications",
+    evoDesc: "Geological time, fossils, and evolution with scientific uncertainty",
+    solarDesc: "Orbits and small-body exploration; not for operational navigation",
     contribDesc0: "Agent runtime, tool calls, session and storage reliability fixes",
     contribDesc1: "Pricing stability, date handling, and cash-flow fixes",
     contribDesc2: "Device protocol, hardware concurrency, and resource management fixes",
@@ -49,10 +49,9 @@
     heroLede: 'Working on agent systems and scientific visualization.',
     viewWork: 'View work', emailMe: 'Email me', factsAria: 'Current information', now: 'Now', nowValue: 'Software Engineer Intern · TikTok',
     study: 'Study', studyValue: 'MSc DSML · National University of Singapore', base: 'Base', baseValue: 'Singapore · UTC+8',
-    workTitle: 'Selected projects', workIntro: 'Agent tools, open-source workflows, and scientific visualization.',
-    sagaKind: 'Agent platform · Active Alpha', sagaDesc: 'A tabletop role-playing platform combining agent-led play with a rules engine.',
-    repoKind: 'Portable stewardship Skill', repoDesc: 'A workflow for discovering, fixing, and following up on open-source repository issues.',
-    cotKind: 'Local-first AI gateway · Go', cotDesc: 'A local Go AI gateway across providers and accounts, with an OpenAI-compatible interface.',
+    workTitle: 'Selected projects', sagaDesc: "Agent-led TTRPG platform with a rules engine (Alpha)",
+    repoDesc: "Open-source discovery, fixes, and ongoing maintenance",
+    cotDesc: "Local Go AI gateway across providers and accounts",
     site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', contribIntro: 'As of 2026-10-03 19:28 (UTC+8): 736 merged PRs across 319 public external repositories.',
     exclusionNote: 'Excludes owned and private repositories.',
     researchTitle: 'Research', researchIntro: 'Human motion and interaction research, with two co-authored papers.',

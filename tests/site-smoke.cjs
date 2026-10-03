@@ -49,6 +49,8 @@ let browser;
   assert.equal(await page.locator('.contribution-item').count(), 30);
   assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE');
   assert.equal(await page.locator('.contribution-list li').count(), 30);
+  assert.equal(await page.locator('.contribution-list a[href*="/pull"]').count(), 0);
+  assert.equal(await page.locator('.contribution-list [data-i18n^=contribDesc]').count(), 30);
   assert.equal(await page.locator('.account-stats img').count(), 1);
   assert.match(await page.locator('[data-i18n=contribIntro]').innerText(), /736.*319/);
   assert.deepEqual(await page.locator('.contribution-item strong').allTextContents(), ["59", "52", "36", "24", "4", "3", "50", "7", "5", "4", "6", "3", "4", "4", "1", "3", "3", "4", "2", "3", "1", "2", "2", "1", "5", "1", "9", "7", "4", "5"]);

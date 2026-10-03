@@ -230,10 +230,10 @@ a {
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1.45fr) minmax(250px, 0.55fr);
-  min-height: 430px;
+  min-height: 340px;
   align-items: center;
   gap: clamp(3rem, 9vw, 8rem);
-  padding-block: 4.5rem;
+  padding-block: 3.5rem;
 }
 
 .eyebrow {
@@ -308,7 +308,7 @@ h1 {
 }
 
 .section {
-  padding-block: 4.5rem;
+  padding-block: 2rem;
   border-top: 1px solid var(--line);
 }
 
@@ -713,3 +713,5 @@ h2 {
 .about-grid { grid-template-columns: 1fr; }
 .site-footer { grid-template-columns: 1fr auto; }
 @media (max-width: 560px) { .site-footer { grid-template-columns: 1fr; } }
+
+.contribution-list .contribution-item strong { font: inherit; font-weight: 700; color: var(--ink); }

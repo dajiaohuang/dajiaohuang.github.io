@@ -8,16 +8,8 @@
   const ogDescription = document.querySelector('meta[property="og:description"]');
 
   const english = {
+    mergedPR: 'merged PR', mergedPRs: 'merged PRs', contribOrder: '30 selected projects, ordered by project reach (GitHub stars) and merged contribution count.',
     accountAlt: 'Wu Shuwen’s GitHub account statistics and rank', rankNote: 'Third-party account rank by GitHub Readme Stats',
-    contrib0: 'Prevent failed reads from overwriting existing JSON files',
-    contrib1: 'Propagate build-command failures',
-    contrib2: 'Return errors for unsupported Redis storage operations',
-    contrib3: 'Reject removal of immutable proxy configuration',
-    contrib4: 'Preserve complete raw fallback content for oversized session archives',
-    contrib5: 'Fix UPSERT target-alias resolution',
-    contrib6: 'Align documented agent tool requirements',
-    contrib7: 'Align semantic processing tests with current APIs',
-    contrib8: 'Preserve browserURL path prefixes',
     moreWork: 'More work', scienceLimits: 'Evo presents fossil and evolutionary records with uncertainty; Solar is for orbital exploration, not operational navigation.',
     skip: 'Skip to content', backTop: 'Wu Shuwen, back to top', primaryNav: 'Primary navigation', theme: 'Theme',
     navWork: 'Work', navContributions: 'Contributions', navResearch: 'Research', navAbout: 'About',
@@ -29,8 +21,8 @@
     sagaKind: 'Agent platform · Active Alpha', sagaDesc: 'A tabletop role-playing platform combining agent-led play with a rules engine.',
     repoKind: 'Portable stewardship Skill', repoDesc: 'A workflow for discovering, fixing, and following up on open-source repository issues.',
     cotKind: 'Local-first AI gateway · Go', cotDesc: 'A local Go AI gateway across providers and accounts, with an OpenAI-compatible interface.',
-    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', contribIntro: 'Merged external contributions. Follow the links for each fix.',
-    exclusionNote: 'Excludes repositories owned by dajiaohuang and SagaSmithAI.', allContribs: 'All external contributions ↗',
+    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', contribIntro: 'As of 2026-10-03 19:28 (UTC+8): 736 merged PRs across 319 public external repositories.',
+    exclusionNote: 'Excludes owned and private repositories.', allContribs: 'All external contributions ↗',
     researchTitle: 'Research', researchIntro: 'Human motion and interaction research, with two co-authored papers.',
     interxRole: 'Co-author · dual-human interaction dataset and benchmark', himoRole: 'Co-author · human–multi-object interaction benchmark',
     paper: 'Paper ↗', project: 'Project ↗', timelineAria: 'Experience', present: 'Now', tiktokRole: 'Software Engineer Intern', nus: 'National University of Singapore',

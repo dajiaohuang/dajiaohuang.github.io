@@ -700,3 +700,16 @@ h2 {
     padding-block: 1.5rem;
   }
 }
+
+/* Compact contributions and account statistics. */
+.contribution-list { list-style: none; margin: 0; padding: 0; }
+.contribution-list .contribution-item { display: block; min-height: 0; padding: 0.3rem 0 0.3rem 1rem; border: 0; position: relative; font-size: 0.83rem; }
+.contribution-list .contribution-item::before { content: "-"; position: absolute; left: 0; color: var(--muted); }
+.contribution-list .contribution-item a { font-weight: 650; }
+.contribution-list .contribution-item span { white-space: normal; font-size: inherit; font-weight: 400; }
+.account-stats { margin: 0 0 1.5rem; }
+.account-stats img { display: block; max-width: 100%; height: auto; border-radius: 0.3rem; background: white; }
+.account-stats figcaption { margin-top: 0.4rem; color: var(--muted); font-size: 0.7rem; }
+.about-grid { grid-template-columns: 1fr; }
+.site-footer { grid-template-columns: 1fr auto; }
+@media (max-width: 560px) { .site-footer { grid-template-columns: 1fr; } }

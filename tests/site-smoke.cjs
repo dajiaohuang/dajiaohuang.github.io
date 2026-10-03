@@ -45,24 +45,15 @@ let browser;
   assert.equal(await page.locator('html').getAttribute('lang'), 'zh-CN');
   assert.equal(await page.locator('h1').innerText(), 'Wu Shuwen');
   assert.equal(await page.locator('main section').count(), 5);
-  assert.equal(await page.locator('.project-row').count(), 6);
+  assert.equal(await page.locator('.project-row').count(), 3);
   assert.equal(await page.locator('.contribution-item').count(), 9);
-  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE / 469 PRS');
-  assert.deepEqual(
-    await page.locator('.contribution-item').evaluateAll((items) => items.map((item) => item.innerText.replace(/\n/g, ' '))),
-    [
-      'PraisonAI 37',
-      'VisActor / VChart 9',
-      'ByteDance / g3 7',
-      'ByteDance / vArmor 5',
-      'HKUDS / nanobot 7',
-      'Turso 6',
-      'Web Infra / Rspress 4',
-      'Volcengine / OpenViking 4',
-      'Puppeteer 4',
-    ],
-  );
-  assert.equal(await page.locator('.research-row').count(), 3);
+  assert.equal(await page.locator('#contributions .section-label').innerText(), 'OPEN SOURCE');
+  assert.equal(await page.locator('.contribution-list li').count(), 9);
+  assert.equal(await page.locator('.account-stats img').count(), 1);
+  assert.ok(await page.locator('.account-stats img').evaluate((img) => img.complete && img.naturalWidth > 0));
+  assert.equal(await page.locator('.principle-line, .activity-panel').count(), 0);
+  assert.doesNotMatch(await page.locator('main').innerText(), /Ego-Exo4D|第三名|工作原则/);
+  assert.equal(await page.locator('.research-row').count(), 2);
   assert.equal(await page.locator('img:not([alt])').count(), 0);
   assert.equal(await page.locator('.contribution-item[href*="dajiaohuang/"]').count(), 0);
   assert.equal(await page.locator('.contribution-item[href*="SagaSmithAI/"]').count(), 0);
@@ -71,8 +62,7 @@ let browser;
   await page.locator('[data-language-toggle]').click();
   assert.equal(await page.locator('html').getAttribute('lang'), 'en');
   assert.equal(await page.title(), 'Wu Shuwen — Software engineering, agents, and open source');
-  assert.match(await page.locator('.hero-lede').innerText(), /explicit boundaries/);
-  assert.equal(await page.locator('.contribution-animation img').getAttribute('alt'), 'Wu Shuwen’s animated GitHub Contribution Activity');
+  assert.match(await page.locator('.hero-lede').innerText(), /agent systems/);
   await page.reload({ waitUntil: 'networkidle' });
   assert.equal(await page.locator('html').getAttribute('data-lang'), 'en');
   await page.locator('[data-language-toggle]').click();
@@ -118,7 +108,7 @@ let browser;
   const noJsPage = await noJsContext.newPage();
   await noJsPage.goto(baseUrl, { waitUntil: 'networkidle' });
   assert.equal(await noJsPage.locator('html').getAttribute('lang'), 'zh-CN');
-  assert.equal(await noJsPage.locator('.hero-lede').innerText(), '我构建边界清晰、状态可复现、证据可追溯的软件系统。');
+  assert.equal(await noJsPage.locator('.hero-lede').innerText(), '关注智能体系统与科学可视化。');
   assert.ok(await noJsPage.locator('.project-row').first().isVisible());
   await assertCompactLayout(noJsPage, 'mobile');
   await noJsContext.close();
@@ -126,8 +116,7 @@ let browser;
   const reducedContext = await browser.newContext({ reducedMotion: 'reduce', viewport: viewports.mobile });
   const reducedPage = await reducedContext.newPage();
   await reducedPage.goto(baseUrl, { waitUntil: 'networkidle' });
-  assert.equal(await reducedPage.locator('.contribution-animation').evaluate((element) => getComputedStyle(element).display), 'none');
-  assert.equal(await reducedPage.locator('.activity-static').evaluate((element) => getComputedStyle(element).display), 'block');
+  await assertCompactLayout(reducedPage, 'mobile');
   await reducedContext.close();
 
   await browser.close();

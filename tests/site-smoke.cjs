@@ -84,7 +84,7 @@ let browser;
   }
   for (const external of [
     'https://raw.githubusercontent.com/dajiaohuang/dajiaohuang/main/output/github-contribution-grid-snake.svg',
-    'https://dajiaohuang.github.io/RepoStew_skills/',
+    'https://dajiaohuang.github.io/repostew/',
     'https://dajiaohuang.github.io/Archive_and_Apply_Skill/',
   ]) {
     const externalResponse = await context.request.get(external);

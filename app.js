@@ -53,7 +53,7 @@
     viewWork: 'View work', emailMe: 'Email me', factsAria: 'Current information', now: 'Now', nowValue: 'Software Engineer Intern · TikTok',
     study: 'Study', studyValue: 'MSc DSML · National University of Singapore', base: 'Base', baseValue: 'Singapore · UTC+8',
     workTitle: 'Selected projects', sagaDesc: "Agent-led TTRPG platform with a rules engine (Alpha)",
-    repoDesc: "Open-source discovery, fixes, and ongoing maintenance",
+    repoDesc: "Portable multi-agent Skill for repository audits, contribution follow-up, and authorized maintenance",
     cotDesc: "Local Go AI gateway across providers and accounts",
     site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', exclusionNote: "As of 2026-10-09 01:43 (UTC+8): 947 merged PRs across 382 public external repositories; excludes owned and private repositories.",
     researchTitle: 'Research', researchIntro: 'Human motion and interaction research, with two co-authored papers.',

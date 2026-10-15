@@ -4,7 +4,7 @@
 
 A hand-built, zero-dependency, Chinese-first bilingual portfolio for Wu Shuwen. The site presents six connected bodies of work—SagaSmith, RepoStew, Clash of Tokens, Archive & Apply, Evo Atlas, and Solar Atlas—alongside verified external open-source contributions, research, and experience.
 
-The RepoStew entry describes its current portable Skill: direct Markdown repository records, lightweight coordination and a shared repository-leaf delivery flow, focused validation, authorized source release and complementary notification/new-issue/unfinished-work patrols. Detailed methods belong in the linked project documentation; the portfolio does not claim that every configured patrol is active.
+The RepoStew entry describes its portable multi-agent Skill for repository audits, contribution follow-up and authorized maintenance. The linked project documentation covers Coordinator/Worker/Maintainer roles, direct Markdown state, private security reporting and bounded patrols; the portfolio does not claim that every configured patrol is active.
 
 ## Design direction
 

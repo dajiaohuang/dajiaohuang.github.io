@@ -55,7 +55,7 @@
     workTitle: 'Selected projects', sagaDesc: "Agent-led TTRPG platform with a rules engine (Alpha)",
     repoDesc: "Portable multi-agent Skill for repository audits, contribution follow-up, and authorized maintenance",
     cotDesc: "Local Go AI gateway across providers and accounts",
-    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', exclusionNote: "As of 2026-10-09 01:43 (UTC+8): 947 merged PRs across 382 public external repositories; excludes owned and private repositories.",
+    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', exclusionNote: "As of 2026-10-19 16:22 (UTC+8): 1205 merged PRs across 527 public external repositories; excludes owned and private repositories.",
     researchTitle: 'Research', researchIntro: 'Human motion and interaction research, with two co-authored papers.',
     interxRole: 'Co-author · dual-human interaction dataset and benchmark', himoRole: 'Co-author · human–multi-object interaction benchmark',
     paper: 'Paper ↗', project: 'Project ↗', timelineAria: 'Experience', present: 'Now', tiktokRole: 'Software Engineer Intern', nus: 'National University of Singapore',

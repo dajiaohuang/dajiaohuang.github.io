@@ -21,140 +21,32 @@
       "merged": 105
     },
     {
-      "repository": "domokane/FinancePy",
-      "merged": 57
-    },
-    {
-      "repository": "doocs/leetcode",
-      "merged": 20
-    },
-    {
-      "repository": "domoticz/domoticz",
-      "merged": 38
-    },
-    {
       "repository": "mvschwarz/openrig",
       "merged": 30
-    },
-    {
-      "repository": "affaan-m/ECC",
-      "merged": 4
-    },
-    {
-      "repository": "public-apis/public-apis",
-      "merged": 3
-    },
-    {
-      "repository": "HKUDS/nanobot",
-      "merged": 8
-    },
-    {
-      "repository": "HKUDS/DeepTutor",
-      "merged": 35
-    },
-    {
-      "repository": "lateralblast/lunar",
-      "merged": 50
-    },
-    {
-      "repository": "puppeteer/puppeteer",
-      "merged": 6
-    },
-    {
-      "repository": "revive-lint/revive",
-      "merged": 15
-    },
-    {
-      "repository": "ruvnet/ruflo",
-      "merged": 8
-    },
-    {
-      "repository": "tursodatabase/turso",
-      "merged": 9
-    },
-    {
-      "repository": "bytedance/deer-flow",
-      "merged": 3
-    },
-    {
-      "repository": "JustVugg/colibri",
-      "merged": 5
-    },
-    {
-      "repository": "cheaper-inference/OmniRoute",
-      "merged": 3
     },
     {
       "repository": "volcengine/OpenViking",
       "merged": 4
     },
     {
-      "repository": "TriliumNext/Trilium",
-      "merged": 4
+      "repository": "HKUDS/nanobot",
+      "merged": 8
     },
     {
-      "repository": "EbookFoundation/free-programming-books",
-      "merged": 2
-    },
-    {
-      "repository": "revolist/revogrid",
-      "merged": 11
-    },
-    {
-      "repository": "coreyhaines31/marketingskills",
-      "merged": 3
-    },
-    {
-      "repository": "ChromeDevTools/chrome-devtools-mcp",
-      "merged": 3
-    },
-    {
-      "repository": "fmtlib/fmt",
-      "merged": 4
-    },
-    {
-      "repository": "Egonex-AI/Understand-Anything",
-      "merged": 2
-    },
-    {
-      "repository": "TheAlgorithms/Python",
-      "merged": 1
-    },
-    {
-      "repository": "career-ops-hq/career-ops",
-      "merged": 2
-    },
-    {
-      "repository": "Tencent/WeKnora",
-      "merged": 3
-    },
-    {
-      "repository": "anomalyco/opencode",
-      "merged": 1
-    },
-    {
-      "repository": "reviewdog/reviewdog",
-      "merged": 5
+      "repository": "ruvnet/ruflo",
+      "merged": 8
     },
     {
       "repository": "huggingface/transformers",
       "merged": 1
     },
     {
-      "repository": "VisActor/VChart",
-      "merged": 10
-    },
-    {
-      "repository": "bytedance/g3",
-      "merged": 7
-    },
-    {
-      "repository": "web-infra-dev/rspress",
+      "repository": "puppeteer/puppeteer",
       "merged": 6
     },
     {
-      "repository": "bytedance/vArmor",
-      "merged": 7
+      "repository": "HKUDS/DeepTutor",
+      "merged": 35
     }
   ],
   "repositories": [
@@ -3275,5 +3167,149 @@
       "merged": 1
     }
   ],
-  "verifiedWindows": 21
+  "verifiedWindows": 21,
+  "archivedSelection": [
+    {
+      "repository": "MervinPraison/PraisonAI",
+      "merged": 105
+    },
+    {
+      "repository": "domokane/FinancePy",
+      "merged": 57
+    },
+    {
+      "repository": "doocs/leetcode",
+      "merged": 20
+    },
+    {
+      "repository": "domoticz/domoticz",
+      "merged": 38
+    },
+    {
+      "repository": "mvschwarz/openrig",
+      "merged": 30
+    },
+    {
+      "repository": "affaan-m/ECC",
+      "merged": 4
+    },
+    {
+      "repository": "public-apis/public-apis",
+      "merged": 3
+    },
+    {
+      "repository": "HKUDS/nanobot",
+      "merged": 8
+    },
+    {
+      "repository": "HKUDS/DeepTutor",
+      "merged": 35
+    },
+    {
+      "repository": "lateralblast/lunar",
+      "merged": 50
+    },
+    {
+      "repository": "puppeteer/puppeteer",
+      "merged": 6
+    },
+    {
+      "repository": "revive-lint/revive",
+      "merged": 15
+    },
+    {
+      "repository": "ruvnet/ruflo",
+      "merged": 8
+    },
+    {
+      "repository": "tursodatabase/turso",
+      "merged": 9
+    },
+    {
+      "repository": "bytedance/deer-flow",
+      "merged": 3
+    },
+    {
+      "repository": "JustVugg/colibri",
+      "merged": 5
+    },
+    {
+      "repository": "cheaper-inference/OmniRoute",
+      "merged": 3
+    },
+    {
+      "repository": "volcengine/OpenViking",
+      "merged": 4
+    },
+    {
+      "repository": "TriliumNext/Trilium",
+      "merged": 4
+    },
+    {
+      "repository": "EbookFoundation/free-programming-books",
+      "merged": 2
+    },
+    {
+      "repository": "revolist/revogrid",
+      "merged": 11
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "merged": 3
+    },
+    {
+      "repository": "ChromeDevTools/chrome-devtools-mcp",
+      "merged": 3
+    },
+    {
+      "repository": "fmtlib/fmt",
+      "merged": 4
+    },
+    {
+      "repository": "Egonex-AI/Understand-Anything",
+      "merged": 2
+    },
+    {
+      "repository": "TheAlgorithms/Python",
+      "merged": 1
+    },
+    {
+      "repository": "career-ops-hq/career-ops",
+      "merged": 2
+    },
+    {
+      "repository": "Tencent/WeKnora",
+      "merged": 3
+    },
+    {
+      "repository": "anomalyco/opencode",
+      "merged": 1
+    },
+    {
+      "repository": "reviewdog/reviewdog",
+      "merged": 5
+    },
+    {
+      "repository": "huggingface/transformers",
+      "merged": 1
+    },
+    {
+      "repository": "VisActor/VChart",
+      "merged": 10
+    },
+    {
+      "repository": "bytedance/g3",
+      "merged": 7
+    },
+    {
+      "repository": "web-infra-dev/rspress",
+      "merged": 6
+    },
+    {
+      "repository": "bytedance/vArmor",
+      "merged": 7
+    }
+  ],
+  "selectionFocus": "Agent / AI Infra",
+  "fullContributionRecord": "https://github.com/dajiaohuang/dajiaohuang/blob/main/CONTRIBUTIONS.md"
 }

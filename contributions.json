@@ -1,0 +1,3279 @@
+{
+  "author": "dajiaohuang",
+  "visibility": "public",
+  "creationCutoff": "2026-10-27T13:39:21Z",
+  "captureCompletedAt": "2026-10-27T13:52:03.428Z",
+  "mergedCutoff": "2026-10-27T13:39:21Z",
+  "excludedOwners": [
+    "dajiaohuang",
+    "SagaSmithAI"
+  ],
+  "method": "GitHub GraphQL public authored PR search; nonoverlapping creation-time windows below 1000 results; fully paginated, count-checked and deduplicated by PR ID. Merges after cutoff excluded. Forks under external owners count as external repositories, not as independent upstream adoption.",
+  "totals": {
+    "publicAuthored": 6964,
+    "publicMerged": 2398,
+    "externalMerged": 1552,
+    "externalMergedRepositories": 779
+  },
+  "selected": [
+    {
+      "repository": "MervinPraison/PraisonAI",
+      "merged": 105
+    },
+    {
+      "repository": "domokane/FinancePy",
+      "merged": 57
+    },
+    {
+      "repository": "doocs/leetcode",
+      "merged": 20
+    },
+    {
+      "repository": "domoticz/domoticz",
+      "merged": 38
+    },
+    {
+      "repository": "mvschwarz/openrig",
+      "merged": 30
+    },
+    {
+      "repository": "affaan-m/ECC",
+      "merged": 4
+    },
+    {
+      "repository": "public-apis/public-apis",
+      "merged": 3
+    },
+    {
+      "repository": "HKUDS/nanobot",
+      "merged": 8
+    },
+    {
+      "repository": "HKUDS/DeepTutor",
+      "merged": 35
+    },
+    {
+      "repository": "lateralblast/lunar",
+      "merged": 50
+    },
+    {
+      "repository": "puppeteer/puppeteer",
+      "merged": 6
+    },
+    {
+      "repository": "revive-lint/revive",
+      "merged": 15
+    },
+    {
+      "repository": "ruvnet/ruflo",
+      "merged": 8
+    },
+    {
+      "repository": "tursodatabase/turso",
+      "merged": 9
+    },
+    {
+      "repository": "bytedance/deer-flow",
+      "merged": 3
+    },
+    {
+      "repository": "JustVugg/colibri",
+      "merged": 5
+    },
+    {
+      "repository": "cheaper-inference/OmniRoute",
+      "merged": 3
+    },
+    {
+      "repository": "volcengine/OpenViking",
+      "merged": 4
+    },
+    {
+      "repository": "TriliumNext/Trilium",
+      "merged": 4
+    },
+    {
+      "repository": "EbookFoundation/free-programming-books",
+      "merged": 2
+    },
+    {
+      "repository": "revolist/revogrid",
+      "merged": 11
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "merged": 3
+    },
+    {
+      "repository": "ChromeDevTools/chrome-devtools-mcp",
+      "merged": 3
+    },
+    {
+      "repository": "fmtlib/fmt",
+      "merged": 4
+    },
+    {
+      "repository": "Egonex-AI/Understand-Anything",
+      "merged": 2
+    },
+    {
+      "repository": "TheAlgorithms/Python",
+      "merged": 1
+    },
+    {
+      "repository": "career-ops-hq/career-ops",
+      "merged": 2
+    },
+    {
+      "repository": "Tencent/WeKnora",
+      "merged": 3
+    },
+    {
+      "repository": "anomalyco/opencode",
+      "merged": 1
+    },
+    {
+      "repository": "reviewdog/reviewdog",
+      "merged": 5
+    },
+    {
+      "repository": "huggingface/transformers",
+      "merged": 1
+    },
+    {
+      "repository": "VisActor/VChart",
+      "merged": 10
+    },
+    {
+      "repository": "bytedance/g3",
+      "merged": 7
+    },
+    {
+      "repository": "web-infra-dev/rspress",
+      "merged": 6
+    },
+    {
+      "repository": "bytedance/vArmor",
+      "merged": 7
+    }
+  ],
+  "repositories": [
+    {
+      "repository": "MervinPraison/PraisonAI",
+      "merged": 105
+    },
+    {
+      "repository": "domokane/FinancePy",
+      "merged": 57
+    },
+    {
+      "repository": "lateralblast/lunar",
+      "merged": 50
+    },
+    {
+      "repository": "massimodeluisa/sidus-tools",
+      "merged": 45
+    },
+    {
+      "repository": "domoticz/domoticz",
+      "merged": 38
+    },
+    {
+      "repository": "HKUDS/DeepTutor",
+      "merged": 35
+    },
+    {
+      "repository": "mvschwarz/openrig",
+      "merged": 30
+    },
+    {
+      "repository": "doocs/leetcode",
+      "merged": 20
+    },
+    {
+      "repository": "revive-lint/revive",
+      "merged": 15
+    },
+    {
+      "repository": "dongrixinyu/JioNLP",
+      "merged": 12
+    },
+    {
+      "repository": "revolist/revogrid",
+      "merged": 11
+    },
+    {
+      "repository": "VisActor/VChart",
+      "merged": 10
+    },
+    {
+      "repository": "riatelab/magrit",
+      "merged": 9
+    },
+    {
+      "repository": "riebl/vanetza",
+      "merged": 9
+    },
+    {
+      "repository": "tursodatabase/turso",
+      "merged": 9
+    },
+    {
+      "repository": "doriaxengine/doriax",
+      "merged": 8
+    },
+    {
+      "repository": "HKUDS/nanobot",
+      "merged": 8
+    },
+    {
+      "repository": "laude-institute/headlong",
+      "merged": 8
+    },
+    {
+      "repository": "ruvnet/ruflo",
+      "merged": 8
+    },
+    {
+      "repository": "bytedance/g3",
+      "merged": 7
+    },
+    {
+      "repository": "bytedance/vArmor",
+      "merged": 7
+    },
+    {
+      "repository": "lasantosr/intelli-shell",
+      "merged": 7
+    },
+    {
+      "repository": "microsoft/apm",
+      "merged": 7
+    },
+    {
+      "repository": "RevoltSecurities/Subdominator",
+      "merged": 7
+    },
+    {
+      "repository": "d3x0r/JSON6",
+      "merged": 6
+    },
+    {
+      "repository": "HKUDS/RAG-Anything",
+      "merged": 6
+    },
+    {
+      "repository": "puppeteer/puppeteer",
+      "merged": 6
+    },
+    {
+      "repository": "revoframework/Revo",
+      "merged": 6
+    },
+    {
+      "repository": "Rishikant181/Rettiwt-API",
+      "merged": 6
+    },
+    {
+      "repository": "web-infra-dev/rspress",
+      "merged": 6
+    },
+    {
+      "repository": "0xCUB3/wBlock",
+      "merged": 5
+    },
+    {
+      "repository": "alphaXiv/OpenResearch",
+      "merged": 5
+    },
+    {
+      "repository": "JustVugg/colibri",
+      "merged": 5
+    },
+    {
+      "repository": "Marco-Sola-Lab/WFA2-lib",
+      "merged": 5
+    },
+    {
+      "repository": "reviewdog/reviewdog",
+      "merged": 5
+    },
+    {
+      "repository": "tinyplex/tinybase",
+      "merged": 5
+    },
+    {
+      "repository": "affaan-m/ECC",
+      "merged": 4
+    },
+    {
+      "repository": "csinva/imodelsX",
+      "merged": 4
+    },
+    {
+      "repository": "cypress-io/cypress",
+      "merged": 4
+    },
+    {
+      "repository": "Cysharp/ZLinq",
+      "merged": 4
+    },
+    {
+      "repository": "datnguye/dbterd",
+      "merged": 4
+    },
+    {
+      "repository": "davtur19/DotGit",
+      "merged": 4
+    },
+    {
+      "repository": "firebase/firebase-ios-sdk",
+      "merged": 4
+    },
+    {
+      "repository": "fmtlib/fmt",
+      "merged": 4
+    },
+    {
+      "repository": "HKUDS/Vibe-Trading",
+      "merged": 4
+    },
+    {
+      "repository": "stafyniaksacha/unplugin-fonts",
+      "merged": 4
+    },
+    {
+      "repository": "TriliumNext/Trilium",
+      "merged": 4
+    },
+    {
+      "repository": "ualex73/monitor_docker",
+      "merged": 4
+    },
+    {
+      "repository": "volcengine/OpenViking",
+      "merged": 4
+    },
+    {
+      "repository": "Zefan-Cai/Open-Jev",
+      "merged": 4
+    },
+    {
+      "repository": "00200200/maintainer-skills-lab",
+      "merged": 3
+    },
+    {
+      "repository": "0x727/FingerprintHub",
+      "merged": 3
+    },
+    {
+      "repository": "1jehuang/jcode",
+      "merged": 3
+    },
+    {
+      "repository": "3ddelano/discord.gd",
+      "merged": 3
+    },
+    {
+      "repository": "AlexxIT/YandexStation",
+      "merged": 3
+    },
+    {
+      "repository": "armory3d/armorpaint",
+      "merged": 3
+    },
+    {
+      "repository": "awesome-devblog/awesome-devblog",
+      "merged": 3
+    },
+    {
+      "repository": "ax-llm/ax",
+      "merged": 3
+    },
+    {
+      "repository": "bytedance/deer-flow",
+      "merged": 3
+    },
+    {
+      "repository": "bytedance/sonic",
+      "merged": 3
+    },
+    {
+      "repository": "bytedance/volclava",
+      "merged": 3
+    },
+    {
+      "repository": "cheaper-inference/OmniRoute",
+      "merged": 3
+    },
+    {
+      "repository": "ChromeDevTools/chrome-devtools-mcp",
+      "merged": 3
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "merged": 3
+    },
+    {
+      "repository": "cshum/imagor",
+      "merged": 3
+    },
+    {
+      "repository": "cyberchitta/llm-context.py",
+      "merged": 3
+    },
+    {
+      "repository": "Cyclenerd/static_status",
+      "merged": 3
+    },
+    {
+      "repository": "daandemeyer/reproc",
+      "merged": 3
+    },
+    {
+      "repository": "dahlia/seonbi",
+      "merged": 3
+    },
+    {
+      "repository": "darold/pgbadger",
+      "merged": 3
+    },
+    {
+      "repository": "diegofrata/Generator.Equals",
+      "merged": 3
+    },
+    {
+      "repository": "DirectoryLister/DirectoryLister",
+      "merged": 3
+    },
+    {
+      "repository": "Donkie/Spoolman",
+      "merged": 3
+    },
+    {
+      "repository": "doocs/jvm",
+      "merged": 3
+    },
+    {
+      "repository": "Dyalog/link",
+      "merged": 3
+    },
+    {
+      "repository": "iipc/awesome-web-archiving",
+      "merged": 3
+    },
+    {
+      "repository": "Knowledgator/GLiClass",
+      "merged": 3
+    },
+    {
+      "repository": "kuan-er/sjtu-agent",
+      "merged": 3
+    },
+    {
+      "repository": "laserdisc-io/fs2-aws",
+      "merged": 3
+    },
+    {
+      "repository": "latex-lsp/texlab",
+      "merged": 3
+    },
+    {
+      "repository": "public-apis/public-apis",
+      "merged": 3
+    },
+    {
+      "repository": "reversenseorg/dexcalibur",
+      "merged": 3
+    },
+    {
+      "repository": "reviewdog/action-eslint",
+      "merged": 3
+    },
+    {
+      "repository": "rohitg00/ai-engineering-from-scratch",
+      "merged": 3
+    },
+    {
+      "repository": "Tencent/WeKnora",
+      "merged": 3
+    },
+    {
+      "repository": "tile-ai/tilelang",
+      "merged": 3
+    },
+    {
+      "repository": "web-infra-dev/rspack",
+      "merged": 3
+    },
+    {
+      "repository": "zhtyyx/ioe",
+      "merged": 3
+    },
+    {
+      "repository": "648540858/wvp-GB28181-pro",
+      "merged": 2
+    },
+    {
+      "repository": "8LWXpg/PowerToysRun-GitHubRepo",
+      "merged": 2
+    },
+    {
+      "repository": "aaronjmars/web3-research-mcp",
+      "merged": 2
+    },
+    {
+      "repository": "adobe-fonts/source-serif",
+      "merged": 2
+    },
+    {
+      "repository": "ahkscript/awesome-AutoHotkey",
+      "merged": 2
+    },
+    {
+      "repository": "akitaonrails/ai-memory",
+      "merged": 2
+    },
+    {
+      "repository": "aljazceru/awesome-nostr",
+      "merged": 2
+    },
+    {
+      "repository": "alsk1992/CloddsBot",
+      "merged": 2
+    },
+    {
+      "repository": "anufrievroman/calcure",
+      "merged": 2
+    },
+    {
+      "repository": "apache/logging-log4j2",
+      "merged": 2
+    },
+    {
+      "repository": "ashishb/android-security-awesome",
+      "merged": 2
+    },
+    {
+      "repository": "awesome-mqtt/awesome-mqtt",
+      "merged": 2
+    },
+    {
+      "repository": "beetbox/beets",
+      "merged": 2
+    },
+    {
+      "repository": "bencheeorg/benchee",
+      "merged": 2
+    },
+    {
+      "repository": "BigWigsMods/BigWigs",
+      "merged": 2
+    },
+    {
+      "repository": "BigWigsMods/LittleWigs",
+      "merged": 2
+    },
+    {
+      "repository": "birobirobiro/awesome-shadcn-ui",
+      "merged": 2
+    },
+    {
+      "repository": "blader/humanizer",
+      "merged": 2
+    },
+    {
+      "repository": "blakeblackshear/frigate-hass-integration",
+      "merged": 2
+    },
+    {
+      "repository": "bytedance/android-inline-hook",
+      "merged": 2
+    },
+    {
+      "repository": "bytedance/CompoundVM",
+      "merged": 2
+    },
+    {
+      "repository": "bytedance/PatchEval",
+      "merged": 2
+    },
+    {
+      "repository": "bytedance/UniVR",
+      "merged": 2
+    },
+    {
+      "repository": "carapace-sh/carapace-bin",
+      "merged": 2
+    },
+    {
+      "repository": "career-ops-hq/career-ops",
+      "merged": 2
+    },
+    {
+      "repository": "cathrynlavery/diagram-design",
+      "merged": 2
+    },
+    {
+      "repository": "codewhale-hq/Codewhale",
+      "merged": 2
+    },
+    {
+      "repository": "Crosstalk-Solutions/project-nomad",
+      "merged": 2
+    },
+    {
+      "repository": "cso1z/Feishu-MCP",
+      "merged": 2
+    },
+    {
+      "repository": "ctripcorp/SQLlin",
+      "merged": 2
+    },
+    {
+      "repository": "cubed-dev/cubed",
+      "merged": 2
+    },
+    {
+      "repository": "cursortab/cursortab.nvim",
+      "merged": 2
+    },
+    {
+      "repository": "cviebrock/eloquent-sluggable",
+      "merged": 2
+    },
+    {
+      "repository": "cybergarage/cybergarage-upnp",
+      "merged": 2
+    },
+    {
+      "repository": "cycjimmy/semantic-release-action",
+      "merged": 2
+    },
+    {
+      "repository": "Cyclenerd/google-cloud-pricing-cost-calculator",
+      "merged": 2
+    },
+    {
+      "repository": "cytomining/pycytominer",
+      "merged": 2
+    },
+    {
+      "repository": "Cyxuan0311/PNANA",
+      "merged": 2
+    },
+    {
+      "repository": "d-bahr/CRCpp",
+      "merged": 2
+    },
+    {
+      "repository": "d-krupke/cpsat-primer",
+      "merged": 2
+    },
+    {
+      "repository": "dadhi/FastExpressionCompiler",
+      "merged": 2
+    },
+    {
+      "repository": "dafrito/luacxx",
+      "merged": 2
+    },
+    {
+      "repository": "dagrejs/dagre",
+      "merged": 2
+    },
+    {
+      "repository": "dahlia/cjk-compsci-terms",
+      "merged": 2
+    },
+    {
+      "repository": "dalibo/pev2",
+      "merged": 2
+    },
+    {
+      "repository": "DamianEdwards/RazorSlices",
+      "merged": 2
+    },
+    {
+      "repository": "damianszczepanik/maven-cucumber-reporting",
+      "merged": 2
+    },
+    {
+      "repository": "danielaparker/jsoncons",
+      "merged": 2
+    },
+    {
+      "repository": "danielfrg/mkdocs-jupyter",
+      "merged": 2
+    },
+    {
+      "repository": "dankelley/oce",
+      "merged": 2
+    },
+    {
+      "repository": "dankogai/js-base64",
+      "merged": 2
+    },
+    {
+      "repository": "darrachequesne/spring-data-jpa-datatables",
+      "merged": 2
+    },
+    {
+      "repository": "dash14/v-network-graph",
+      "merged": 2
+    },
+    {
+      "repository": "datarootsio/databooks",
+      "merged": 2
+    },
+    {
+      "repository": "dave3d/dicom2stl",
+      "merged": 2
+    },
+    {
+      "repository": "debanjandhar12/logseq-anki-sync",
+      "merged": 2
+    },
+    {
+      "repository": "deeplay-io/nice-grpc",
+      "merged": 2
+    },
+    {
+      "repository": "disposable-email-domains/disposable-email-domains",
+      "merged": 2
+    },
+    {
+      "repository": "DosX-dev/obfus.h",
+      "merged": 2
+    },
+    {
+      "repository": "dvershinin/gixy",
+      "merged": 2
+    },
+    {
+      "repository": "EbookFoundation/free-programming-books",
+      "merged": 2
+    },
+    {
+      "repository": "Egonex-AI/Understand-Anything",
+      "merged": 2
+    },
+    {
+      "repository": "elixir-broadway/broadway",
+      "merged": 2
+    },
+    {
+      "repository": "floci-io/floci",
+      "merged": 2
+    },
+    {
+      "repository": "huginn/huginn",
+      "merged": 2
+    },
+    {
+      "repository": "ifixai-ai/iFixAi",
+      "merged": 2
+    },
+    {
+      "repository": "jaimetur/PhotoMigrator",
+      "merged": 2
+    },
+    {
+      "repository": "Jolg42/awesome-typography",
+      "merged": 2
+    },
+    {
+      "repository": "jordan-gibbs/hyperresearch",
+      "merged": 2
+    },
+    {
+      "repository": "kirodotdev/KiroCrew",
+      "merged": 2
+    },
+    {
+      "repository": "latitude-dev/latitude-llm",
+      "merged": 2
+    },
+    {
+      "repository": "latonita/arduino-canbus-monitor",
+      "merged": 2
+    },
+    {
+      "repository": "Lavmee/constraintlayout-compose-multiplatform",
+      "merged": 2
+    },
+    {
+      "repository": "Lawouach/WebSocket-for-Python",
+      "merged": 2
+    },
+    {
+      "repository": "lazamar/nix-package-versions",
+      "merged": 2
+    },
+    {
+      "repository": "lbbrhzn/ocpp",
+      "merged": 2
+    },
+    {
+      "repository": "Mapika/decider",
+      "merged": 2
+    },
+    {
+      "repository": "melgarafael/DeskcommCRM",
+      "merged": 2
+    },
+    {
+      "repository": "msp1974/ViewAssist_Companion_App",
+      "merged": 2
+    },
+    {
+      "repository": "notque/vexjoy-agent",
+      "merged": 2
+    },
+    {
+      "repository": "oban-bg/oban",
+      "merged": 2
+    },
+    {
+      "repository": "OpenWhispr/openwhispr",
+      "merged": 2
+    },
+    {
+      "repository": "p1neappleXpress/OpenFlux",
+      "merged": 2
+    },
+    {
+      "repository": "pascalorg/editor",
+      "merged": 2
+    },
+    {
+      "repository": "plotly/dash",
+      "merged": 2
+    },
+    {
+      "repository": "reviewdog/action-golangci-lint",
+      "merged": 2
+    },
+    {
+      "repository": "reviewdog/action-shellcheck",
+      "merged": 2
+    },
+    {
+      "repository": "reviewdog/action-tflint",
+      "merged": 2
+    },
+    {
+      "repository": "rhash/RHash",
+      "merged": 2
+    },
+    {
+      "repository": "ridiculousfish/libdivide",
+      "merged": 2
+    },
+    {
+      "repository": "rocky/python-uncompyle6",
+      "merged": 2
+    },
+    {
+      "repository": "rstackjs/storybook-rsbuild",
+      "merged": 2
+    },
+    {
+      "repository": "ryota-murakami/create-react-app-vite",
+      "merged": 2
+    },
+    {
+      "repository": "sfstar/hass-victron",
+      "merged": 2
+    },
+    {
+      "repository": "silverstein/minutes",
+      "merged": 2
+    },
+    {
+      "repository": "superagents-lab/jev-search",
+      "merged": 2
+    },
+    {
+      "repository": "urchade/GLiNER",
+      "merged": 2
+    },
+    {
+      "repository": "vastsa/PI-Desktop",
+      "merged": 2
+    },
+    {
+      "repository": "verl-project/uni-agent",
+      "merged": 2
+    },
+    {
+      "repository": "VisActor/VTable",
+      "merged": 2
+    },
+    {
+      "repository": "web-infra-dev/rslib",
+      "merged": 2
+    },
+    {
+      "repository": "yetone/cumora",
+      "merged": 2
+    },
+    {
+      "repository": "zhayujie/CowAgent",
+      "merged": 2
+    },
+    {
+      "repository": "05bit/peewee-async",
+      "merged": 1
+    },
+    {
+      "repository": "0b01001001/spectree",
+      "merged": 1
+    },
+    {
+      "repository": "0cv/herdr-mobile-relay",
+      "merged": 1
+    },
+    {
+      "repository": "0no-co/gql.tada",
+      "merged": 1
+    },
+    {
+      "repository": "0x676e67/wreq",
+      "merged": 1
+    },
+    {
+      "repository": "0xAX/linux-insides",
+      "merged": 1
+    },
+    {
+      "repository": "0xdea/frida-scripts",
+      "merged": 1
+    },
+    {
+      "repository": "0xfurai/peekaping",
+      "merged": 1
+    },
+    {
+      "repository": "0xJacky/nginx-ui",
+      "merged": 1
+    },
+    {
+      "repository": "0xRayAI/xray",
+      "merged": 1
+    },
+    {
+      "repository": "10x-Engineers/Infinite-ISP",
+      "merged": 1
+    },
+    {
+      "repository": "188080501/JQTools",
+      "merged": 1
+    },
+    {
+      "repository": "1parado/grok-build-switch",
+      "merged": 1
+    },
+    {
+      "repository": "24pullrequests/24pullrequests",
+      "merged": 1
+    },
+    {
+      "repository": "255kb/stack-on-a-budget",
+      "merged": 1
+    },
+    {
+      "repository": "291-Group/LAN-Orangutan",
+      "merged": 1
+    },
+    {
+      "repository": "2b3pro/roam-research-mcp",
+      "merged": 1
+    },
+    {
+      "repository": "2BAD/bitrix",
+      "merged": 1
+    },
+    {
+      "repository": "2KAbhishek/tmux2k",
+      "merged": 1
+    },
+    {
+      "repository": "34892002/bilibili-mcp-js",
+      "merged": 1
+    },
+    {
+      "repository": "389ds/389-ds-base",
+      "merged": 1
+    },
+    {
+      "repository": "3dmol/3Dmol.js",
+      "merged": 1
+    },
+    {
+      "repository": "422658476/MPV-EASY-Player",
+      "merged": 1
+    },
+    {
+      "repository": "42paris/42header",
+      "merged": 1
+    },
+    {
+      "repository": "42wim/matterircd",
+      "merged": 1
+    },
+    {
+      "repository": "44bits/awesome-opensource-documents",
+      "merged": 1
+    },
+    {
+      "repository": "4gray/iptvnator",
+      "merged": 1
+    },
+    {
+      "repository": "4IceG/luci-app-3ginfo-lite",
+      "merged": 1
+    },
+    {
+      "repository": "52CV/CV-Surveys",
+      "merged": 1
+    },
+    {
+      "repository": "64bit/async-openai",
+      "merged": 1
+    },
+    {
+      "repository": "66RING/tiny-flash-attention",
+      "merged": 1
+    },
+    {
+      "repository": "6bee/Remote.Linq",
+      "merged": 1
+    },
+    {
+      "repository": "777genius/agent-notifications",
+      "merged": 1
+    },
+    {
+      "repository": "88250/gulu",
+      "merged": 1
+    },
+    {
+      "repository": "88250/pipe",
+      "merged": 1
+    },
+    {
+      "repository": "8b-is/smart-tree",
+      "merged": 1
+    },
+    {
+      "repository": "a-agmon/rs-graph-llm",
+      "merged": 1
+    },
+    {
+      "repository": "a-r-j/graphein",
+      "merged": 1
+    },
+    {
+      "repository": "a2aproject/a2a-go",
+      "merged": 1
+    },
+    {
+      "repository": "a466350665/smart-sso",
+      "merged": 1
+    },
+    {
+      "repository": "aandrew-me/ytDownloader",
+      "merged": 1
+    },
+    {
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "merged": 1
+    },
+    {
+      "repository": "aaronhma/awesome-tensorflow-js",
+      "merged": 1
+    },
+    {
+      "repository": "aaronrussell/ollama-ex",
+      "merged": 1
+    },
+    {
+      "repository": "aaru-dps/Aaru",
+      "merged": 1
+    },
+    {
+      "repository": "abarichello/godot-ci",
+      "merged": 1
+    },
+    {
+      "repository": "Abdelrhman-AK/WinPaletter",
+      "merged": 1
+    },
+    {
+      "repository": "AbdelStark/awesome-typesafe-jev",
+      "merged": 1
+    },
+    {
+      "repository": "abdessamadbettal/Falah",
+      "merged": 1
+    },
+    {
+      "repository": "abdfnx/tran",
+      "merged": 1
+    },
+    {
+      "repository": "abdolence/slack-morphism-rust",
+      "merged": 1
+    },
+    {
+      "repository": "abersheeran/kui",
+      "merged": 1
+    },
+    {
+      "repository": "ablab/spades",
+      "merged": 1
+    },
+    {
+      "repository": "Abraxas-365/langchain-rust",
+      "merged": 1
+    },
+    {
+      "repository": "abrignoni/iLEAPP",
+      "merged": 1
+    },
+    {
+      "repository": "absmach/magistrala",
+      "merged": 1
+    },
+    {
+      "repository": "academic/awesome-datascience",
+      "merged": 1
+    },
+    {
+      "repository": "ACB-prgm/Godot_GamePad",
+      "merged": 1
+    },
+    {
+      "repository": "accelerated-text/awesome-nlg",
+      "merged": 1
+    },
+    {
+      "repository": "AchoArnold/discount-for-student-dev",
+      "merged": 1
+    },
+    {
+      "repository": "ACL4SSR/ACL4SSR",
+      "merged": 1
+    },
+    {
+      "repository": "acrodata/gui",
+      "merged": 1
+    },
+    {
+      "repository": "acuteimmersive/openimmersive",
+      "merged": 1
+    },
+    {
+      "repository": "ad-m/github-push-action",
+      "merged": 1
+    },
+    {
+      "repository": "adamabdelhamed/PowerArgs",
+      "merged": 1
+    },
+    {
+      "repository": "adamhathcock/sharpcompress",
+      "merged": 1
+    },
+    {
+      "repository": "addyosmani/agent-skills",
+      "merged": 1
+    },
+    {
+      "repository": "adept/full-fledged-hledger",
+      "merged": 1
+    },
+    {
+      "repository": "adinhodovic/terraform-cloudflare-maintenance",
+      "merged": 1
+    },
+    {
+      "repository": "adlio/trello",
+      "merged": 1
+    },
+    {
+      "repository": "admpub/nging",
+      "merged": 1
+    },
+    {
+      "repository": "AdnanHodzic/auto-cpufreq",
+      "merged": 1
+    },
+    {
+      "repository": "adobe-webplatform/Snap.svg",
+      "merged": 1
+    },
+    {
+      "repository": "adoconnection/RazorEngineCore",
+      "merged": 1
+    },
+    {
+      "repository": "adorsys/keycloak-config-cli",
+      "merged": 1
+    },
+    {
+      "repository": "adrai/flowchart.js",
+      "merged": 1
+    },
+    {
+      "repository": "adriankarlen/textfox",
+      "merged": 1
+    },
+    {
+      "repository": "adrianyorke/robotframework-cookbook",
+      "merged": 1
+    },
+    {
+      "repository": "AdrienTorris/awesome-blazor",
+      "merged": 1
+    },
+    {
+      "repository": "aelassas/bookcars",
+      "merged": 1
+    },
+    {
+      "repository": "aelassas/wexflow",
+      "merged": 1
+    },
+    {
+      "repository": "aelew/devterms",
+      "merged": 1
+    },
+    {
+      "repository": "aeonfun/aeon",
+      "merged": 1
+    },
+    {
+      "repository": "aerovato/container",
+      "merged": 1
+    },
+    {
+      "repository": "aeshell/aesh",
+      "merged": 1
+    },
+    {
+      "repository": "afritz1/OpenTESArena",
+      "merged": 1
+    },
+    {
+      "repository": "agamm/awesome-developer-first",
+      "merged": 1
+    },
+    {
+      "repository": "Agda-zh/PLFA-zh",
+      "merged": 1
+    },
+    {
+      "repository": "agda/agda",
+      "merged": 1
+    },
+    {
+      "repository": "agent-infra/sandbox",
+      "merged": 1
+    },
+    {
+      "repository": "agentjido/req_llm",
+      "merged": 1
+    },
+    {
+      "repository": "agiledragon/gomonkey",
+      "merged": 1
+    },
+    {
+      "repository": "agitter/single-cell-pseudotime",
+      "merged": 1
+    },
+    {
+      "repository": "Aguafrommars/TheIdServer",
+      "merged": 1
+    },
+    {
+      "repository": "agustinusnathaniel/vite-react-chakra-starter",
+      "merged": 1
+    },
+    {
+      "repository": "ahausladen/JsonDataObjects",
+      "merged": 1
+    },
+    {
+      "repository": "ahkohd/tauri-nspanel",
+      "merged": 1
+    },
+    {
+      "repository": "ahmedfgad/GeneticAlgorithmPython",
+      "merged": 1
+    },
+    {
+      "repository": "ahrefs/atd",
+      "merged": 1
+    },
+    {
+      "repository": "AI4Finance-Foundation/FinRobot",
+      "merged": 1
+    },
+    {
+      "repository": "aimeos/aimeos",
+      "merged": 1
+    },
+    {
+      "repository": "aimeos/upscheme",
+      "merged": 1
+    },
+    {
+      "repository": "aiokitchen/aiomisc",
+      "merged": 1
+    },
+    {
+      "repository": "airene/vitepress-blog-pure",
+      "merged": 1
+    },
+    {
+      "repository": "airlift/aircompressor",
+      "merged": 1
+    },
+    {
+      "repository": "AISecurityLab/hackagent",
+      "merged": 1
+    },
+    {
+      "repository": "aishwaryanr/awesome-generative-ai-guide",
+      "merged": 1
+    },
+    {
+      "repository": "aisingapore/sealion",
+      "merged": 1
+    },
+    {
+      "repository": "Ajatt-Tools/mpvacious",
+      "merged": 1
+    },
+    {
+      "repository": "ajermakovics/jvm-mon",
+      "merged": 1
+    },
+    {
+      "repository": "ajinabraham/libsast",
+      "merged": 1
+    },
+    {
+      "repository": "ajinabraham/njsscan",
+      "merged": 1
+    },
+    {
+      "repository": "ajwann/svg-loaders-react",
+      "merged": 1
+    },
+    {
+      "repository": "akfamily/akshare",
+      "merged": 1
+    },
+    {
+      "repository": "akgulebubekir/Maui.DataGrid",
+      "merged": 1
+    },
+    {
+      "repository": "akinomyoga/ble.sh",
+      "merged": 1
+    },
+    {
+      "repository": "alantech/alan",
+      "merged": 1
+    },
+    {
+      "repository": "AlaSQL/alasql",
+      "merged": 1
+    },
+    {
+      "repository": "albfernandez/javadbf",
+      "merged": 1
+    },
+    {
+      "repository": "albfernandez/juniversalchardet",
+      "merged": 1
+    },
+    {
+      "repository": "alda-lang/alda",
+      "merged": 1
+    },
+    {
+      "repository": "aldinokemal/go-whatsapp-web-multidevice",
+      "merged": 1
+    },
+    {
+      "repository": "alecjacobson/gptoolbox",
+      "merged": 1
+    },
+    {
+      "repository": "ALEEEHU/World-Simulator",
+      "merged": 1
+    },
+    {
+      "repository": "AlekPet/ComfyUI_Custom_Nodes_AlekPet",
+      "merged": 1
+    },
+    {
+      "repository": "alessiomaffeis/vue-picture-input",
+      "merged": 1
+    },
+    {
+      "repository": "AlexandrErohin/home-assistant-flightradar24",
+      "merged": 1
+    },
+    {
+      "repository": "AlexandrErohin/home-assistant-tplink-router",
+      "merged": 1
+    },
+    {
+      "repository": "alexbol99/flatten-js",
+      "merged": 1
+    },
+    {
+      "repository": "alexmojaki/executing",
+      "merged": 1
+    },
+    {
+      "repository": "alexmyczko/fnt",
+      "merged": 1
+    },
+    {
+      "repository": "alexmyczko/ruptime",
+      "merged": 1
+    },
+    {
+      "repository": "AlexNabokikh/tfsort",
+      "merged": 1
+    },
+    {
+      "repository": "alexpate/awesome-design-systems",
+      "merged": 1
+    },
+    {
+      "repository": "alexruperez/SecurePropertyStorage",
+      "merged": 1
+    },
+    {
+      "repository": "AlexsJones/llmfit",
+      "merged": 1
+    },
+    {
+      "repository": "Alfredredbird/tookie-osint",
+      "merged": 1
+    },
+    {
+      "repository": "alibaba/jetcache",
+      "merged": 1
+    },
+    {
+      "repository": "alibaba/pemja",
+      "merged": 1
+    },
+    {
+      "repository": "AllThingsSmitty/must-watch-javascript",
+      "merged": 1
+    },
+    {
+      "repository": "alteryx/locust-grasshopper",
+      "merged": 1
+    },
+    {
+      "repository": "alvinreal/awesome-opensource-ai",
+      "merged": 1
+    },
+    {
+      "repository": "am-will/gooey-pi",
+      "merged": 1
+    },
+    {
+      "repository": "amagine-ai/Amagine3D",
+      "merged": 1
+    },
+    {
+      "repository": "Amal-David/awesome-jev",
+      "merged": 1
+    },
+    {
+      "repository": "ambethia/recaptcha",
+      "merged": 1
+    },
+    {
+      "repository": "amElnagdy/delegate-skills",
+      "merged": 1
+    },
+    {
+      "repository": "ammarahm-ed/react-native-actions-sheet",
+      "merged": 1
+    },
+    {
+      "repository": "amol-/depot",
+      "merged": 1
+    },
+    {
+      "repository": "AmplifyCreations/AmplifyOcclusion",
+      "merged": 1
+    },
+    {
+      "repository": "amro/gibbon",
+      "merged": 1
+    },
+    {
+      "repository": "amxv/mcp-manager",
+      "merged": 1
+    },
+    {
+      "repository": "analysis-tools-dev/static-analysis",
+      "merged": 1
+    },
+    {
+      "repository": "anasfik/openai",
+      "merged": 1
+    },
+    {
+      "repository": "anaskhan96/soup",
+      "merged": 1
+    },
+    {
+      "repository": "anddea/revanced-patches",
+      "merged": 1
+    },
+    {
+      "repository": "anderseknert/kube-review",
+      "merged": 1
+    },
+    {
+      "repository": "AndersonBY/vector-vein",
+      "merged": 1
+    },
+    {
+      "repository": "andreax79/airflow-code-editor",
+      "merged": 1
+    },
+    {
+      "repository": "andrei-tatar/node-red-contrib-smartnora",
+      "merged": 1
+    },
+    {
+      "repository": "andrejilderda/joplin-macos-native-theme",
+      "merged": 1
+    },
+    {
+      "repository": "andresgongora/synth-shell",
+      "merged": 1
+    },
+    {
+      "repository": "andrewda/awesome-frc",
+      "merged": 1
+    },
+    {
+      "repository": "AndreWeiner/flowtorch",
+      "merged": 1
+    },
+    {
+      "repository": "andrewferrier/wrapping.nvim",
+      "merged": 1
+    },
+    {
+      "repository": "AndrewRathbun/DFIRArtifactMuseum",
+      "merged": 1
+    },
+    {
+      "repository": "andriy-git/stocksTUI",
+      "merged": 1
+    },
+    {
+      "repository": "andrumak/MyBox",
+      "merged": 1
+    },
+    {
+      "repository": "Anduin2017/HowToCook",
+      "merged": 1
+    },
+    {
+      "repository": "andybalholm/cascadia",
+      "merged": 1
+    },
+    {
+      "repository": "AngelJumbo/sssnake",
+      "merged": 1
+    },
+    {
+      "repository": "AngusKit/AngusTester",
+      "merged": 1
+    },
+    {
+      "repository": "Anil-matcha/awesome-muse-connectors",
+      "merged": 1
+    },
+    {
+      "repository": "anirudhbiyani/findmytakeover",
+      "merged": 1
+    },
+    {
+      "repository": "ankane/production_rails",
+      "merged": 1
+    },
+    {
+      "repository": "ankane/vue-chartkick",
+      "merged": 1
+    },
+    {
+      "repository": "anomalyco/opencode",
+      "merged": 1
+    },
+    {
+      "repository": "anomalyco/opentui",
+      "merged": 1
+    },
+    {
+      "repository": "anotheria/moskito",
+      "merged": 1
+    },
+    {
+      "repository": "AnotiaWang/awesome-decision-models",
+      "merged": 1
+    },
+    {
+      "repository": "AnsGoo/openDataV",
+      "merged": 1
+    },
+    {
+      "repository": "ansible-community/awesome-ansible",
+      "merged": 1
+    },
+    {
+      "repository": "ansman/kotshi",
+      "merged": 1
+    },
+    {
+      "repository": "AntdUI/AntdUI",
+      "merged": 1
+    },
+    {
+      "repository": "AnthonyCalandra/modern-cpp-features",
+      "merged": 1
+    },
+    {
+      "repository": "AntiMicroX/antimicrox",
+      "merged": 1
+    },
+    {
+      "repository": "antimony-lang/antimony",
+      "merged": 1
+    },
+    {
+      "repository": "antonagestam/phantom-types",
+      "merged": 1
+    },
+    {
+      "repository": "antonbabenko/terraform-docs-as-pdf",
+      "merged": 1
+    },
+    {
+      "repository": "antonioribeiro/countries",
+      "merged": 1
+    },
+    {
+      "repository": "antosha417/nvim-lsp-file-operations",
+      "merged": 1
+    },
+    {
+      "repository": "anufrievroman/waypaper",
+      "merged": 1
+    },
+    {
+      "repository": "Anuken/Mindustry",
+      "merged": 1
+    },
+    {
+      "repository": "AnyRPG/AnyRPGCore",
+      "merged": 1
+    },
+    {
+      "repository": "aorumbayev/awesome-omarchy",
+      "merged": 1
+    },
+    {
+      "repository": "APA-Technology-Division/urban-and-regional-planning-resources",
+      "merged": 1
+    },
+    {
+      "repository": "apache/allura",
+      "merged": 1
+    },
+    {
+      "repository": "apache/atlas",
+      "merged": 1
+    },
+    {
+      "repository": "apache/calcite-avatica",
+      "merged": 1
+    },
+    {
+      "repository": "apache/calcite-avatica-go",
+      "merged": 1
+    },
+    {
+      "repository": "apache/casbin-node-casbin",
+      "merged": 1
+    },
+    {
+      "repository": "apache/causeway",
+      "merged": 1
+    },
+    {
+      "repository": "apache/shardingsphere-elasticjob",
+      "merged": 1
+    },
+    {
+      "repository": "apache/skywalking-rover",
+      "merged": 1
+    },
+    {
+      "repository": "appleple/smartblock",
+      "merged": 1
+    },
+    {
+      "repository": "appsinacup/godot-rapier-physics",
+      "merged": 1
+    },
+    {
+      "repository": "Ar-Ray-code/YOLOX-ROS",
+      "merged": 1
+    },
+    {
+      "repository": "arco-design/arco-design-mobile",
+      "merged": 1
+    },
+    {
+      "repository": "arco-design/arco-design-vue",
+      "merged": 1
+    },
+    {
+      "repository": "armbrain-io/armbrain-cursor-plugin",
+      "merged": 1
+    },
+    {
+      "repository": "artem-sedykh/mini-climate-card",
+      "merged": 1
+    },
+    {
+      "repository": "ash-project/ash",
+      "merged": 1
+    },
+    {
+      "repository": "AstraZeneca/awesome-drug-pair-scoring",
+      "merged": 1
+    },
+    {
+      "repository": "astrelsky/GhidraOrbis",
+      "merged": 1
+    },
+    {
+      "repository": "Asymptote-Labs/agent-beacon",
+      "merged": 1
+    },
+    {
+      "repository": "avelino/awesome-go",
+      "merged": 1
+    },
+    {
+      "repository": "avibe-bot/avibe",
+      "merged": 1
+    },
+    {
+      "repository": "awesome-algorand/awesome-algorand",
+      "merged": 1
+    },
+    {
+      "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "merged": 1
+    },
+    {
+      "repository": "awesome-gptX/awesome-gpt",
+      "merged": 1
+    },
+    {
+      "repository": "BabitMF/bmf",
+      "merged": 1
+    },
+    {
+      "repository": "balintkissdev/awesome-dos",
+      "merged": 1
+    },
+    {
+      "repository": "bbbenji/synthwave-hass",
+      "merged": 1
+    },
+    {
+      "repository": "bcoe/awesome-cross-platform-nodejs",
+      "merged": 1
+    },
+    {
+      "repository": "bilawalsidhu/gods-eye-view",
+      "merged": 1
+    },
+    {
+      "repository": "bkrem/awesome-solidity",
+      "merged": 1
+    },
+    {
+      "repository": "Bogdanp/awesome-advent-of-code",
+      "merged": 1
+    },
+    {
+      "repository": "BottlecapDave/HomeAssistant-OctopusEnergy",
+      "merged": 1
+    },
+    {
+      "repository": "brainstormity/Jev-X-Sentiment-Analysis",
+      "merged": 1
+    },
+    {
+      "repository": "BugeStudioTeam/Buge-App-Manager",
+      "merged": 1
+    },
+    {
+      "repository": "busabase/busabase",
+      "merged": 1
+    },
+    {
+      "repository": "bytecauldron/awesome-gamemaker",
+      "merged": 1
+    },
+    {
+      "repository": "bytedance/AdsGlobalPackage",
+      "merged": 1
+    },
+    {
+      "repository": "bytedance/bolt",
+      "merged": 1
+    },
+    {
+      "repository": "bytedance/gg",
+      "merged": 1
+    },
+    {
+      "repository": "bytedance/jaqmc",
+      "merged": 1
+    },
+    {
+      "repository": "bytedance/SALMONN",
+      "merged": 1
+    },
+    {
+      "repository": "bytedance/xgplayer",
+      "merged": 1
+    },
+    {
+      "repository": "cactus-compute/needle",
+      "merged": 1
+    },
+    {
+      "repository": "cashapp/turbine",
+      "merged": 1
+    },
+    {
+      "repository": "CelestoAI/celesto",
+      "merged": 1
+    },
+    {
+      "repository": "chakra-ui/zag",
+      "merged": 1
+    },
+    {
+      "repository": "Clooos/Bubble-Card",
+      "merged": 1
+    },
+    {
+      "repository": "cloudwego/abcoder",
+      "merged": 1
+    },
+    {
+      "repository": "cloudwego/eino",
+      "merged": 1
+    },
+    {
+      "repository": "cloudwego/eino-ext",
+      "merged": 1
+    },
+    {
+      "repository": "Codepoints/awesome-codepoints",
+      "merged": 1
+    },
+    {
+      "repository": "coldteadotai/abide",
+      "merged": 1
+    },
+    {
+      "repository": "collective/awesome-plone",
+      "merged": 1
+    },
+    {
+      "repository": "Community-Access/quill",
+      "merged": 1
+    },
+    {
+      "repository": "CopilotKit/OpenBot",
+      "merged": 1
+    },
+    {
+      "repository": "CScorza/OSINTAnonymous",
+      "merged": 1
+    },
+    {
+      "repository": "csingley/ofxtools",
+      "merged": 1
+    },
+    {
+      "repository": "csinva/imodels",
+      "merged": 1
+    },
+    {
+      "repository": "csound/csound",
+      "merged": 1
+    },
+    {
+      "repository": "cssmagic/Awesome-AI",
+      "merged": 1
+    },
+    {
+      "repository": "ctjhoa/rust-learning",
+      "merged": 1
+    },
+    {
+      "repository": "cubezhao/ai-tools-mng",
+      "merged": 1
+    },
+    {
+      "repository": "cubicdaiya/nginx-build",
+      "merged": 1
+    },
+    {
+      "repository": "cubxxw/awesome-cs-cloudnative-blockchain",
+      "merged": 1
+    },
+    {
+      "repository": "cubxxw/awesome-cs-course",
+      "merged": 1
+    },
+    {
+      "repository": "CursorTouch/Android-MCP",
+      "merged": 1
+    },
+    {
+      "repository": "CursorTouch/Windows-MCP",
+      "merged": 1
+    },
+    {
+      "repository": "custom-cards/flex-table-card",
+      "merged": 1
+    },
+    {
+      "repository": "custom-components/ble_monitor",
+      "merged": 1
+    },
+    {
+      "repository": "custom-components/places",
+      "merged": 1
+    },
+    {
+      "repository": "cvat-ai/cvat",
+      "merged": 1
+    },
+    {
+      "repository": "cvilsmeier/sqinn-go",
+      "merged": 1
+    },
+    {
+      "repository": "cwchenwang/awesome-3d-diffusion",
+      "merged": 1
+    },
+    {
+      "repository": "cwinvestments/memstack",
+      "merged": 1
+    },
+    {
+      "repository": "cyberchitta/scrapling-fetch-mcp",
+      "merged": 1
+    },
+    {
+      "repository": "cybermaxs/awesome-analyzers",
+      "merged": 1
+    },
+    {
+      "repository": "cybertec-postgresql/pg_timetable",
+      "merged": 1
+    },
+    {
+      "repository": "cycfi/elements",
+      "merged": 1
+    },
+    {
+      "repository": "cycle/orm",
+      "merged": 1
+    },
+    {
+      "repository": "cyclejs-community/awesome-cyclejs",
+      "merged": 1
+    },
+    {
+      "repository": "cyclosm/cyclosm-cartocss-style",
+      "merged": 1
+    },
+    {
+      "repository": "cym1102/nginxWebUI",
+      "merged": 1
+    },
+    {
+      "repository": "cymcsg/UltimateRecyclerView",
+      "merged": 1
+    },
+    {
+      "repository": "cypress-visual-regression/cypress-visual-regression",
+      "merged": 1
+    },
+    {
+      "repository": "Cysharp/ConsoleAppFramework",
+      "merged": 1
+    },
+    {
+      "repository": "d-513/grok-bot-nix",
+      "merged": 1
+    },
+    {
+      "repository": "d-wasserman/Complete_Street_Rule",
+      "merged": 1
+    },
+    {
+      "repository": "d-widget-toolkit/dwt",
+      "merged": 1
+    },
+    {
+      "repository": "d3-node/d3-node",
+      "merged": 1
+    },
+    {
+      "repository": "d3plus/d3plus",
+      "merged": 1
+    },
+    {
+      "repository": "daac-tools/vibrato",
+      "merged": 1
+    },
+    {
+      "repository": "daanx/mimalloc-bench",
+      "merged": 1
+    },
+    {
+      "repository": "dadhi/DryIoc",
+      "merged": 1
+    },
+    {
+      "repository": "dagrejs/graphlib",
+      "merged": 1
+    },
+    {
+      "repository": "dagucloud/dagu",
+      "merged": 1
+    },
+    {
+      "repository": "dai-shi/use-context-selector",
+      "merged": 1
+    },
+    {
+      "repository": "dail8859/NotepadNext",
+      "merged": 1
+    },
+    {
+      "repository": "dajobe/raptor",
+      "merged": 1
+    },
+    {
+      "repository": "dalisoft/awesome-storage",
+      "merged": 1
+    },
+    {
+      "repository": "damianricobelli/stepperize",
+      "merged": 1
+    },
+    {
+      "repository": "damianszczepanik/cucumber-reporting",
+      "merged": 1
+    },
+    {
+      "repository": "dan2097/opsin",
+      "merged": 1
+    },
+    {
+      "repository": "dani-garcia/vaultwarden",
+      "merged": 1
+    },
+    {
+      "repository": "daniel-frak/keycloak-user-migration",
+      "merged": 1
+    },
+    {
+      "repository": "daniel-sc/ng-extract-i18n-merge",
+      "merged": 1
+    },
+    {
+      "repository": "DanielCardonaRojas/codemark",
+      "merged": 1
+    },
+    {
+      "repository": "danieldotnl/ha-multiscrape",
+      "merged": 1
+    },
+    {
+      "repository": "DanielGavin/ols",
+      "merged": 1
+    },
+    {
+      "repository": "danielgerlag/workflow-core",
+      "merged": 1
+    },
+    {
+      "repository": "DanielMartensson/Open-SAE-J1939",
+      "merged": 1
+    },
+    {
+      "repository": "danielpalme/ReportGenerator",
+      "merged": 1
+    },
+    {
+      "repository": "danielpclark/rutie",
+      "merged": 1
+    },
+    {
+      "repository": "danielperna84/hass-configurator",
+      "merged": 1
+    },
+    {
+      "repository": "danielward27/flowjax",
+      "merged": 1
+    },
+    {
+      "repository": "danlwarren/ENMTools",
+      "merged": 1
+    },
+    {
+      "repository": "danmayer/coverband",
+      "merged": 1
+    },
+    {
+      "repository": "dannyfritz/awesome-ray-tracing",
+      "merged": 1
+    },
+    {
+      "repository": "dante-ev/latex-action",
+      "merged": 1
+    },
+    {
+      "repository": "danuk/shm",
+      "merged": 1
+    },
+    {
+      "repository": "dapper91/pydantic-xml",
+      "merged": 1
+    },
+    {
+      "repository": "Darazaki/indent-o-matic",
+      "merged": 1
+    },
+    {
+      "repository": "darold/pgcluu",
+      "merged": 1
+    },
+    {
+      "repository": "darrenburns/posting",
+      "merged": 1
+    },
+    {
+      "repository": "darrenldl/docfd",
+      "merged": 1
+    },
+    {
+      "repository": "darsyn/ip",
+      "merged": 1
+    },
+    {
+      "repository": "daseinlabs/open-jev",
+      "merged": 1
+    },
+    {
+      "repository": "dashbitco/flow",
+      "merged": 1
+    },
+    {
+      "repository": "dashbitco/mox",
+      "merged": 1
+    },
+    {
+      "repository": "dashbitco/nimble_publisher",
+      "merged": 1
+    },
+    {
+      "repository": "dashbitco/nimble_totp",
+      "merged": 1
+    },
+    {
+      "repository": "data-driven-forms/react-forms",
+      "merged": 1
+    },
+    {
+      "repository": "data-forge/data-forge-ts",
+      "merged": 1
+    },
+    {
+      "repository": "databricks/sjsonnet",
+      "merged": 1
+    },
+    {
+      "repository": "datachain-ai/datachain",
+      "merged": 1
+    },
+    {
+      "repository": "datalayer/fasta2a",
+      "merged": 1
+    },
+    {
+      "repository": "datalayer/jupyter-mcp-server",
+      "merged": 1
+    },
+    {
+      "repository": "datalevin/datalevin",
+      "merged": 1
+    },
+    {
+      "repository": "datamade/site-launch-checklist",
+      "merged": 1
+    },
+    {
+      "repository": "datanucleus/datanucleus-core",
+      "merged": 1
+    },
+    {
+      "repository": "datar001/Awesome-AD-on-T2IDM",
+      "merged": 1
+    },
+    {
+      "repository": "datastax/jvector",
+      "merged": 1
+    },
+    {
+      "repository": "dathere/qsv",
+      "merged": 1
+    },
+    {
+      "repository": "davecom/SwiftGraph",
+      "merged": 1
+    },
+    {
+      "repository": "davenverse/fuuid",
+      "merged": 1
+    },
+    {
+      "repository": "dayflow-js/BlossomColorPicker",
+      "merged": 1
+    },
+    {
+      "repository": "dbcli/pgcli",
+      "merged": 1
+    },
+    {
+      "repository": "dbos-inc/awesome-dbos",
+      "merged": 1
+    },
+    {
+      "repository": "ddotta/awesome-polars",
+      "merged": 1
+    },
+    {
+      "repository": "deadc0de6/dotdrop",
+      "merged": 1
+    },
+    {
+      "repository": "deajan/osync",
+      "merged": 1
+    },
+    {
+      "repository": "debpalash/VoiceStudio",
+      "merged": 1
+    },
+    {
+      "repository": "decentralized-identity/did-resolver",
+      "merged": 1
+    },
+    {
+      "repository": "decke/smtprelay",
+      "merged": 1
+    },
+    {
+      "repository": "decompil3d/lovelace-hourly-weather",
+      "merged": 1
+    },
+    {
+      "repository": "DeepSpec/InteractionTrees",
+      "merged": 1
+    },
+    {
+      "repository": "deepstreamIO/deepstream.io-client-js",
+      "merged": 1
+    },
+    {
+      "repository": "deeptime-ml/deeptime",
+      "merged": 1
+    },
+    {
+      "repository": "delucis/astro-auto-import",
+      "merged": 1
+    },
+    {
+      "repository": "demystifyfp/FsToolkit.ErrorHandling",
+      "merged": 1
+    },
+    {
+      "repository": "denodrivers/redis",
+      "merged": 1
+    },
+    {
+      "repository": "dermotduffy/advanced-camera-card",
+      "merged": 1
+    },
+    {
+      "repository": "devxoul/Then",
+      "merged": 1
+    },
+    {
+      "repository": "dhimmel/obonet",
+      "merged": 1
+    },
+    {
+      "repository": "didww/credit_card_validations",
+      "merged": 1
+    },
+    {
+      "repository": "diegohaz/constate",
+      "merged": 1
+    },
+    {
+      "repository": "dieselpoint/norm",
+      "merged": 1
+    },
+    {
+      "repository": "DietrichGebert/ponytail",
+      "merged": 1
+    },
+    {
+      "repository": "dimtass/DSP-Cpp-filters",
+      "merged": 1
+    },
+    {
+      "repository": "disco-lang/disco",
+      "merged": 1
+    },
+    {
+      "repository": "discord-haskell/discord-haskell",
+      "merged": 1
+    },
+    {
+      "repository": "DiscoverBSD/awesome-bsd",
+      "merged": 1
+    },
+    {
+      "repository": "disposable/disposable",
+      "merged": 1
+    },
+    {
+      "repository": "divo12/awesome-grok-bot-templates",
+      "merged": 1
+    },
+    {
+      "repository": "dj-nitehawk/MongoDB.Entities",
+      "merged": 1
+    },
+    {
+      "repository": "django-cms/djangocms-admin-style",
+      "merged": 1
+    },
+    {
+      "repository": "django-guardian/django-guardian",
+      "merged": 1
+    },
+    {
+      "repository": "django-mptt/django-mptt",
+      "merged": 1
+    },
+    {
+      "repository": "DjangoEx/awesome-python-resources",
+      "merged": 1
+    },
+    {
+      "repository": "dlang-community/awesome-d",
+      "merged": 1
+    },
+    {
+      "repository": "dlepaux/realtime-bpm-analyzer",
+      "merged": 1
+    },
+    {
+      "repository": "dlint-py/dlint",
+      "merged": 1
+    },
+    {
+      "repository": "dmjio/envy",
+      "merged": 1
+    },
+    {
+      "repository": "dmmulroy/anti-slop",
+      "merged": 1
+    },
+    {
+      "repository": "dnote/dnote",
+      "merged": 1
+    },
+    {
+      "repository": "doanbactam/awesome-builder-programs",
+      "merged": 1
+    },
+    {
+      "repository": "docat-org/docat",
+      "merged": 1
+    },
+    {
+      "repository": "doctrine/inflector",
+      "merged": 1
+    },
+    {
+      "repository": "doctrine/instantiator",
+      "merged": 1
+    },
+    {
+      "repository": "doctrine/lexer",
+      "merged": 1
+    },
+    {
+      "repository": "doctrine/persistence",
+      "merged": 1
+    },
+    {
+      "repository": "domn1995/dunet",
+      "merged": 1
+    },
+    {
+      "repository": "dompdf/dompdf",
+      "merged": 1
+    },
+    {
+      "repository": "donghao51/Awesome-Multimodal-Adaptation",
+      "merged": 1
+    },
+    {
+      "repository": "dongri/openai-api-rs",
+      "merged": 1
+    },
+    {
+      "repository": "dongyubin/Awesome-AI-Images-Prompts",
+      "merged": 1
+    },
+    {
+      "repository": "donseba/go-htmx",
+      "merged": 1
+    },
+    {
+      "repository": "dorumrr/de1984",
+      "merged": 1
+    },
+    {
+      "repository": "dosasm/masm-tasm",
+      "merged": 1
+    },
+    {
+      "repository": "dotnet-presentations/dotnet-maui-workshop",
+      "merged": 1
+    },
+    {
+      "repository": "dotnet-state-machine/stateless",
+      "merged": 1
+    },
+    {
+      "repository": "dotnet/AspNetCore.Docs",
+      "merged": 1
+    },
+    {
+      "repository": "DouyinFE/semi-design",
+      "merged": 1
+    },
+    {
+      "repository": "dpt/The-Great-Escape-in-C",
+      "merged": 1
+    },
+    {
+      "repository": "drachtio/drachtio-server",
+      "merged": 1
+    },
+    {
+      "repository": "DravenALG/awesome-vla-wam",
+      "merged": 1
+    },
+    {
+      "repository": "drduh/Debian-Privacy-Server-Guide",
+      "merged": 1
+    },
+    {
+      "repository": "dreamhead/moco",
+      "merged": 1
+    },
+    {
+      "repository": "dreamtheater123/Awesome-SpeechLM-Survey",
+      "merged": 1
+    },
+    {
+      "repository": "drogonframework/drogon",
+      "merged": 1
+    },
+    {
+      "repository": "dromara/carbon",
+      "merged": 1
+    },
+    {
+      "repository": "dtc111111/awesome-representation-for-robotics",
+      "merged": 1
+    },
+    {
+      "repository": "duckdb/dbt-duckdb",
+      "merged": 1
+    },
+    {
+      "repository": "duckdb/duckdb-rs",
+      "merged": 1
+    },
+    {
+      "repository": "duckdb/duckdb-spatial",
+      "merged": 1
+    },
+    {
+      "repository": "duckdb/ducklake",
+      "merged": 1
+    },
+    {
+      "repository": "dweinstein/awesome-frida",
+      "merged": 1
+    },
+    {
+      "repository": "dyweb/awesome-resume-for-chinese",
+      "merged": 1
+    },
+    {
+      "repository": "earwig/git-repo-updater",
+      "merged": 1
+    },
+    {
+      "repository": "EasonTuT/Awesome-Interactive-World-Model",
+      "merged": 1
+    },
+    {
+      "repository": "ebertti/awesome-telegram",
+      "merged": 1
+    },
+    {
+      "repository": "elixir-lang/ex_doc",
+      "merged": 1
+    },
+    {
+      "repository": "elixir-nebulex/nebulex",
+      "merged": 1
+    },
+    {
+      "repository": "elixir-nx/nx",
+      "merged": 1
+    },
+    {
+      "repository": "emilk/egui",
+      "merged": 1
+    },
+    {
+      "repository": "ever-co/ever-gauzy",
+      "merged": 1
+    },
+    {
+      "repository": "featherless-ai/simple-jev",
+      "merged": 1
+    },
+    {
+      "repository": "fenixsoft/awesome-fenix",
+      "merged": 1
+    },
+    {
+      "repository": "figranium/figranium",
+      "merged": 1
+    },
+    {
+      "repository": "foliojs/fontkit",
+      "merged": 1
+    },
+    {
+      "repository": "francois-le-ko4la/lovelace-entity-progress-card",
+      "merged": 1
+    },
+    {
+      "repository": "freeCodeCamp/devdocs",
+      "merged": 1
+    },
+    {
+      "repository": "gbdev/awesome-gbdev",
+      "merged": 1
+    },
+    {
+      "repository": "getsentry/sentry",
+      "merged": 1
+    },
+    {
+      "repository": "GopeedLab/gopeed",
+      "merged": 1
+    },
+    {
+      "repository": "gruhn/awesome-naming",
+      "merged": 1
+    },
+    {
+      "repository": "guidance-ai/jsonschemabench",
+      "merged": 1
+    },
+    {
+      "repository": "hal9ai/awesome-dataviz",
+      "merged": 1
+    },
+    {
+      "repository": "handsomestWei/patent-disclosure-skill",
+      "merged": 1
+    },
+    {
+      "repository": "harry0703/MoneyPrinterTurbo",
+      "merged": 1
+    },
+    {
+      "repository": "hassio-addons/app-aircast",
+      "merged": 1
+    },
+    {
+      "repository": "headroomlabs-ai/headroom",
+      "merged": 1
+    },
+    {
+      "repository": "heygen-com/hyperframes",
+      "merged": 1
+    },
+    {
+      "repository": "HKUDS/DeepCode",
+      "merged": 1
+    },
+    {
+      "repository": "huggingface/transformers",
+      "merged": 1
+    },
+    {
+      "repository": "iamericfletcher/awesome-r-learning-resources",
+      "merged": 1
+    },
+    {
+      "repository": "igorbarinov/awesome-bitcoin",
+      "merged": 1
+    },
+    {
+      "repository": "Imbad0202/academic-research-skills",
+      "merged": 1
+    },
+    {
+      "repository": "infosecB/awesome-detection-engineering",
+      "merged": 1
+    },
+    {
+      "repository": "ipenywis/laya-ultrafast",
+      "merged": 1
+    },
+    {
+      "repository": "JackyTJie/SJTURunningMan_Advanced_Edition",
+      "merged": 1
+    },
+    {
+      "repository": "JanVanRyswyck/awesome-talks",
+      "merged": 1
+    },
+    {
+      "repository": "jbetancur/react-data-table-component",
+      "merged": 1
+    },
+    {
+      "repository": "jerryjliu/docjev",
+      "merged": 1
+    },
+    {
+      "repository": "jkudish/jev-browser",
+      "merged": 1
+    },
+    {
+      "repository": "joinmarket-webui/jam",
+      "merged": 1
+    },
+    {
+      "repository": "jpettitt/weather-radar-card",
+      "merged": 1
+    },
+    {
+      "repository": "junegunn/vim-emoji",
+      "merged": 1
+    },
+    {
+      "repository": "K-Dense-AI/scientific-agent-skills",
+      "merged": 1
+    },
+    {
+      "repository": "K9i-0/ccpocket",
+      "merged": 1
+    },
+    {
+      "repository": "kalkih/mini-graph-card",
+      "merged": 1
+    },
+    {
+      "repository": "Kikobeats/awesome-network-js",
+      "merged": 1
+    },
+    {
+      "repository": "krahabb/meross_lan",
+      "merged": 1
+    },
+    {
+      "repository": "ktwu01/benchmark-radar",
+      "merged": 1
+    },
+    {
+      "repository": "kyrolabs/awesome-agents",
+      "merged": 1
+    },
+    {
+      "repository": "Lakr233/vphone-cli",
+      "merged": 1
+    },
+    {
+      "repository": "larksuite/cli",
+      "merged": 1
+    },
+    {
+      "repository": "larksuite/node-sdk",
+      "merged": 1
+    },
+    {
+      "repository": "Lascorbe/CocoaConferences",
+      "merged": 1
+    },
+    {
+      "repository": "lastlogin-net/obligator",
+      "merged": 1
+    },
+    {
+      "repository": "LastOliveGames/becsy",
+      "merged": 1
+    },
+    {
+      "repository": "latex2html/latex2html",
+      "merged": 1
+    },
+    {
+      "repository": "launchdarkly/js-client-sdk",
+      "merged": 1
+    },
+    {
+      "repository": "laurencelundblade/QCBOR",
+      "merged": 1
+    },
+    {
+      "repository": "Lazer-Database/Lazer-Database",
+      "merged": 1
+    },
+    {
+      "repository": "legrego/homeassistant-elasticsearch",
+      "merged": 1
+    },
+    {
+      "repository": "livekit/agents",
+      "merged": 1
+    },
+    {
+      "repository": "ljmerza/light-entity-card",
+      "merged": 1
+    },
+    {
+      "repository": "lynx-family/lynx-stack",
+      "merged": 1
+    },
+    {
+      "repository": "lyogavin/airllm",
+      "merged": 1
+    },
+    {
+      "repository": "malevrigns/agent-jev",
+      "merged": 1
+    },
+    {
+      "repository": "matiaszanolli/Auralis",
+      "merged": 1
+    },
+    {
+      "repository": "maxwroc/battery-state-card",
+      "merged": 1
+    },
+    {
+      "repository": "MG1937/ASC",
+      "merged": 1
+    },
+    {
+      "repository": "milind-soni/OpenMausBot",
+      "merged": 1
+    },
+    {
+      "repository": "mlorentedev/hive",
+      "merged": 1
+    },
+    {
+      "repository": "monoio-rs/monoio",
+      "merged": 1
+    },
+    {
+      "repository": "MultiQC/MultiQC",
+      "merged": 1
+    },
+    {
+      "repository": "mvanhorn/last30days-skill",
+      "merged": 1
+    },
+    {
+      "repository": "nab138/iloader",
+      "merged": 1
+    },
+    {
+      "repository": "nageoffer/ragent",
+      "merged": 1
+    },
+    {
+      "repository": "NationalSecurityAgency/ghidra",
+      "merged": 1
+    },
+    {
+      "repository": "NemesisRE/kiosk-mode",
+      "merged": 1
+    },
+    {
+      "repository": "neovide/neovide",
+      "merged": 1
+    },
+    {
+      "repository": "Nezz/homeassistant-visionos-theme",
+      "merged": 1
+    },
+    {
+      "repository": "nginx-proxy/docker-gen",
+      "merged": 1
+    },
+    {
+      "repository": "nlohmann/json",
+      "merged": 1
+    },
+    {
+      "repository": "nordicopen/easee_hass",
+      "merged": 1
+    },
+    {
+      "repository": "nvm-sh/nvm",
+      "merged": 1
+    },
+    {
+      "repository": "ofekashery/vertical-stack-in-card",
+      "merged": 1
+    },
+    {
+      "repository": "okf-memory/okf-agent-memory",
+      "merged": 1
+    },
+    {
+      "repository": "onnxsim/onnxsim",
+      "merged": 1
+    },
+    {
+      "repository": "opengeos/GeoLibre",
+      "merged": 1
+    },
+    {
+      "repository": "OrchestratorInc/agent-orchestrator",
+      "merged": 1
+    },
+    {
+      "repository": "ParisNeo/lollms",
+      "merged": 1
+    },
+    {
+      "repository": "patman15/BMS_BLE-HA",
+      "merged": 1
+    },
+    {
+      "repository": "petk/awesome-dojo",
+      "merged": 1
+    },
+    {
+      "repository": "petretiandrea/home-assistant-tapo-p100",
+      "merged": 1
+    },
+    {
+      "repository": "philhawthorne/ha-dockermon",
+      "merged": 1
+    },
+    {
+      "repository": "phodal/auto-dev",
+      "merged": 1
+    },
+    {
+      "repository": "phodal/awesome-iot",
+      "merged": 1
+    },
+    {
+      "repository": "phoenixframework/phoenix",
+      "merged": 1
+    },
+    {
+      "repository": "Pico-Developer/SpatialMP4",
+      "merged": 1
+    },
+    {
+      "repository": "piitaya/lovelace-mushroom",
+      "merged": 1
+    },
+    {
+      "repository": "pixeltable/pixeltable",
+      "merged": 1
+    },
+    {
+      "repository": "podman-container-tools/skopeo",
+      "merged": 1
+    },
+    {
+      "repository": "pypolestar/polestar_api",
+      "merged": 1
+    },
+    {
+      "repository": "qufei1993/skills-hub",
+      "merged": 1
+    },
+    {
+      "repository": "rabits/ha-ef-ble",
+      "merged": 1
+    },
+    {
+      "repository": "realZachi/pg-jev",
+      "merged": 1
+    },
+    {
+      "repository": "reflex-dev/reflex",
+      "merged": 1
+    },
+    {
+      "repository": "revolist/vue-datagrid",
+      "merged": 1
+    },
+    {
+      "repository": "revtel/react-native-nfc-manager",
+      "merged": 1
+    },
+    {
+      "repository": "richnologies/ngx-stripe",
+      "merged": 1
+    },
+    {
+      "repository": "rickb777/date",
+      "merged": 1
+    },
+    {
+      "repository": "ricoberger/vault-secrets-operator",
+      "merged": 1
+    },
+    {
+      "repository": "RienNeVaPlus/human-id",
+      "merged": 1
+    },
+    {
+      "repository": "rigaya/NVEnc",
+      "merged": 1
+    },
+    {
+      "repository": "righel/gitlab-version-nse",
+      "merged": 1
+    },
+    {
+      "repository": "rikulo/stream",
+      "merged": 1
+    },
+    {
+      "repository": "rime/librime",
+      "merged": 1
+    },
+    {
+      "repository": "rime/rime-emoji",
+      "merged": 1
+    },
+    {
+      "repository": "rime/squirrel",
+      "merged": 1
+    },
+    {
+      "repository": "rime/weasel",
+      "merged": 1
+    },
+    {
+      "repository": "ringabout/awesome-nim",
+      "merged": 1
+    },
+    {
+      "repository": "Rizzo-AI-Academy/rizzo-flow",
+      "merged": 1
+    },
+    {
+      "repository": "RobertD502/home-assistant-petkit",
+      "merged": 1
+    },
+    {
+      "repository": "robmarkcole/HASS-data-detective",
+      "merged": 1
+    },
+    {
+      "repository": "RomanSlack/jev-drone",
+      "merged": 1
+    },
+    {
+      "repository": "ron190/jsql-injection",
+      "merged": 1
+    },
+    {
+      "repository": "rothgar/awesome-tmux",
+      "merged": 1
+    },
+    {
+      "repository": "rstackjs/rspack-vue-loader",
+      "merged": 1
+    },
+    {
+      "repository": "ryota-murakami/vite-rtk-query",
+      "merged": 1
+    },
+    {
+      "repository": "samber/awesome-prometheus-alerts",
+      "merged": 1
+    },
+    {
+      "repository": "SamurAIGPT/postiz-cheap",
+      "merged": 1
+    },
+    {
+      "repository": "SauersML/gam",
+      "merged": 1
+    },
+    {
+      "repository": "schmitech/orbit",
+      "merged": 1
+    },
+    {
+      "repository": "seangreen2/slate_theme",
+      "merged": 1
+    },
+    {
+      "repository": "semantica-agi/semantica",
+      "merged": 1
+    },
+    {
+      "repository": "sentinel-hub/sentinelhub-py",
+      "merged": 1
+    },
+    {
+      "repository": "sgl-project/sglang-omni",
+      "merged": 1
+    },
+    {
+      "repository": "shadcn-labs/pdfcn",
+      "merged": 1
+    },
+    {
+      "repository": "shareAI-lab/learn-claude-code",
+      "merged": 1
+    },
+    {
+      "repository": "Shubhamsaboo/awesome-llm-apps",
+      "merged": 1
+    },
+    {
+      "repository": "skyzh/mini-lsm",
+      "merged": 1
+    },
+    {
+      "repository": "slackhq/compose-lints",
+      "merged": 1
+    },
+    {
+      "repository": "Snailclimb/JavaGuide",
+      "merged": 1
+    },
+    {
+      "repository": "stoolap/stoolap",
+      "merged": 1
+    },
+    {
+      "repository": "swc-project/swc",
+      "merged": 1
+    },
+    {
+      "repository": "temporalio/sdk-typescript",
+      "merged": 1
+    },
+    {
+      "repository": "TheAlgorithms/Python",
+      "merged": 1
+    },
+    {
+      "repository": "thedotmack/claude-mem",
+      "merged": 1
+    },
+    {
+      "repository": "thibmaek/awesome-raspberry-pi",
+      "merged": 1
+    },
+    {
+      "repository": "thruwire/foreman",
+      "merged": 1
+    },
+    {
+      "repository": "THU-MAIC/OpenMAIC",
+      "merged": 1
+    },
+    {
+      "repository": "tigerless-labs/agent-memory",
+      "merged": 1
+    },
+    {
+      "repository": "tinkerologie/ha-unraid",
+      "merged": 1
+    },
+    {
+      "repository": "titanwings/distilly",
+      "merged": 1
+    },
+    {
+      "repository": "tokio-rs/tokio",
+      "merged": 1
+    },
+    {
+      "repository": "totaldebug/atomic-calendar-revive",
+      "merged": 1
+    },
+    {
+      "repository": "trycua/cua",
+      "merged": 1
+    },
+    {
+      "repository": "tt-a1i/archify",
+      "merged": 1
+    },
+    {
+      "repository": "tuist/tuist",
+      "merged": 1
+    },
+    {
+      "repository": "ueberauth/ueberauth",
+      "merged": 1
+    },
+    {
+      "repository": "uiua-lang/uiua",
+      "merged": 1
+    },
+    {
+      "repository": "ultraworkers/claw-code",
+      "merged": 1
+    },
+    {
+      "repository": "usebruno/bruno",
+      "merged": 1
+    },
+    {
+      "repository": "VEY-OSS/vey",
+      "merged": 1
+    },
+    {
+      "repository": "virattt/ai-hedge-fund",
+      "merged": 1
+    },
+    {
+      "repository": "virgiliojr94/book-to-skill",
+      "merged": 1
+    },
+    {
+      "repository": "vitalets/awesome-smart-tv",
+      "merged": 1
+    },
+    {
+      "repository": "vitali87/code-graph-rag",
+      "merged": 1
+    },
+    {
+      "repository": "vorssaint/vorssaint-utils",
+      "merged": 1
+    },
+    {
+      "repository": "web-infra-dev/midscene",
+      "merged": 1
+    },
+    {
+      "repository": "web-infra-dev/modern.js",
+      "merged": 1
+    },
+    {
+      "repository": "web-infra-dev/rsbuild",
+      "merged": 1
+    },
+    {
+      "repository": "web-infra-dev/rsdoctor",
+      "merged": 1
+    },
+    {
+      "repository": "web-infra-dev/rstest",
+      "merged": 1
+    },
+    {
+      "repository": "wendyLei0620/CS4248-Memesense",
+      "merged": 1
+    },
+    {
+      "repository": "wills106/homeassistant-solax-modbus",
+      "merged": 1
+    },
+    {
+      "repository": "wlcrs/huawei_solar",
+      "merged": 1
+    },
+    {
+      "repository": "wuyoscar/jev-skill",
+      "merged": 1
+    },
+    {
+      "repository": "zilliztech/vector-graph-rag",
+      "merged": 1
+    }
+  ],
+  "verifiedWindows": 21
+}

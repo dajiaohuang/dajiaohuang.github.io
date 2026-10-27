@@ -8,6 +8,8 @@
   const ogDescription = document.querySelector('meta[property="og:description"]');
 
   const english = {
+    snapshotLabel: 'Statistics snapshot ↗',
+    contribDesc34: 'Learning-state, MCP configuration, and WebUI save reliability fixes',
     contribDesc0: "Agent runtime, tool calls, session and storage reliability fixes",
     contribDesc1: "Pricing stability, date handling, and cash-flow fixes",
     contribDesc2: "Algorithm boundaries, C++ overflow, and SQL / Pandas solution fixes",
@@ -26,7 +28,7 @@
     contribDesc15: "Evaluation failure handling, request measurement, and multilingual detection fixes",
     contribDesc16: "Memory indexing, patch handling, and Windows Go SDK fixes",
     contribDesc17: "Desktop launch, OIDC logout, and saved-search execution fixes",
-    contribDesc18: "Added a React learning resource",
+    contribDesc18: "Added React and Markdown learning resources",
     contribDesc19: "Sorting, column sizing, CSV export, and plugin cleanup fixes",
     contribDesc20: "Documentation link fixes and CLI catalog completion",
     contribDesc21: "Configuration coercion fixes, Windows tests, and routing documentation",
@@ -45,7 +47,7 @@
     archiveDesc: "Traceable resumes, interview materials, and applications",
     evoDesc: "Geological time, fossils, and evolution with scientific uncertainty",
     solarDesc: "Orbits and small-body exploration; not for operational navigation",
-    mergedPR: 'merged PR', mergedPRs: 'merged PRs', accountAlt: 'Wu Shuwen’s GitHub account statistics and rank', rankNote: 'Third-party account rank by GitHub Readme Stats',
+    mergedPR: 'merged PR', mergedPRs: 'merged PRs', accountAlt: 'Wu Shuwen’s verified public GitHub contribution statistics', rankNote: 'Verified public contribution snapshot',
     skip: 'Skip to content', backTop: 'Wu Shuwen, back to top', primaryNav: 'Primary navigation', theme: 'Theme',
     navWork: 'Work', navContributions: 'Contributions', navResearch: 'Research', navAbout: 'About',
     heroEyebrow: 'Software engineering · agent systems · scientific interfaces',
@@ -53,9 +55,9 @@
     viewWork: 'View work', emailMe: 'Email me', factsAria: 'Current information', now: 'Now', nowValue: 'Software Engineer Intern · TikTok',
     study: 'Study', studyValue: 'MSc DSML · National University of Singapore', base: 'Base', baseValue: 'Singapore · UTC+8',
     workTitle: 'Selected projects', sagaDesc: "Agent-led TTRPG platform with a rules engine (Alpha)",
-    repoDesc: "Portable multi-agent Skill for repository audits, contribution follow-up, and authorized maintenance",
+    repoDesc: "Repository workflows and a Pi-native execution harness: native queues, durable continuation, and OpenRig integration",
     cotDesc: "Local Go AI gateway across providers and accounts",
-    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', exclusionNote: "As of 2026-10-19: 5,217 authored PRs (2,054 merged); 1,205 merged PRs across 527 public external repositories, excluding owned and private repositories.",
+    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Selected contributions', exclusionNote: "As of 2026-10-27 (UTC): 6,964 public authored PRs (2,398 merged); 1,552 merged PRs across 779 public external repositories, excluding repositories owned by dajiaohuang or SagaSmithAI.",
     researchTitle: 'Research', researchIntro: 'Human motion and interaction research, with two co-authored papers.',
     interxRole: 'Co-author · dual-human interaction dataset and benchmark', himoRole: 'Co-author · human–multi-object interaction benchmark',
     paper: 'Paper ↗', project: 'Project ↗', timelineAria: 'Experience', present: 'Now', tiktokRole: 'Software Engineer Intern', nus: 'National University of Singapore',

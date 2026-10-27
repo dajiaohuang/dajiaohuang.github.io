@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="116" viewBox="0 0 467 116" role="img" aria-labelledby="title desc">
+<title id="title">Verified public GitHub contributions</title><desc id="desc">As of 2026-10-27 UTC: 2398 public merged PRs; 1552 external merged PRs across 779 repositories.</desc>
+<rect x=".5" y=".5" width="466" height="115" rx="5" fill="#f8fafc" stroke="#d8e1e8"/>
+<g font-family="Arial, sans-serif"><text x="20" y="23" font-size="11" fill="#475569">VERIFIED PUBLIC CONTRIBUTIONS · 2026-10-27 UTC</text>
+<g font-size="26" font-weight="700" fill="#1d4ed8"><text x="20" y="61">2,398</text><text x="178" y="61">1,552</text><text x="338" y="61">779</text></g>
+<g font-size="11" fill="#334155"><text x="20" y="83">Public merged PRs</text><text x="178" y="83">External merged PRs</text><text x="338" y="83">External repos</text></g>
+<text x="20" y="103" font-size="9" fill="#64748b">External excludes repositories owned by dajiaohuang or SagaSmithAI.</text></g></svg>

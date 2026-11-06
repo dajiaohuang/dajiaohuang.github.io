@@ -8,6 +8,14 @@
   const ogDescription = document.querySelector('meta[property="og:description"]');
 
   const english = {
+    groupagents: 'Agents & developer tools',
+    groupscience: 'Scientific interfaces',
+    caseTitle: 'Selected merged fixes',
+    contributionAreas: 'Contribution areas & projects',
+    caseNote: 'Authorship and merged status checked on 2026-11-06. Upstream acceptance does not establish deployment or performance gains.',
+    caseRuntime: "Discover compute backends on the first placement lookup",
+    caseState: "Report conflicting roster activity as unknown",
+    caseModel: "Remap the legacy MiniMax M2 rotary-dimension parameter",
     fullContributions: 'Full contribution record ↗',
     snapshotLabel: 'Statistics snapshot ↗',
     contribDesc34: 'Learning-state, MCP configuration, and WebUI save reliability fixes',
@@ -25,7 +33,7 @@
     skip: 'Skip to content', backTop: 'Wu Shuwen, back to top', primaryNav: 'Primary navigation', theme: 'Theme',
     navWork: 'Work', navContributions: 'Contributions', navResearch: 'Research', navAbout: 'About',
     heroEyebrow: 'Software engineering · agent systems · scientific interfaces',
-    heroLede: 'Working on agent systems and scientific visualization.',
+    heroLede: 'Building agent systems and scientific interfaces, with upstream fixes for runtime reliability, cross-platform behavior, and data correctness.',
     viewWork: 'View work', emailMe: 'Email me', factsAria: 'Current information', now: 'Now', nowValue: 'Software Engineer Intern · TikTok',
     study: 'Study', studyValue: 'MSc DSML · National University of Singapore', base: 'Base', baseValue: 'Singapore · UTC+8',
     workTitle: 'Selected projects', sagaDesc: "Agent-led TTRPG platform with a rules engine (Alpha)",

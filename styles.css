@@ -722,3 +722,10 @@ h2 {
 .project-list .project-row::before { content: "-"; position: absolute; left: 0; color: var(--muted); }
 .project-title { font-weight: 700; }
 .project-source { font-size: 0.75rem; color: var(--muted); }
+
+/* Group projects and foreground inspectable upstream work. */
+.group-title { margin: 1.25rem 0 0.6rem; color: var(--muted); font-size: 0.88rem; font-weight: 700; }
+.case-list { margin: 0; padding-left: 1.2rem; font-size: 0.83rem; }
+.case-list li { padding-block: 0.2rem; }
+.case-list a { font-weight: 650; }
+.evidence-note { margin: 0.6rem 0 1rem; color: var(--muted); font-size: 0.72rem; }

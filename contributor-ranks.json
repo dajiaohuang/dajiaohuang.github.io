@@ -1,0 +1,7322 @@
+{
+  "capturedAt": "2026-11-06T15:59:27.490Z",
+  "scope": "External repositories in the 2026-10-27 public merged-PR snapshot. GitHub Contributors API first five entries, ordered by all-time attributed commit count; API order breaks ties. Excludes owned and fork repositories from presentation. Not an account-wide census.",
+  "total": 779,
+  "checked": 779,
+  "results": [
+    {
+      "repository": "domoticz/domoticz",
+      "top5": false
+    },
+    {
+      "repository": "MervinPraison/PraisonAI",
+      "rank": 4,
+      "contributions": 272,
+      "stars": 9322,
+      "fork": false,
+      "archived": false,
+      "description": "Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "contributorsUrl": "https://github.com/MervinPraison/PraisonAI/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "MervinPraison",
+          "contributions": 5543
+        },
+        {
+          "login": "praisonai-triage-agent[bot]",
+          "contributions": 3996
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 277
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 272
+        },
+        {
+          "login": "claude[bot]",
+          "contributions": 219
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:55.003Z"
+    },
+    {
+      "repository": "lateralblast/lunar",
+      "rank": 2,
+      "contributions": 54,
+      "stars": 317,
+      "fork": false,
+      "archived": false,
+      "description": "A UNIX security auditing tool based on several security frameworks",
+      "url": "https://github.com/lateralblast/lunar",
+      "contributorsUrl": "https://github.com/lateralblast/lunar/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "richardatlateralblast",
+          "contributions": 1279
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 54
+        },
+        {
+          "login": "unixben",
+          "contributions": 16
+        },
+        {
+          "login": "shivankar-madaan",
+          "contributions": 14
+        },
+        {
+          "login": "Seegras",
+          "contributions": 7
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:55.017Z"
+    },
+    {
+      "repository": "domokane/FinancePy",
+      "rank": 3,
+      "contributions": 80,
+      "stars": 3216,
+      "fork": false,
+      "archived": false,
+      "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives. ",
+      "url": "https://github.com/domokane/FinancePy",
+      "contributorsUrl": "https://github.com/domokane/FinancePy/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "domokane",
+          "contributions": 1150
+        },
+        {
+          "login": "FergalOK",
+          "contributions": 136
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 80
+        },
+        {
+          "login": "idorrington92",
+          "contributions": 67
+        },
+        {
+          "login": "Cashubski",
+          "contributions": 28
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:55.019Z"
+    },
+    {
+      "repository": "HKUDS/DeepTutor",
+      "rank": 5,
+      "contributions": 70,
+      "stars": 55817,
+      "fork": false,
+      "archived": false,
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "contributorsUrl": "https://github.com/HKUDS/DeepTutor/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "pancacake",
+          "contributions": 2054
+        },
+        {
+          "login": "Pinkllow",
+          "contributions": 116
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 108
+        },
+        {
+          "login": "evan188199-tech",
+          "contributions": 84
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 70
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:55.074Z"
+    },
+    {
+      "repository": "massimodeluisa/sidus-tools",
+      "rank": 2,
+      "contributions": 54,
+      "stars": 3,
+      "fork": false,
+      "archived": false,
+      "description": "Open-source pure-SI space engineering tools: orbits, propulsion, SGP4, launch, RF, and crew ECLSS.",
+      "url": "https://github.com/massimodeluisa/sidus-tools",
+      "contributorsUrl": "https://github.com/massimodeluisa/sidus-tools/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "massimodeluisa",
+          "contributions": 87
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 54
+        },
+        {
+          "login": "SpaceOceanCorp",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:55.544Z"
+    },
+    {
+      "repository": "revive-lint/revive",
+      "top5": false
+    },
+    {
+      "repository": "revolist/revogrid",
+      "top5": false
+    },
+    {
+      "repository": "mvschwarz/openrig",
+      "rank": 3,
+      "contributions": 65,
+      "stars": 8692,
+      "fork": false,
+      "archived": false,
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "contributorsUrl": "https://github.com/mvschwarz/openrig/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "mvschwarz",
+          "contributions": 2656
+        },
+        {
+          "login": "rudycelekli",
+          "contributions": 219
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 65
+        },
+        {
+          "login": "Nikhi00718",
+          "contributions": 55
+        },
+        {
+          "login": "AdamWhitehurst",
+          "contributions": 38
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:55.822Z"
+    },
+    {
+      "repository": "doocs/leetcode",
+      "top5": false
+    },
+    {
+      "repository": "VisActor/VChart",
+      "top5": false
+    },
+    {
+      "repository": "riebl/vanetza",
+      "top5": false
+    },
+    {
+      "repository": "riatelab/magrit",
+      "top5": false
+    },
+    {
+      "repository": "tursodatabase/turso",
+      "top5": false
+    },
+    {
+      "repository": "dongrixinyu/JioNLP",
+      "rank": 2,
+      "contributions": 12,
+      "stars": 3874,
+      "fork": false,
+      "archived": false,
+      "description": "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com",
+      "url": "https://github.com/dongrixinyu/JioNLP",
+      "contributorsUrl": "https://github.com/dongrixinyu/JioNLP/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dongrixinyu",
+          "contributions": 510
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 12
+        },
+        {
+          "login": "Yulv-git",
+          "contributions": 9
+        },
+        {
+          "login": "Yellow-BringtEast",
+          "contributions": 7
+        },
+        {
+          "login": "lsvih",
+          "contributions": 4
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:56.426Z"
+    },
+    {
+      "repository": "HKUDS/nanobot",
+      "top5": false
+    },
+    {
+      "repository": "ruvnet/ruflo",
+      "top5": false
+    },
+    {
+      "repository": "laude-institute/headlong",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/g3",
+      "top5": false
+    },
+    {
+      "repository": "microsoft/apm",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/vArmor",
+      "rank": 3,
+      "contributions": 7,
+      "stars": 514,
+      "fork": false,
+      "archived": false,
+      "description": "vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and NetworkProxy technologies to enforce access control from system calls to application protocols — protecting workloads including AI Agents.",
+      "url": "https://github.com/bytedance/vArmor",
+      "contributorsUrl": "https://github.com/bytedance/vArmor/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Danny-Wei",
+          "contributions": 1044
+        },
+        {
+          "login": "UgOrange",
+          "contributions": 78
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 7
+        },
+        {
+          "login": "hobostay",
+          "contributions": 6
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 5
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:57.471Z"
+    },
+    {
+      "repository": "doriaxengine/doriax",
+      "rank": 3,
+      "contributions": 8,
+      "stars": 910,
+      "fork": false,
+      "archived": false,
+      "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
+      "url": "https://github.com/doriaxengine/doriax",
+      "contributorsUrl": "https://github.com/doriaxengine/doriax/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "eduardodoria",
+          "contributions": 3307
+        },
+        {
+          "login": "e1e5en-gd",
+          "contributions": 10
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 8
+        },
+        {
+          "login": "JordanGrant3D",
+          "contributions": 4
+        },
+        {
+          "login": "caiotava",
+          "contributions": 3
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:57.567Z"
+    },
+    {
+      "repository": "lasantosr/intelli-shell",
+      "rank": 2,
+      "contributions": 7,
+      "stars": 1303,
+      "fork": false,
+      "archived": false,
+      "description": "Like IntelliSense, but for shells",
+      "url": "https://github.com/lasantosr/intelli-shell",
+      "contributorsUrl": "https://github.com/lasantosr/intelli-shell/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "lasantosr",
+          "contributions": 160
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 7
+        },
+        {
+          "login": "lalvarezt",
+          "contributions": 3
+        },
+        {
+          "login": "palozano",
+          "contributions": 2
+        },
+        {
+          "login": "forivall",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:57.647Z"
+    },
+    {
+      "repository": "RevoltSecurities/Subdominator",
+      "rank": 1,
+      "contributions": 9,
+      "stars": 812,
+      "fork": false,
+      "archived": false,
+      "description": "SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty",
+      "url": "https://github.com/RevoltSecurities/Subdominator",
+      "contributorsUrl": "https://github.com/RevoltSecurities/Subdominator/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dajiaohuang",
+          "contributions": 9
+        },
+        {
+          "login": "0xPugal",
+          "contributions": 6
+        },
+        {
+          "login": "th3sanjai",
+          "contributions": 3
+        },
+        {
+          "login": "th3gokul",
+          "contributions": 3
+        },
+        {
+          "login": "Raghunani12",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:57.889Z"
+    },
+    {
+      "repository": "d3x0r/JSON6",
+      "rank": 3,
+      "contributions": 6,
+      "stars": 242,
+      "fork": false,
+      "archived": false,
+      "description": "JSON for Humans (ES6)",
+      "url": "https://github.com/d3x0r/JSON6",
+      "contributorsUrl": "https://github.com/d3x0r/JSON6/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "d3x0r",
+          "contributions": 115
+        },
+        {
+          "login": "brettz9",
+          "contributions": 83
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 6
+        },
+        {
+          "login": "FnControlOption",
+          "contributions": 1
+        },
+        {
+          "login": "RichMorin",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:57.898Z"
+    },
+    {
+      "repository": "puppeteer/puppeteer",
+      "top5": false
+    },
+    {
+      "repository": "Rishikant181/Rettiwt-API",
+      "top5": false
+    },
+    {
+      "repository": "HKUDS/RAG-Anything",
+      "top5": false
+    },
+    {
+      "repository": "0xCUB3/wBlock",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/rspress",
+      "top5": false
+    },
+    {
+      "repository": "alphaXiv/OpenResearch",
+      "top5": false
+    },
+    {
+      "repository": "JustVugg/colibri",
+      "top5": false
+    },
+    {
+      "repository": "Marco-Sola-Lab/WFA2-lib",
+      "top5": false
+    },
+    {
+      "repository": "reviewdog/reviewdog",
+      "top5": false
+    },
+    {
+      "repository": "revoframework/Revo",
+      "rank": 3,
+      "contributions": 8,
+      "stars": 717,
+      "fork": false,
+      "archived": false,
+      "description": "Event Sourcing, CQRS and DDD framework for C#/.NET Core.",
+      "url": "https://github.com/revoframework/Revo",
+      "contributorsUrl": "https://github.com/revoframework/Revo/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "martinzima",
+          "contributions": 454
+        },
+        {
+          "login": "JanDrozen",
+          "contributions": 22
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 8
+        },
+        {
+          "login": "martinadam511",
+          "contributions": 2
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:58.917Z"
+    },
+    {
+      "repository": "affaan-m/ECC",
+      "top5": false
+    },
+    {
+      "repository": "cypress-io/cypress",
+      "top5": false
+    },
+    {
+      "repository": "Cysharp/ZLinq",
+      "top5": false
+    },
+    {
+      "repository": "csinva/imodelsX",
+      "rank": 3,
+      "contributions": 4,
+      "stars": 177,
+      "fork": false,
+      "archived": false,
+      "description": "Interpret text data with LLMs (sklearn compatible).",
+      "url": "https://github.com/csinva/imodelsX",
+      "contributorsUrl": "https://github.com/csinva/imodelsX/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "csinva",
+          "contributions": 373
+        },
+        {
+          "login": "jxmorris12",
+          "contributions": 14
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        },
+        {
+          "login": "arminaskari",
+          "contributions": 3
+        },
+        {
+          "login": "divyanshuaggarwal",
+          "contributions": 3
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:59.790Z"
+    },
+    {
+      "repository": "tinyplex/tinybase",
+      "rank": 5,
+      "contributions": 5,
+      "stars": 5211,
+      "fork": false,
+      "archived": false,
+      "description": "A reactive data store & sync engine.",
+      "url": "https://github.com/tinyplex/tinybase",
+      "contributorsUrl": "https://github.com/tinyplex/tinybase/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "jamesgpearce",
+          "contributions": 4585
+        },
+        {
+          "login": "bndkt",
+          "contributions": 18
+        },
+        {
+          "login": "jakubriedl",
+          "contributions": 9
+        },
+        {
+          "login": "acoreyj",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 5
+        }
+      ],
+      "checkedAt": "2026-11-06T15:57:59.819Z"
+    },
+    {
+      "repository": "firebase/firebase-ios-sdk",
+      "top5": false
+    },
+    {
+      "repository": "datnguye/dbterd",
+      "rank": 5,
+      "contributions": 4,
+      "stars": 348,
+      "fork": false,
+      "archived": false,
+      "description": "Generate the ERD as a code from dbt artifacts",
+      "url": "https://github.com/datnguye/dbterd",
+      "contributorsUrl": "https://github.com/datnguye/dbterd/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "datnguye",
+          "contributions": 191
+        },
+        {
+          "login": "il-dat",
+          "contributions": 53
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 12
+        },
+        {
+          "login": "syou6162",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:00.029Z"
+    },
+    {
+      "repository": "davtur19/DotGit",
+      "rank": 3,
+      "contributions": 4,
+      "stars": 483,
+      "fork": false,
+      "archived": false,
+      "description": "An extension for checking if .git is exposed in visited websites",
+      "url": "https://github.com/davtur19/DotGit",
+      "contributorsUrl": "https://github.com/davtur19/DotGit/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "davtur19",
+          "contributions": 178
+        },
+        {
+          "login": "quietpoem1",
+          "contributions": 5
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        },
+        {
+          "login": "MrARM",
+          "contributions": 3
+        },
+        {
+          "login": "rodnt",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:00.059Z"
+    },
+    {
+      "repository": "HKUDS/Vibe-Trading",
+      "top5": false
+    },
+    {
+      "repository": "fmtlib/fmt",
+      "top5": false
+    },
+    {
+      "repository": "TriliumNext/Trilium",
+      "top5": false
+    },
+    {
+      "repository": "stafyniaksacha/unplugin-fonts",
+      "rank": 3,
+      "contributions": 4,
+      "stars": 429,
+      "fork": false,
+      "archived": false,
+      "description": "Universal Webfont loader - Unfonts - based on https://web.dev/optimize-webfont-loading/",
+      "url": "https://github.com/stafyniaksacha/unplugin-fonts",
+      "contributorsUrl": "https://github.com/stafyniaksacha/unplugin-fonts/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "stafyniaksacha",
+          "contributions": 127
+        },
+        {
+          "login": "shorwood",
+          "contributions": 13
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        },
+        {
+          "login": "ram-you",
+          "contributions": 2
+        },
+        {
+          "login": "BenBE",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:00.846Z"
+    },
+    {
+      "repository": "ualex73/monitor_docker",
+      "rank": 5,
+      "contributions": 4,
+      "stars": 417,
+      "fork": false,
+      "archived": false,
+      "description": "Monitor Docker containers from Home Assistant",
+      "url": "https://github.com/ualex73/monitor_docker",
+      "contributorsUrl": "https://github.com/ualex73/monitor_docker/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ualex73",
+          "contributions": 181
+        },
+        {
+          "login": "briodan",
+          "contributions": 13
+        },
+        {
+          "login": "chris-mc1",
+          "contributions": 5
+        },
+        {
+          "login": "bacco007",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:00.995Z"
+    },
+    {
+      "repository": "volcengine/OpenViking",
+      "top5": false
+    },
+    {
+      "repository": "1jehuang/jcode",
+      "top5": false
+    },
+    {
+      "repository": "Zefan-Cai/Open-Jev",
+      "rank": 3,
+      "contributions": 4,
+      "stars": 444,
+      "fork": false,
+      "archived": false,
+      "description": null,
+      "url": "https://github.com/Zefan-Cai/Open-Jev",
+      "contributorsUrl": "https://github.com/Zefan-Cai/Open-Jev/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Zefan-Cai",
+          "contributions": 136
+        },
+        {
+          "login": "StGerman",
+          "contributions": 5
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        },
+        {
+          "login": "DataCraftsmanAU",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:01.446Z"
+    },
+    {
+      "repository": "AlexxIT/YandexStation",
+      "top5": false
+    },
+    {
+      "repository": "00200200/maintainer-skills-lab",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 48,
+      "fork": false,
+      "archived": false,
+      "description": "Curated developer tools, AST analyzers, and automated verification workflows.",
+      "url": "https://github.com/00200200/maintainer-skills-lab",
+      "contributorsUrl": "https://github.com/00200200/maintainer-skills-lab/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "00200200",
+          "contributions": 117
+        },
+        {
+          "login": "kulchankas",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:01.729Z"
+    },
+    {
+      "repository": "armory3d/armorpaint",
+      "top5": false
+    },
+    {
+      "repository": "3ddelano/discord.gd",
+      "rank": 2,
+      "contributions": 3,
+      "stars": 146,
+      "fork": false,
+      "archived": false,
+      "description": "Discord Bot API wrapper for Godot. Make bots in GDScript.",
+      "url": "https://github.com/3ddelano/discord.gd",
+      "contributorsUrl": "https://github.com/3ddelano/discord.gd/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "3ddelano",
+          "contributions": 85
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "fdtdevelopmentstudios",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:02.029Z"
+    },
+    {
+      "repository": "ax-llm/ax",
+      "top5": false
+    },
+    {
+      "repository": "awesome-devblog/awesome-devblog",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/deer-flow",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/sonic",
+      "top5": false
+    },
+    {
+      "repository": "0x727/FingerprintHub",
+      "top5": false
+    },
+    {
+      "repository": "cheaper-inference/OmniRoute",
+      "top5": false
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "top5": false
+    },
+    {
+      "repository": "ChromeDevTools/chrome-devtools-mcp",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/volclava",
+      "top5": false
+    },
+    {
+      "repository": "cshum/imagor",
+      "top5": false
+    },
+    {
+      "repository": "Cyclenerd/static_status",
+      "top5": false
+    },
+    {
+      "repository": "darold/pgbadger",
+      "top5": false
+    },
+    {
+      "repository": "dahlia/seonbi",
+      "rank": 2,
+      "contributions": 3,
+      "stars": 149,
+      "fork": false,
+      "archived": false,
+      "description": "SmartyPants for Korean language",
+      "url": "https://github.com/dahlia/seonbi",
+      "contributorsUrl": "https://github.com/dahlia/seonbi/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dahlia",
+          "contributions": 282
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "moreal",
+          "contributions": 3
+        },
+        {
+          "login": "Jah-yee",
+          "contributions": 1
+        },
+        {
+          "login": "difro",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:03.779Z"
+    },
+    {
+      "repository": "DirectoryLister/DirectoryLister",
+      "top5": false
+    },
+    {
+      "repository": "Donkie/Spoolman",
+      "top5": false
+    },
+    {
+      "repository": "daandemeyer/reproc",
+      "rank": 2,
+      "contributions": 3,
+      "stars": 663,
+      "fork": false,
+      "archived": false,
+      "description": "A cross-platform (C99/C++11) process library",
+      "url": "https://github.com/daandemeyer/reproc",
+      "contributorsUrl": "https://github.com/daandemeyer/reproc/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "daandemeyer",
+          "contributions": 1548
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "chrisburr",
+          "contributions": 2
+        },
+        {
+          "login": "mheyman",
+          "contributions": 2
+        },
+        {
+          "login": "adriendelsalle",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:04.105Z"
+    },
+    {
+      "repository": "cyberchitta/llm-context.py",
+      "rank": 2,
+      "contributions": 3,
+      "stars": 308,
+      "fork": false,
+      "archived": false,
+      "description": "Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.",
+      "url": "https://github.com/cyberchitta/llm-context.py",
+      "contributorsUrl": "https://github.com/cyberchitta/llm-context.py/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "restlessronin",
+          "contributions": 743
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "BruceJillis",
+          "contributions": 1
+        },
+        {
+          "login": "vishalhabib99",
+          "contributions": 1
+        },
+        {
+          "login": "shuofengzhang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:04.108Z"
+    },
+    {
+      "repository": "Dyalog/link",
+      "top5": false
+    },
+    {
+      "repository": "diegofrata/Generator.Equals",
+      "rank": 4,
+      "contributions": 3,
+      "stars": 193,
+      "fork": false,
+      "archived": false,
+      "description": "A source code generator for automatically implementing IEquatable<T> using only attributes.",
+      "url": "https://github.com/diegofrata/Generator.Equals",
+      "contributorsUrl": "https://github.com/diegofrata/Generator.Equals/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "diegofrata",
+          "contributions": 118
+        },
+        {
+          "login": "fjmorel",
+          "contributions": 8
+        },
+        {
+          "login": "HavenDV",
+          "contributions": 5
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "wainwrightmark",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:04.541Z"
+    },
+    {
+      "repository": "iipc/awesome-web-archiving",
+      "top5": false
+    },
+    {
+      "repository": "doocs/jvm",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 11129,
+      "fork": false,
+      "archived": false,
+      "description": "🤗 JVM 底层原理最全知识总结",
+      "url": "https://github.com/doocs/jvm",
+      "contributorsUrl": "https://github.com/doocs/jvm/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "yanglbme",
+          "contributions": 162
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "actions-user",
+          "contributions": 2
+        },
+        {
+          "login": "ImgBotApp",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:04.807Z"
+    },
+    {
+      "repository": "kuan-er/sjtu-agent",
+      "rank": 3,
+      "contributions": 25,
+      "stars": 104,
+      "fork": false,
+      "archived": false,
+      "description": null,
+      "url": "https://github.com/kuan-er/sjtu-agent",
+      "contributorsUrl": "https://github.com/kuan-er/sjtu-agent/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Azzygoatcoder",
+          "contributions": 594
+        },
+        {
+          "login": "kuan-er",
+          "contributions": 103
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 25
+        },
+        {
+          "login": "JackyTJie",
+          "contributions": 5
+        },
+        {
+          "login": "Aixiaoxia",
+          "contributions": 4
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:05.089Z"
+    },
+    {
+      "repository": "public-apis/public-apis",
+      "top5": false
+    },
+    {
+      "repository": "latex-lsp/texlab",
+      "top5": false
+    },
+    {
+      "repository": "Knowledgator/GLiClass",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 579,
+      "fork": false,
+      "archived": false,
+      "description": "Generalist and Lightweight Model for Text Classification",
+      "url": "https://github.com/Knowledgator/GLiClass",
+      "contributorsUrl": "https://github.com/Knowledgator/GLiClass/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Ingvarstep",
+          "contributions": 126
+        },
+        {
+          "login": "BioMikeUkr",
+          "contributions": 53
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "vrdn-23",
+          "contributions": 2
+        },
+        {
+          "login": "kmamine",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:05.154Z"
+    },
+    {
+      "repository": "laserdisc-io/fs2-aws",
+      "top5": false
+    },
+    {
+      "repository": "reviewdog/action-eslint",
+      "top5": false
+    },
+    {
+      "repository": "tile-ai/tilelang",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/rspack",
+      "top5": false
+    },
+    {
+      "repository": "reversenseorg/dexcalibur",
+      "rank": 4,
+      "contributions": 3,
+      "stars": 1187,
+      "fork": false,
+      "archived": false,
+      "description": "Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary intelligence platform that automates the reverse engineering of mobile and embedded applications. ",
+      "url": "https://github.com/reversenseorg/dexcalibur",
+      "contributorsUrl": "https://github.com/reversenseorg/dexcalibur/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "FrenchYeti",
+          "contributions": 1688
+        },
+        {
+          "login": "ubamrein",
+          "contributions": 16
+        },
+        {
+          "login": "jhscheer",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "monperrus",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:05.955Z"
+    },
+    {
+      "repository": "rohitg00/ai-engineering-from-scratch",
+      "top5": false
+    },
+    {
+      "repository": "Tencent/WeKnora",
+      "top5": false
+    },
+    {
+      "repository": "648540858/wvp-GB28181-pro",
+      "top5": false
+    },
+    {
+      "repository": "zhtyyx/ioe",
+      "rank": 3,
+      "contributions": 5,
+      "stars": 1637,
+      "fork": false,
+      "archived": false,
+      "description": "One-Stop Retail Inventory Solution",
+      "url": "https://github.com/zhtyyx/ioe",
+      "contributorsUrl": "https://github.com/zhtyyx/ioe/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "zhtyyx",
+          "contributions": 47
+        },
+        {
+          "login": "cursoragent",
+          "contributions": 9
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 5
+        },
+        {
+          "login": "LJzht",
+          "contributions": 4
+        },
+        {
+          "login": "hzh0292",
+          "contributions": 3
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:06.550Z"
+    },
+    {
+      "repository": "8LWXpg/PowerToysRun-GitHubRepo",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 132,
+      "fork": false,
+      "archived": false,
+      "description": "PowerToys Run Plugin for searching and opening GitHub repositories",
+      "url": "https://github.com/8LWXpg/PowerToysRun-GitHubRepo",
+      "contributorsUrl": "https://github.com/8LWXpg/PowerToysRun-GitHubRepo/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "8LWXpg",
+          "contributions": 121
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "JiangFengning",
+          "contributions": 1
+        },
+        {
+          "login": "htcfreek",
+          "contributions": 1
+        },
+        {
+          "login": "NORTCHOT",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:06.720Z"
+    },
+    {
+      "repository": "ahkscript/awesome-AutoHotkey",
+      "top5": false
+    },
+    {
+      "repository": "adobe-fonts/source-serif",
+      "top5": false
+    },
+    {
+      "repository": "aaronjmars/web3-research-mcp",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 171,
+      "fork": false,
+      "archived": false,
+      "description": "Local MCP server for deep crypto token research across CoinGecko, DeFiLlama and web search. Free, no API key.",
+      "url": "https://github.com/aaronjmars/web3-research-mcp",
+      "contributorsUrl": "https://github.com/aaronjmars/web3-research-mcp/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "aaronjmars",
+          "contributions": 55
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 33
+        },
+        {
+          "login": "smithery[bot]",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "punkpeye",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:06.892Z"
+    },
+    {
+      "repository": "akitaonrails/ai-memory",
+      "top5": false
+    },
+    {
+      "repository": "aljazceru/awesome-nostr",
+      "top5": false
+    },
+    {
+      "repository": "anufrievroman/calcure",
+      "top5": false
+    },
+    {
+      "repository": "ashishb/android-security-awesome",
+      "top5": false
+    },
+    {
+      "repository": "apache/logging-log4j2",
+      "top5": false
+    },
+    {
+      "repository": "awesome-mqtt/awesome-mqtt",
+      "top5": false
+    },
+    {
+      "repository": "beetbox/beets",
+      "top5": false
+    },
+    {
+      "repository": "alsk1992/CloddsBot",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 3078,
+      "fork": false,
+      "archived": false,
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "contributorsUrl": "https://github.com/alsk1992/CloddsBot/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "alsk1992",
+          "contributions": 443
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "nox-oss",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:07.622Z"
+    },
+    {
+      "repository": "bencheeorg/benchee",
+      "top5": false
+    },
+    {
+      "repository": "blakeblackshear/frigate-hass-integration",
+      "top5": false
+    },
+    {
+      "repository": "birobirobiro/awesome-shadcn-ui",
+      "top5": false
+    },
+    {
+      "repository": "BigWigsMods/BigWigs",
+      "top5": false
+    },
+    {
+      "repository": "BigWigsMods/LittleWigs",
+      "top5": false
+    },
+    {
+      "repository": "carapace-sh/carapace-bin",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/android-inline-hook",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 2443,
+      "fork": false,
+      "archived": false,
+      "description": "通用的Android inline hook库，支持thumb，arm32，arm64",
+      "url": "https://github.com/bytedance/android-inline-hook",
+      "contributorsUrl": "https://github.com/bytedance/android-inline-hook/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "caikelun",
+          "contributions": 107
+        },
+        {
+          "login": "Colibrow",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:08.772Z"
+    },
+    {
+      "repository": "blader/humanizer",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 65532,
+      "fork": false,
+      "archived": false,
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "url": "https://github.com/blader/humanizer",
+      "contributorsUrl": "https://github.com/blader/humanizer/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "blader",
+          "contributions": 58
+        },
+        {
+          "login": "mvanhorn",
+          "contributions": 5
+        },
+        {
+          "login": "Scott-Emberson",
+          "contributions": 5
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "Kutomore",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:08.934Z"
+    },
+    {
+      "repository": "bytedance/UniVR",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 33,
+      "fork": false,
+      "archived": false,
+      "description": "Official Codebase For NeurIPS-26 Work: UniVR",
+      "url": "https://github.com/bytedance/UniVR",
+      "contributorsUrl": "https://github.com/bytedance/UniVR/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "weiboByte",
+          "contributions": 3
+        },
+        {
+          "login": "lxtGH",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:09.211Z"
+    },
+    {
+      "repository": "career-ops-hq/career-ops",
+      "top5": false
+    },
+    {
+      "repository": "codewhale-hq/Codewhale",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/PatchEval",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 235,
+      "fork": false,
+      "archived": false,
+      "description": "PatchEval: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities",
+      "url": "https://github.com/bytedance/PatchEval",
+      "contributorsUrl": "https://github.com/bytedance/PatchEval/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "jun-zeng",
+          "contributions": 26
+        },
+        {
+          "login": "yzlzbql",
+          "contributions": 5
+        },
+        {
+          "login": "ZCWei51",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "fghccv",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:09.504Z"
+    },
+    {
+      "repository": "Crosstalk-Solutions/project-nomad",
+      "top5": false
+    },
+    {
+      "repository": "cathrynlavery/diagram-design",
+      "top5": false
+    },
+    {
+      "repository": "ctripcorp/SQLlin",
+      "top5": false
+    },
+    {
+      "repository": "cso1z/Feishu-MCP",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/CompoundVM",
+      "top5": false
+    },
+    {
+      "repository": "cursortab/cursortab.nvim",
+      "top5": false
+    },
+    {
+      "repository": "cviebrock/eloquent-sluggable",
+      "top5": false
+    },
+    {
+      "repository": "cubed-dev/cubed",
+      "top5": false
+    },
+    {
+      "repository": "cycjimmy/semantic-release-action",
+      "top5": false
+    },
+    {
+      "repository": "cytomining/pycytominer",
+      "top5": false
+    },
+    {
+      "repository": "d-bahr/CRCpp",
+      "top5": false
+    },
+    {
+      "repository": "cybergarage/cybergarage-upnp",
+      "rank": 5,
+      "contributions": 2,
+      "stars": 410,
+      "fork": false,
+      "archived": false,
+      "description": "cybergarage-upnp is a development package for UPnP™ developers. cybergarage-upnp controls these protocols automatically, and supports to create your devices and control points quickly.",
+      "url": "https://github.com/cybergarage/cybergarage-upnp",
+      "contributorsUrl": "https://github.com/cybergarage/cybergarage-upnp/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "cybergarage",
+          "contributions": 210
+        },
+        {
+          "login": "Copilot",
+          "contributions": 14
+        },
+        {
+          "login": "KlikaServices",
+          "contributions": 9
+        },
+        {
+          "login": "Meilarium",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:11.021Z"
+    },
+    {
+      "repository": "Cyclenerd/google-cloud-pricing-cost-calculator",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 222,
+      "fork": false,
+      "archived": false,
+      "description": "💸 Calculate estimated monthly costs of Google Cloud Platform products and resources via YAML files and CLI program (Linux, macOS, Windows)",
+      "url": "https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator",
+      "contributorsUrl": "https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "github-actions[bot]",
+          "contributions": 1306
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 310
+        },
+        {
+          "login": "Cyclenerd",
+          "contributions": 107
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "aperepel",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:11.134Z"
+    },
+    {
+      "repository": "d-krupke/cpsat-primer",
+      "top5": false
+    },
+    {
+      "repository": "dadhi/FastExpressionCompiler",
+      "top5": false
+    },
+    {
+      "repository": "Cyxuan0311/PNANA",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 328,
+      "fork": false,
+      "archived": false,
+      "description": "PNANA is a modern terminal text editor built with FTXUI, inspired by Nano, Micro, and Sublime Text. It offers an intuitive UI, familiar shortcuts, and robust editing capabilities.",
+      "url": "https://github.com/Cyxuan0311/PNANA",
+      "contributorsUrl": "https://github.com/Cyxuan0311/PNANA/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Cyxuan0311",
+          "contributions": 926
+        },
+        {
+          "login": "barracuda156",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "Dessalines39394",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:11.429Z"
+    },
+    {
+      "repository": "dagrejs/dagre",
+      "top5": false
+    },
+    {
+      "repository": "dalibo/pev2",
+      "top5": false
+    },
+    {
+      "repository": "dafrito/luacxx",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 165,
+      "fork": false,
+      "archived": false,
+      "description": "Lua binding library for modern C++",
+      "url": "https://github.com/dafrito/luacxx",
+      "contributorsUrl": "https://github.com/dafrito/luacxx/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dafrito",
+          "contributions": 1157
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:11.904Z"
+    },
+    {
+      "repository": "danielaparker/jsoncons",
+      "top5": false
+    },
+    {
+      "repository": "damianszczepanik/maven-cucumber-reporting",
+      "top5": false
+    },
+    {
+      "repository": "dahlia/cjk-compsci-terms",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 160,
+      "fork": false,
+      "archived": false,
+      "description": "CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조",
+      "url": "https://github.com/dahlia/cjk-compsci-terms",
+      "contributorsUrl": "https://github.com/dahlia/cjk-compsci-terms/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dahlia",
+          "contributions": 176
+        },
+        {
+          "login": "ayaka14732",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "graphemecluster",
+          "contributions": 2
+        },
+        {
+          "login": "LukeHong",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:12.157Z"
+    },
+    {
+      "repository": "dankogai/js-base64",
+      "top5": false
+    },
+    {
+      "repository": "DamianEdwards/RazorSlices",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 593,
+      "fork": false,
+      "archived": false,
+      "description": "Lightweight Razor-based templates for ASP.NET Core without MVC, Razor Pages, or Blazor.",
+      "url": "https://github.com/DamianEdwards/RazorSlices",
+      "contributorsUrl": "https://github.com/DamianEdwards/RazorSlices/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "DamianEdwards",
+          "contributions": 105
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 4
+        },
+        {
+          "login": "flew2bits",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "madeyoga",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:12.473Z"
+    },
+    {
+      "repository": "dankelley/oce",
+      "top5": false
+    },
+    {
+      "repository": "danielfrg/mkdocs-jupyter",
+      "top5": false
+    },
+    {
+      "repository": "datarootsio/databooks",
+      "top5": false
+    },
+    {
+      "repository": "dash14/v-network-graph",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 647,
+      "fork": false,
+      "archived": false,
+      "description": "An interactive network graph visualization component for Vue 3",
+      "url": "https://github.com/dash14/v-network-graph",
+      "contributorsUrl": "https://github.com/dash14/v-network-graph/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dash14",
+          "contributions": 1268
+        },
+        {
+          "login": "renovate[bot]",
+          "contributions": 32
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "NoelDeMartin",
+          "contributions": 1
+        },
+        {
+          "login": "hpawa",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:13.191Z"
+    },
+    {
+      "repository": "darrachequesne/spring-data-jpa-datatables",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 454,
+      "fork": false,
+      "archived": false,
+      "description": "Spring Data JPA extension to work with the great jQuery plugin DataTables (https://datatables.net/)",
+      "url": "https://github.com/darrachequesne/spring-data-jpa-datatables",
+      "contributorsUrl": "https://github.com/darrachequesne/spring-data-jpa-datatables/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "darrachequesne",
+          "contributions": 140
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "iamareebjamal",
+          "contributions": 1
+        },
+        {
+          "login": "ctvairplus",
+          "contributions": 1
+        },
+        {
+          "login": "ssando",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:13.417Z"
+    },
+    {
+      "repository": "dave3d/dicom2stl",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 218,
+      "fork": false,
+      "archived": false,
+      "description": "Python script to extract a STL surface from a DICOM image series.",
+      "url": "https://github.com/dave3d/dicom2stl",
+      "contributorsUrl": "https://github.com/dave3d/dicom2stl/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dave3d",
+          "contributions": 258
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "jimmyjliu",
+          "contributions": 1
+        },
+        {
+          "login": "pjaol",
+          "contributions": 1
+        },
+        {
+          "login": "paulin1C",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:13.474Z"
+    },
+    {
+      "repository": "debanjandhar12/logseq-anki-sync",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 589,
+      "fork": false,
+      "archived": false,
+      "description": "An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more.",
+      "url": "https://github.com/debanjandhar12/logseq-anki-sync",
+      "contributorsUrl": "https://github.com/debanjandhar12/logseq-anki-sync/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "debanjandhar12",
+          "contributions": 943
+        },
+        {
+          "login": "mearyne",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "e-zz",
+          "contributions": 2
+        },
+        {
+          "login": "FernandoChu",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:13.569Z"
+    },
+    {
+      "repository": "disposable-email-domains/disposable-email-domains",
+      "top5": false
+    },
+    {
+      "repository": "deeplay-io/nice-grpc",
+      "rank": 5,
+      "contributions": 2,
+      "stars": 539,
+      "fork": false,
+      "archived": false,
+      "description": "A TypeScript gRPC library that is nice to you",
+      "url": "https://github.com/deeplay-io/nice-grpc",
+      "contributorsUrl": "https://github.com/deeplay-io/nice-grpc/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dependabot[bot]",
+          "contributions": 450
+        },
+        {
+          "login": "aikoven",
+          "contributions": 233
+        },
+        {
+          "login": "davidfiala",
+          "contributions": 4
+        },
+        {
+          "login": "ChristopheBougere",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:13.895Z"
+    },
+    {
+      "repository": "dvershinin/gixy",
+      "top5": false
+    },
+    {
+      "repository": "EbookFoundation/free-programming-books",
+      "top5": false
+    },
+    {
+      "repository": "Egonex-AI/Understand-Anything",
+      "top5": false
+    },
+    {
+      "repository": "DosX-dev/obfus.h",
+      "rank": 5,
+      "contributions": 2,
+      "stars": 1886,
+      "fork": false,
+      "archived": false,
+      "description": "Macro-header for compile-time C polymorphic obfuscation (tcc, win x86/x64)",
+      "url": "https://github.com/DosX-dev/obfus.h",
+      "contributorsUrl": "https://github.com/DosX-dev/obfus.h/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "DosX-dev",
+          "contributions": 398
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 28
+        },
+        {
+          "login": "horsicq",
+          "contributions": 8
+        },
+        {
+          "login": "BJNFNE",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:14.172Z"
+    },
+    {
+      "repository": "elixir-broadway/broadway",
+      "top5": false
+    },
+    {
+      "repository": "huginn/huginn",
+      "top5": false
+    },
+    {
+      "repository": "ifixai-ai/iFixAi",
+      "top5": false
+    },
+    {
+      "repository": "jordan-gibbs/hyperresearch",
+      "top5": false
+    },
+    {
+      "repository": "Jolg42/awesome-typography",
+      "top5": false
+    },
+    {
+      "repository": "kirodotdev/KiroCrew",
+      "top5": false
+    },
+    {
+      "repository": "latitude-dev/latitude-llm",
+      "top5": false
+    },
+    {
+      "repository": "jaimetur/PhotoMigrator",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 268,
+      "fork": false,
+      "archived": false,
+      "description": "This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool supports multiple accounts per service, so you can migrate your assets between different accounts of the same service.",
+      "url": "https://github.com/jaimetur/PhotoMigrator",
+      "contributorsUrl": "https://github.com/jaimetur/PhotoMigrator/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "jaimetur",
+          "contributions": 5628
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 197
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "topout",
+          "contributions": 2
+        },
+        {
+          "login": "stanmart",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:15.476Z"
+    },
+    {
+      "repository": "Lawouach/WebSocket-for-Python",
+      "top5": false
+    },
+    {
+      "repository": "latonita/arduino-canbus-monitor",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 337,
+      "fork": false,
+      "archived": false,
+      "description": "Can bus monitoring tool based on arduino and can bus shield. Implements CAN ASCII/SLCAN protocol compatible with Lawicel CAN232/CANUSB. Can be used for monitoring low speed CAN (interior can bus of most cars, less than 500kbps). For higher speeds serial port can become a bottleneck in case data density is high.",
+      "url": "https://github.com/latonita/arduino-canbus-monitor",
+      "contributorsUrl": "https://github.com/latonita/arduino-canbus-monitor/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "latonita",
+          "contributions": 43
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "ThorbjoernSchulz",
+          "contributions": 1
+        },
+        {
+          "login": "google-labs-jules[bot]",
+          "contributions": 1
+        },
+        {
+          "login": "per1234",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:15.651Z"
+    },
+    {
+      "repository": "Lavmee/constraintlayout-compose-multiplatform",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 309,
+      "fork": false,
+      "archived": false,
+      "description": "Useful when implementing larger layouts with more complicated alignment requirements.",
+      "url": "https://github.com/Lavmee/constraintlayout-compose-multiplatform",
+      "contributorsUrl": "https://github.com/Lavmee/constraintlayout-compose-multiplatform/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Lavmee",
+          "contributions": 270
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 31
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "sproctor",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:15.753Z"
+    },
+    {
+      "repository": "lbbrhzn/ocpp",
+      "top5": false
+    },
+    {
+      "repository": "floci-io/floci",
+      "top5": false
+    },
+    {
+      "repository": "lazamar/nix-package-versions",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 436,
+      "fork": false,
+      "archived": false,
+      "description": "Search for old versions of Nix packages",
+      "url": "https://github.com/lazamar/nix-package-versions",
+      "contributorsUrl": "https://github.com/lazamar/nix-package-versions/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "lazamar",
+          "contributions": 245
+        },
+        {
+          "login": "starsep",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "adminy",
+          "contributions": 1
+        },
+        {
+          "login": "573",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:16.126Z"
+    },
+    {
+      "repository": "melgarafael/DeskcommCRM",
+      "top5": false
+    },
+    {
+      "repository": "p1neappleXpress/OpenFlux",
+      "top5": false
+    },
+    {
+      "repository": "OpenWhispr/openwhispr",
+      "top5": false
+    },
+    {
+      "repository": "oban-bg/oban",
+      "top5": false
+    },
+    {
+      "repository": "msp1974/ViewAssist_Companion_App",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 524,
+      "fork": false,
+      "archived": false,
+      "description": "An Android app and Home Assistant integration to support the View Assist integration",
+      "url": "https://github.com/msp1974/ViewAssist_Companion_App",
+      "contributorsUrl": "https://github.com/msp1974/ViewAssist_Companion_App/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "msp1974",
+          "contributions": 315
+        },
+        {
+          "login": "DJaeger",
+          "contributions": 2
+        },
+        {
+          "login": "muminkoykiran",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "Chriffe",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:16.665Z"
+    },
+    {
+      "repository": "Mapika/decider",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 1079,
+      "fork": false,
+      "archived": false,
+      "description": "A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.",
+      "url": "https://github.com/Mapika/decider",
+      "contributorsUrl": "https://github.com/Mapika/decider/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Mapika",
+          "contributions": 44
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "simply-sunny",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:16.782Z"
+    },
+    {
+      "repository": "notque/vexjoy-agent",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 446,
+      "fork": false,
+      "archived": false,
+      "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop.",
+      "url": "https://github.com/notque/vexjoy-agent",
+      "contributorsUrl": "https://github.com/notque/vexjoy-agent/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "notque",
+          "contributions": 1617
+        },
+        {
+          "login": "thecodingshrimp",
+          "contributions": 21
+        },
+        {
+          "login": "thomasvan",
+          "contributions": 19
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:16.973Z"
+    },
+    {
+      "repository": "pascalorg/editor",
+      "top5": false
+    },
+    {
+      "repository": "plotly/dash",
+      "top5": false
+    },
+    {
+      "repository": "reviewdog/action-shellcheck",
+      "top5": false
+    },
+    {
+      "repository": "reviewdog/action-golangci-lint",
+      "top5": false
+    },
+    {
+      "repository": "reviewdog/action-tflint",
+      "top5": false
+    },
+    {
+      "repository": "rhash/RHash",
+      "top5": false
+    },
+    {
+      "repository": "ridiculousfish/libdivide",
+      "top5": false
+    },
+    {
+      "repository": "rocky/python-uncompyle6",
+      "top5": false
+    },
+    {
+      "repository": "rstackjs/storybook-rsbuild",
+      "top5": false
+    },
+    {
+      "repository": "sfstar/hass-victron",
+      "top5": false
+    },
+    {
+      "repository": "silverstein/minutes",
+      "top5": false
+    },
+    {
+      "repository": "urchade/GLiNER",
+      "top5": false
+    },
+    {
+      "repository": "vastsa/PI-Desktop",
+      "top5": false
+    },
+    {
+      "repository": "verl-project/uni-agent",
+      "top5": false
+    },
+    {
+      "repository": "ryota-murakami/create-react-app-vite",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/rslib",
+      "top5": false
+    },
+    {
+      "repository": "VisActor/VTable",
+      "top5": false
+    },
+    {
+      "repository": "yetone/cumora",
+      "top5": false
+    },
+    {
+      "repository": "zhayujie/CowAgent",
+      "top5": false
+    },
+    {
+      "repository": "05bit/peewee-async",
+      "top5": false
+    },
+    {
+      "repository": "superagents-lab/jev-search",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 555,
+      "fork": false,
+      "archived": false,
+      "description": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
+      "url": "https://github.com/superagents-lab/jev-search",
+      "contributorsUrl": "https://github.com/superagents-lab/jev-search/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "fatwang2",
+          "contributions": 32
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "cognition-team",
+          "contributions": 1
+        },
+        {
+          "login": "xujiantop-crypto",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:18.926Z"
+    },
+    {
+      "repository": "0b01001001/spectree",
+      "top5": false
+    },
+    {
+      "repository": "0x676e67/wreq",
+      "top5": false
+    },
+    {
+      "repository": "0no-co/gql.tada",
+      "top5": false
+    },
+    {
+      "repository": "0xAX/linux-insides",
+      "top5": false
+    },
+    {
+      "repository": "0xfurai/peekaping",
+      "top5": false
+    },
+    {
+      "repository": "0xJacky/nginx-ui",
+      "top5": false
+    },
+    {
+      "repository": "0xRayAI/xray",
+      "top5": false
+    },
+    {
+      "repository": "0cv/herdr-mobile-relay",
+      "top5": false
+    },
+    {
+      "repository": "0xdea/frida-scripts",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 1683,
+      "fork": false,
+      "archived": false,
+      "description": "A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.",
+      "url": "https://github.com/0xdea/frida-scripts",
+      "contributorsUrl": "https://github.com/0xdea/frida-scripts/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "0xdea",
+          "contributions": 84
+        },
+        {
+          "login": "mustafairan",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:19.950Z"
+    },
+    {
+      "repository": "188080501/JQTools",
+      "top5": false
+    },
+    {
+      "repository": "24pullrequests/24pullrequests",
+      "top5": false
+    },
+    {
+      "repository": "255kb/stack-on-a-budget",
+      "top5": false
+    },
+    {
+      "repository": "10x-Engineers/Infinite-ISP",
+      "top5": false
+    },
+    {
+      "repository": "2b3pro/roam-research-mcp",
+      "top5": false
+    },
+    {
+      "repository": "291-Group/LAN-Orangutan",
+      "rank": 3,
+      "contributions": 2,
+      "stars": 1150,
+      "fork": false,
+      "archived": false,
+      "description": "LAN-Orangutan is a self-hosted network discovery tool. Find every device on your LAN, label and group them, snapshot your network and compare it later, and get flagged when something unexpected shows up. Single binary, no setup, Tailscale built in. Built by 291 Group.",
+      "url": "https://github.com/291-Group/LAN-Orangutan",
+      "contributorsUrl": "https://github.com/291-Group/LAN-Orangutan/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "FileBay",
+          "contributions": 39
+        },
+        {
+          "login": "AdamMagued",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "katsugtgz",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:21.044Z"
+    },
+    {
+      "repository": "2KAbhishek/tmux2k",
+      "top5": false
+    },
+    {
+      "repository": "389ds/389-ds-base",
+      "top5": false
+    },
+    {
+      "repository": "1parado/grok-build-switch",
+      "rank": 3,
+      "contributions": 19,
+      "stars": 206,
+      "fork": false,
+      "archived": false,
+      "description": "Grok Build Model Switcher – a lightweight tool to easily switch between model vendors.",
+      "url": "https://github.com/1parado/grok-build-switch",
+      "contributorsUrl": "https://github.com/1parado/grok-build-switch/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "shiaho777",
+          "contributions": 160
+        },
+        {
+          "login": "1parado",
+          "contributions": 36
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 19
+        },
+        {
+          "login": "Xbai-hang",
+          "contributions": 4
+        },
+        {
+          "login": "ztlovelsw",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:21.544Z"
+    },
+    {
+      "repository": "3dmol/3Dmol.js",
+      "top5": false
+    },
+    {
+      "repository": "2BAD/bitrix",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 111,
+      "fork": false,
+      "archived": false,
+      "description": "Bitrix24 REST API client that doesn't suck.",
+      "url": "https://github.com/2BAD/bitrix",
+      "contributorsUrl": "https://github.com/2BAD/bitrix/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "mrhyde",
+          "contributions": 342
+        },
+        {
+          "login": "ArmorDarks",
+          "contributions": 206
+        },
+        {
+          "login": "renovate[bot]",
+          "contributions": 92
+        },
+        {
+          "login": "newsiberian",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:21.714Z"
+    },
+    {
+      "repository": "34892002/bilibili-mcp-js",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 198,
+      "fork": false,
+      "archived": false,
+      "description": "Bilibili video search MCP (Model Context Protocol) service - 哔哩哔哩视频搜索MCP服务",
+      "url": "https://github.com/34892002/bilibili-mcp-js",
+      "contributorsUrl": "https://github.com/34892002/bilibili-mcp-js/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "34892002",
+          "contributions": 34
+        },
+        {
+          "login": "naughtyGitCat",
+          "contributions": 7
+        },
+        {
+          "login": "ElishaKay",
+          "contributions": 1
+        },
+        {
+          "login": "Matvey-Kuk",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:21.773Z"
+    },
+    {
+      "repository": "42paris/42header",
+      "top5": false
+    },
+    {
+      "repository": "42wim/matterircd",
+      "top5": false
+    },
+    {
+      "repository": "44bits/awesome-opensource-documents",
+      "top5": false
+    },
+    {
+      "repository": "4gray/iptvnator",
+      "top5": false
+    },
+    {
+      "repository": "4IceG/luci-app-3ginfo-lite",
+      "top5": false
+    },
+    {
+      "repository": "6bee/Remote.Linq",
+      "top5": false
+    },
+    {
+      "repository": "422658476/MPV-EASY-Player",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 1452,
+      "fork": false,
+      "archived": false,
+      "description": "MPV-EASY Player - An easy to use, modern video player based on mpv （一个基于MPV,易于使用,现代化的视频播放器）",
+      "url": "https://github.com/422658476/MPV-EASY-Player",
+      "contributorsUrl": "https://github.com/422658476/MPV-EASY-Player/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "422658476",
+          "contributions": 625
+        },
+        {
+          "login": "bovirus",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:22.790Z"
+    },
+    {
+      "repository": "777genius/agent-notifications",
+      "top5": false
+    },
+    {
+      "repository": "64bit/async-openai",
+      "top5": false
+    },
+    {
+      "repository": "66RING/tiny-flash-attention",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 542,
+      "fork": false,
+      "archived": false,
+      "description": "flash attention tutorial written in python, triton, cuda, cutlass",
+      "url": "https://github.com/66RING/tiny-flash-attention",
+      "contributorsUrl": "https://github.com/66RING/tiny-flash-attention/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "66RING",
+          "contributions": 33
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "KevinZeng08",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:23.107Z"
+    },
+    {
+      "repository": "88250/pipe",
+      "top5": false
+    },
+    {
+      "repository": "8b-is/smart-tree",
+      "top5": false
+    },
+    {
+      "repository": "52CV/CV-Surveys",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 2251,
+      "fork": false,
+      "archived": false,
+      "description": "计算机视觉相关综述。包括目标检测、跟踪........",
+      "url": "https://github.com/52CV/CV-Surveys",
+      "contributorsUrl": "https://github.com/52CV/CV-Surveys/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "zanzanwong",
+          "contributions": 545
+        },
+        {
+          "login": "52CV",
+          "contributions": 394
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:23.483Z"
+    },
+    {
+      "repository": "88250/gulu",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 157,
+      "fork": false,
+      "archived": false,
+      "description": "⭕ Go 语言常用工具库，这个轱辘还算圆！",
+      "url": "https://github.com/88250/gulu",
+      "contributorsUrl": "https://github.com/88250/gulu/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "88250",
+          "contributions": 210
+        },
+        {
+          "login": "TCOTC",
+          "contributions": 1
+        },
+        {
+          "login": "Vanessa219",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "xuanbo",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:23.606Z"
+    },
+    {
+      "repository": "a-r-j/graphein",
+      "top5": false
+    },
+    {
+      "repository": "a2aproject/a2a-go",
+      "top5": false
+    },
+    {
+      "repository": "aandrew-me/ytDownloader",
+      "top5": false
+    },
+    {
+      "repository": "a-agmon/rs-graph-llm",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 386,
+      "fork": false,
+      "archived": false,
+      "description": "High-performance framework for building interactive workflow systems in Rust. Designed for complex workflows and multi-agent systems",
+      "url": "https://github.com/a-agmon/rs-graph-llm",
+      "contributorsUrl": "https://github.com/a-agmon/rs-graph-llm/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "a-agmon",
+          "contributions": 74
+        },
+        {
+          "login": "BigtoC",
+          "contributions": 8
+        },
+        {
+          "login": "claude",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "ernestas-poskus",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:24.304Z"
+    },
+    {
+      "repository": "aaronhma/awesome-tensorflow-js",
+      "top5": false
+    },
+    {
+      "repository": "aaru-dps/Aaru",
+      "top5": false
+    },
+    {
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 3084,
+      "fork": false,
+      "archived": false,
+      "description": "120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 auditor gates: TALE · CORE-EEAT · CITE · ECHO · SEND · ROAS · STAR · RAMP.",
+      "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
+      "contributorsUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "github-actions[bot]",
+          "contributions": 395
+        },
+        {
+          "login": "aaron-he-zhu",
+          "contributions": 194
+        },
+        {
+          "login": "cursoragent",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:24.504Z"
+    },
+    {
+      "repository": "a466350665/smart-sso",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 2300,
+      "fork": false,
+      "archived": false,
+      "description": "SpringBoot single sign-on authentication and authorization, implemented with OAuth 2.0, supporting cross-domain and distributed deployment.",
+      "url": "https://github.com/a466350665/smart-sso",
+      "contributorsUrl": "https://github.com/a466350665/smart-sso/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "a466350665",
+          "contributions": 270
+        },
+        {
+          "login": "thysir",
+          "contributions": 15
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "330233789",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:24.772Z"
+    },
+    {
+      "repository": "abarichello/godot-ci",
+      "top5": false
+    },
+    {
+      "repository": "Abdelrhman-AK/WinPaletter",
+      "top5": false
+    },
+    {
+      "repository": "AbdelStark/awesome-typesafe-jev",
+      "top5": false
+    },
+    {
+      "repository": "abdessamadbettal/Falah",
+      "top5": false
+    },
+    {
+      "repository": "abdfnx/tran",
+      "top5": false
+    },
+    {
+      "repository": "ablab/spades",
+      "top5": false
+    },
+    {
+      "repository": "abdolence/slack-morphism-rust",
+      "top5": false
+    },
+    {
+      "repository": "Abraxas-365/langchain-rust",
+      "top5": false
+    },
+    {
+      "repository": "abrignoni/iLEAPP",
+      "top5": false
+    },
+    {
+      "repository": "aaronrussell/ollama-ex",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 137,
+      "fork": false,
+      "archived": false,
+      "description": "A nifty little library for working with Ollama in Elixir.",
+      "url": "https://github.com/aaronrussell/ollama-ex",
+      "contributorsUrl": "https://github.com/aaronrussell/ollama-ex/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "aaronrussell",
+          "contributions": 70
+        },
+        {
+          "login": "m-dreiling",
+          "contributions": 2
+        },
+        {
+          "login": "kianmeng",
+          "contributions": 1
+        },
+        {
+          "login": "nyo16",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:25.840Z"
+    },
+    {
+      "repository": "academic/awesome-datascience",
+      "top5": false
+    },
+    {
+      "repository": "absmach/magistrala",
+      "top5": false
+    },
+    {
+      "repository": "abersheeran/kui",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 297,
+      "fork": false,
+      "archived": false,
+      "description": "An easy-to-use web framework. Supports both WSGI and ASGI modes. Gevent or asyncio, this is the question.",
+      "url": "https://github.com/abersheeran/kui",
+      "contributorsUrl": "https://github.com/abersheeran/kui/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "abersheeran",
+          "contributions": 815
+        },
+        {
+          "login": "leng-yue",
+          "contributions": 5
+        },
+        {
+          "login": "GJJ121785021",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:26.365Z"
+    },
+    {
+      "repository": "AchoArnold/discount-for-student-dev",
+      "top5": false
+    },
+    {
+      "repository": "ACB-prgm/Godot_GamePad",
+      "rank": 2,
+      "contributions": 4,
+      "stars": 125,
+      "fork": false,
+      "archived": false,
+      "description": "The Godot GamePad is a two part project that allows players to use their mobile devices as controllers with games made in Godot. The mobile app will be free to download on the Google Play and Apple App stores when it is finished. The aim of this project to make local multiplayer games more accessible.",
+      "url": "https://github.com/ACB-prgm/Godot_GamePad",
+      "contributorsUrl": "https://github.com/ACB-prgm/Godot_GamePad/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ACB-prgm",
+          "contributions": 51
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 4
+        },
+        {
+          "login": "Michal0x",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:26.516Z"
+    },
+    {
+      "repository": "ACL4SSR/ACL4SSR",
+      "top5": false
+    },
+    {
+      "repository": "accelerated-text/awesome-nlg",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 483,
+      "fork": false,
+      "archived": false,
+      "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
+      "url": "https://github.com/accelerated-text/awesome-nlg",
+      "contributorsUrl": "https://github.com/accelerated-text/awesome-nlg/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "zmedelis",
+          "contributions": 3
+        },
+        {
+          "login": "ludans",
+          "contributions": 2
+        },
+        {
+          "login": "samyosm",
+          "contributions": 1
+        },
+        {
+          "login": "kasnerz",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:26.764Z"
+    },
+    {
+      "repository": "ad-m/github-push-action",
+      "top5": false
+    },
+    {
+      "repository": "adamabdelhamed/PowerArgs",
+      "top5": false
+    },
+    {
+      "repository": "adamhathcock/sharpcompress",
+      "top5": false
+    },
+    {
+      "repository": "acrodata/gui",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 131,
+      "fork": false,
+      "archived": false,
+      "description": "🎛️ JSON powered GUI for configurable panels",
+      "url": "https://github.com/acrodata/gui",
+      "contributorsUrl": "https://github.com/acrodata/gui/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "nzbin",
+          "contributions": 321
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:27.183Z"
+    },
+    {
+      "repository": "adept/full-fledged-hledger",
+      "top5": false
+    },
+    {
+      "repository": "acuteimmersive/openimmersive",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 133,
+      "fork": false,
+      "archived": false,
+      "description": "A free and open immersive video player for the Apple Vision Pro.",
+      "url": "https://github.com/acuteimmersive/openimmersive",
+      "contributorsUrl": "https://github.com/acuteimmersive/openimmersive/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "amaes",
+          "contributions": 31
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:27.416Z"
+    },
+    {
+      "repository": "addyosmani/agent-skills",
+      "top5": false
+    },
+    {
+      "repository": "adinhodovic/terraform-cloudflare-maintenance",
+      "top5": false
+    },
+    {
+      "repository": "adlio/trello",
+      "top5": false
+    },
+    {
+      "repository": "AdnanHodzic/auto-cpufreq",
+      "top5": false
+    },
+    {
+      "repository": "adobe-webplatform/Snap.svg",
+      "top5": false
+    },
+    {
+      "repository": "adorsys/keycloak-config-cli",
+      "top5": false
+    },
+    {
+      "repository": "adrai/flowchart.js",
+      "top5": false
+    },
+    {
+      "repository": "adrianyorke/robotframework-cookbook",
+      "top5": false
+    },
+    {
+      "repository": "adoconnection/RazorEngineCore",
+      "top5": false
+    },
+    {
+      "repository": "adriankarlen/textfox",
+      "top5": false
+    },
+    {
+      "repository": "admpub/nging",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 1599,
+      "fork": false,
+      "archived": false,
+      "description": "网站服务器管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备",
+      "url": "https://github.com/admpub/nging",
+      "contributorsUrl": "https://github.com/admpub/nging/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "admpub",
+          "contributions": 6119
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 67
+        },
+        {
+          "login": "dependabot-preview[bot]",
+          "contributions": 50
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:28.633Z"
+    },
+    {
+      "repository": "AdrienTorris/awesome-blazor",
+      "top5": false
+    },
+    {
+      "repository": "aelassas/bookcars",
+      "top5": false
+    },
+    {
+      "repository": "aelassas/wexflow",
+      "top5": false
+    },
+    {
+      "repository": "aeonfun/aeon",
+      "top5": false
+    },
+    {
+      "repository": "aeshell/aesh",
+      "top5": false
+    },
+    {
+      "repository": "afritz1/OpenTESArena",
+      "top5": false
+    },
+    {
+      "repository": "agamm/awesome-developer-first",
+      "top5": false
+    },
+    {
+      "repository": "Agda-zh/PLFA-zh",
+      "top5": false
+    },
+    {
+      "repository": "aelew/devterms",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 156,
+      "fork": false,
+      "archived": false,
+      "description": "📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!",
+      "url": "https://github.com/aelew/devterms",
+      "contributorsUrl": "https://github.com/aelew/devterms/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "aelew",
+          "contributions": 246
+        },
+        {
+          "login": "renovate[bot]",
+          "contributions": 43
+        },
+        {
+          "login": "ad-mittal",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:29.794Z"
+    },
+    {
+      "repository": "agent-infra/sandbox",
+      "top5": false
+    },
+    {
+      "repository": "agda/agda",
+      "top5": false
+    },
+    {
+      "repository": "agentjido/req_llm",
+      "top5": false
+    },
+    {
+      "repository": "agiledragon/gomonkey",
+      "top5": false
+    },
+    {
+      "repository": "agustinusnathaniel/vite-react-chakra-starter",
+      "top5": false
+    },
+    {
+      "repository": "aerovato/container",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 385,
+      "fork": false,
+      "archived": false,
+      "description": "Persistent Linux workspaces for agentic development.",
+      "url": "https://github.com/aerovato/container",
+      "contributorsUrl": "https://github.com/aerovato/container/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "kevinMEH",
+          "contributions": 153
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:30.443Z"
+    },
+    {
+      "repository": "Aguafrommars/TheIdServer",
+      "top5": false
+    },
+    {
+      "repository": "ahausladen/JsonDataObjects",
+      "top5": false
+    },
+    {
+      "repository": "ahkohd/tauri-nspanel",
+      "top5": false
+    },
+    {
+      "repository": "agitter/single-cell-pseudotime",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 446,
+      "fork": false,
+      "archived": false,
+      "description": "An overview of algorithms for estimating pseudotime in single-cell RNA-seq data",
+      "url": "https://github.com/agitter/single-cell-pseudotime",
+      "contributorsUrl": "https://github.com/agitter/single-cell-pseudotime/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "agitter",
+          "contributions": 309
+        },
+        {
+          "login": "dcellwanger",
+          "contributions": 2
+        },
+        {
+          "login": "hammer",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "tfguinan",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:30.772Z"
+    },
+    {
+      "repository": "AI4Finance-Foundation/FinRobot",
+      "top5": false
+    },
+    {
+      "repository": "ahrefs/atd",
+      "top5": false
+    },
+    {
+      "repository": "aimeos/aimeos",
+      "top5": false
+    },
+    {
+      "repository": "aiokitchen/aiomisc",
+      "top5": false
+    },
+    {
+      "repository": "ahmedfgad/GeneticAlgorithmPython",
+      "top5": false
+    },
+    {
+      "repository": "airene/vitepress-blog-pure",
+      "top5": false
+    },
+    {
+      "repository": "AISecurityLab/hackagent",
+      "top5": false
+    },
+    {
+      "repository": "airlift/aircompressor",
+      "top5": false
+    },
+    {
+      "repository": "aimeos/upscheme",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 2732,
+      "fork": false,
+      "archived": false,
+      "description": "Database migrations and schema updates made easy",
+      "url": "https://github.com/aimeos/upscheme",
+      "contributorsUrl": "https://github.com/aimeos/upscheme/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "aimeos",
+          "contributions": 316
+        },
+        {
+          "login": "EduardF1",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:31.656Z"
+    },
+    {
+      "repository": "aishwaryanr/awesome-generative-ai-guide",
+      "top5": false
+    },
+    {
+      "repository": "aisingapore/sealion",
+      "top5": false
+    },
+    {
+      "repository": "Ajatt-Tools/mpvacious",
+      "top5": false
+    },
+    {
+      "repository": "ajermakovics/jvm-mon",
+      "top5": false
+    },
+    {
+      "repository": "ajinabraham/njsscan",
+      "top5": false
+    },
+    {
+      "repository": "ajwann/svg-loaders-react",
+      "top5": false
+    },
+    {
+      "repository": "akfamily/akshare",
+      "top5": false
+    },
+    {
+      "repository": "akinomyoga/ble.sh",
+      "top5": false
+    },
+    {
+      "repository": "akgulebubekir/Maui.DataGrid",
+      "top5": false
+    },
+    {
+      "repository": "ajinabraham/libsast",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 138,
+      "fork": false,
+      "archived": false,
+      "description": "Generic SAST Library",
+      "url": "https://github.com/ajinabraham/libsast",
+      "contributorsUrl": "https://github.com/ajinabraham/libsast/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ajinabraham",
+          "contributions": 273
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 2
+        },
+        {
+          "login": "lgtm-migrator",
+          "contributions": 1
+        },
+        {
+          "login": "valentinas",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:32.661Z"
+    },
+    {
+      "repository": "AlaSQL/alasql",
+      "top5": false
+    },
+    {
+      "repository": "albfernandez/juniversalchardet",
+      "top5": false
+    },
+    {
+      "repository": "alantech/alan",
+      "top5": false
+    },
+    {
+      "repository": "alda-lang/alda",
+      "top5": false
+    },
+    {
+      "repository": "aldinokemal/go-whatsapp-web-multidevice",
+      "top5": false
+    },
+    {
+      "repository": "albfernandez/javadbf",
+      "top5": false
+    },
+    {
+      "repository": "alecjacobson/gptoolbox",
+      "top5": false
+    },
+    {
+      "repository": "AlexandrErohin/home-assistant-flightradar24",
+      "top5": false
+    },
+    {
+      "repository": "alessiomaffeis/vue-picture-input",
+      "top5": false
+    },
+    {
+      "repository": "ALEEEHU/World-Simulator",
+      "top5": false
+    },
+    {
+      "repository": "AlexandrErohin/home-assistant-tplink-router",
+      "top5": false
+    },
+    {
+      "repository": "alexbol99/flatten-js",
+      "top5": false
+    },
+    {
+      "repository": "AlekPet/ComfyUI_Custom_Nodes_AlekPet",
+      "top5": false
+    },
+    {
+      "repository": "alexmyczko/fnt",
+      "top5": false
+    },
+    {
+      "repository": "alexmojaki/executing",
+      "top5": false
+    },
+    {
+      "repository": "alexpate/awesome-design-systems",
+      "top5": false
+    },
+    {
+      "repository": "Alfredredbird/tookie-osint",
+      "top5": false
+    },
+    {
+      "repository": "AlexNabokikh/tfsort",
+      "top5": false
+    },
+    {
+      "repository": "AlexsJones/llmfit",
+      "top5": false
+    },
+    {
+      "repository": "alexmyczko/ruptime",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 213,
+      "fork": false,
+      "archived": false,
+      "description": "poor man’s ruptime",
+      "url": "https://github.com/alexmyczko/ruptime",
+      "contributorsUrl": "https://github.com/alexmyczko/ruptime/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "alexmyczko",
+          "contributions": 364
+        },
+        {
+          "login": "treellama",
+          "contributions": 1
+        },
+        {
+          "login": "kanarelo",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:34.594Z"
+    },
+    {
+      "repository": "alexruperez/SecurePropertyStorage",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 471,
+      "fork": false,
+      "archived": false,
+      "description": "Helps you define secure storages for your properties using Swift property wrappers.",
+      "url": "https://github.com/alexruperez/SecurePropertyStorage",
+      "contributorsUrl": "https://github.com/alexruperez/SecurePropertyStorage/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "alexruperez",
+          "contributions": 65
+        },
+        {
+          "login": "qchenqizhi",
+          "contributions": 1
+        },
+        {
+          "login": "Manu-Globant",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "nuomi1",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:34.873Z"
+    },
+    {
+      "repository": "alteryx/locust-grasshopper",
+      "top5": false
+    },
+    {
+      "repository": "alibaba/pemja",
+      "top5": false
+    },
+    {
+      "repository": "alibaba/jetcache",
+      "top5": false
+    },
+    {
+      "repository": "alvinreal/awesome-opensource-ai",
+      "top5": false
+    },
+    {
+      "repository": "am-will/gooey-pi",
+      "top5": false
+    },
+    {
+      "repository": "AllThingsSmitty/must-watch-javascript",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 7139,
+      "fork": false,
+      "archived": false,
+      "description": "JavaScript talks you have to see 👀 on functional programming, performance, frameworks, React, debugging, leveling up, and more!",
+      "url": "https://github.com/AllThingsSmitty/must-watch-javascript",
+      "contributorsUrl": "https://github.com/AllThingsSmitty/must-watch-javascript/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "AllThingsSmitty",
+          "contributions": 133
+        },
+        {
+          "login": "jacquerie",
+          "contributions": 1
+        },
+        {
+          "login": "remy",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "rsmarsh",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:35.486Z"
+    },
+    {
+      "repository": "Amal-David/awesome-jev",
+      "top5": false
+    },
+    {
+      "repository": "amElnagdy/delegate-skills",
+      "top5": false
+    },
+    {
+      "repository": "ambethia/recaptcha",
+      "top5": false
+    },
+    {
+      "repository": "amol-/depot",
+      "top5": false
+    },
+    {
+      "repository": "ammarahm-ed/react-native-actions-sheet",
+      "top5": false
+    },
+    {
+      "repository": "amagine-ai/Amagine3D",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 6300,
+      "fork": false,
+      "archived": false,
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "contributorsUrl": "https://github.com/amagine-ai/Amagine3D/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Cang-yan",
+          "contributions": 227
+        },
+        {
+          "login": "zhigeshanqiu",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "mo1mo480",
+          "contributions": 2
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:36.080Z"
+    },
+    {
+      "repository": "amro/gibbon",
+      "top5": false
+    },
+    {
+      "repository": "anasfik/openai",
+      "top5": false
+    },
+    {
+      "repository": "analysis-tools-dev/static-analysis",
+      "top5": false
+    },
+    {
+      "repository": "AmplifyCreations/AmplifyOcclusion",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 329,
+      "fork": false,
+      "archived": false,
+      "description": "Full source-code for Amplify Occlusion plugin for Unity",
+      "url": "https://github.com/AmplifyCreations/AmplifyOcclusion",
+      "contributorsUrl": "https://github.com/AmplifyCreations/AmplifyOcclusion/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "diogovtx",
+          "contributions": 19
+        },
+        {
+          "login": "RicardoAmplify",
+          "contributions": 4
+        },
+        {
+          "login": "PauloDePinho",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:36.768Z"
+    },
+    {
+      "repository": "anaskhan96/soup",
+      "top5": false
+    },
+    {
+      "repository": "amxv/mcp-manager",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 296,
+      "fork": false,
+      "archived": false,
+      "description": "simple web ui to manage mcp (model context protocol) servers in the claude app",
+      "url": "https://github.com/amxv/mcp-manager",
+      "contributorsUrl": "https://github.com/amxv/mcp-manager/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "amxv",
+          "contributions": 57
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:37.138Z"
+    },
+    {
+      "repository": "andreax79/airflow-code-editor",
+      "top5": false
+    },
+    {
+      "repository": "anderseknert/kube-review",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 161,
+      "fork": false,
+      "archived": false,
+      "description": "Create Kubernetes AdmissionReview requests from Kubernetes resource manifests",
+      "url": "https://github.com/anderseknert/kube-review",
+      "contributorsUrl": "https://github.com/anderseknert/kube-review/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "anderseknert",
+          "contributions": 78
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 47
+        },
+        {
+          "login": "charlieegan3",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "brownz11",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:37.506Z"
+    },
+    {
+      "repository": "anddea/revanced-patches",
+      "top5": false
+    },
+    {
+      "repository": "AndersonBY/vector-vein",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 942,
+      "fork": false,
+      "archived": false,
+      "description": "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.",
+      "url": "https://github.com/AndersonBY/vector-vein",
+      "contributorsUrl": "https://github.com/AndersonBY/vector-vein/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "AndersonBY",
+          "contributions": 943
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 18
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 10
+        },
+        {
+          "login": "eltociear",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:37.715Z"
+    },
+    {
+      "repository": "andresgongora/synth-shell",
+      "top5": false
+    },
+    {
+      "repository": "andrei-tatar/node-red-contrib-smartnora",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 113,
+      "fork": false,
+      "archived": false,
+      "description": "Node Red Google Home integration",
+      "url": "https://github.com/andrei-tatar/node-red-contrib-smartnora",
+      "contributorsUrl": "https://github.com/andrei-tatar/node-red-contrib-smartnora/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "andrei-tatar",
+          "contributions": 361
+        },
+        {
+          "login": "pschucker",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "maximilian1001",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:37.864Z"
+    },
+    {
+      "repository": "andrewda/awesome-frc",
+      "top5": false
+    },
+    {
+      "repository": "andrewferrier/wrapping.nvim",
+      "top5": false
+    },
+    {
+      "repository": "AndrewRathbun/DFIRArtifactMuseum",
+      "top5": false
+    },
+    {
+      "repository": "AndreWeiner/flowtorch",
+      "top5": false
+    },
+    {
+      "repository": "andrejilderda/joplin-macos-native-theme",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 352,
+      "fork": false,
+      "archived": false,
+      "description": "Native looking macOS theme for note taking app Joplin",
+      "url": "https://github.com/andrejilderda/joplin-macos-native-theme",
+      "contributorsUrl": "https://github.com/andrejilderda/joplin-macos-native-theme/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "andrejilderda",
+          "contributions": 322
+        },
+        {
+          "login": "personalizedrefrigerator",
+          "contributions": 4
+        },
+        {
+          "login": "mikicvi",
+          "contributions": 2
+        },
+        {
+          "login": "GarreltMock",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:38.444Z"
+    },
+    {
+      "repository": "andybalholm/cascadia",
+      "top5": false
+    },
+    {
+      "repository": "Anduin2017/HowToCook",
+      "top5": false
+    },
+    {
+      "repository": "andrumak/MyBox",
+      "top5": false
+    },
+    {
+      "repository": "andriy-git/stocksTUI",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 160,
+      "fork": false,
+      "archived": false,
+      "description": "StocksTUI: Real-time stock market data in your terminal.",
+      "url": "https://github.com/andriy-git/stocksTUI",
+      "contributorsUrl": "https://github.com/andriy-git/stocksTUI/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "andriy-git",
+          "contributions": 257
+        },
+        {
+          "login": "klahrich",
+          "contributions": 7
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:38.837Z"
+    },
+    {
+      "repository": "Anil-matcha/awesome-muse-connectors",
+      "top5": false
+    },
+    {
+      "repository": "AngelJumbo/sssnake",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 235,
+      "fork": false,
+      "archived": false,
+      "description": "cli snake game that plays itself ",
+      "url": "https://github.com/AngelJumbo/sssnake",
+      "contributorsUrl": "https://github.com/AngelJumbo/sssnake/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "AngelJumbo",
+          "contributions": 12
+        },
+        {
+          "login": "Adam-Yung",
+          "contributions": 1
+        },
+        {
+          "login": "bmwiedemann",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:39.231Z"
+    },
+    {
+      "repository": "AngusKit/AngusTester",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 1777,
+      "fork": false,
+      "archived": false,
+      "description": "AI-native software testing platform — one YAML test language covering API, Web, mobile, messaging, data, and LLM scenarios. Self-hostable.",
+      "url": "https://github.com/AngusKit/AngusTester",
+      "contributorsUrl": "https://github.com/AngusKit/AngusTester/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "AngusKit",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:39.398Z"
+    },
+    {
+      "repository": "anirudhbiyani/findmytakeover",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 179,
+      "fork": false,
+      "archived": false,
+      "description": "find dangling domains in a multi cloud environment",
+      "url": "https://github.com/anirudhbiyani/findmytakeover",
+      "contributorsUrl": "https://github.com/anirudhbiyani/findmytakeover/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "anirudhbiyani",
+          "contributions": 244
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 134
+        },
+        {
+          "login": "rupertbg",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "plafleur",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:39.605Z"
+    },
+    {
+      "repository": "anomalyco/opentui",
+      "top5": false
+    },
+    {
+      "repository": "anomalyco/opencode",
+      "top5": false
+    },
+    {
+      "repository": "ankane/vue-chartkick",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 748,
+      "fork": false,
+      "archived": false,
+      "description": "Create beautiful JavaScript charts with one line of Vue",
+      "url": "https://github.com/ankane/vue-chartkick",
+      "contributorsUrl": "https://github.com/ankane/vue-chartkick/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ankane",
+          "contributions": 177
+        },
+        {
+          "login": "e200",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:39.750Z"
+    },
+    {
+      "repository": "ankane/production_rails",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 2328,
+      "fork": false,
+      "archived": false,
+      "description": "Best practices for running Rails in production",
+      "url": "https://github.com/ankane/production_rails",
+      "contributorsUrl": "https://github.com/ankane/production_rails/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ankane",
+          "contributions": 115
+        },
+        {
+          "login": "itsderek23",
+          "contributions": 1
+        },
+        {
+          "login": "jasiekmiko",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:39.753Z"
+    },
+    {
+      "repository": "AnotiaWang/awesome-decision-models",
+      "top5": false
+    },
+    {
+      "repository": "ansible-community/awesome-ansible",
+      "top5": false
+    },
+    {
+      "repository": "anotheria/moskito",
+      "top5": false
+    },
+    {
+      "repository": "AnsGoo/openDataV",
+      "top5": false
+    },
+    {
+      "repository": "AntdUI/AntdUI",
+      "top5": false
+    },
+    {
+      "repository": "ansman/kotshi",
+      "top5": false
+    },
+    {
+      "repository": "AnthonyCalandra/modern-cpp-features",
+      "top5": false
+    },
+    {
+      "repository": "AntiMicroX/antimicrox",
+      "top5": false
+    },
+    {
+      "repository": "antosha417/nvim-lsp-file-operations",
+      "top5": false
+    },
+    {
+      "repository": "antonagestam/phantom-types",
+      "top5": false
+    },
+    {
+      "repository": "anufrievroman/waypaper",
+      "top5": false
+    },
+    {
+      "repository": "antonbabenko/terraform-docs-as-pdf",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 210,
+      "fork": false,
+      "archived": false,
+      "description": "Complete Terraform documentation (core + all official providers) as PDF files. Not updating nightly anymore.",
+      "url": "https://github.com/antonbabenko/terraform-docs-as-pdf",
+      "contributorsUrl": "https://github.com/antonbabenko/terraform-docs-as-pdf/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "betajobot",
+          "contributions": 1002
+        },
+        {
+          "login": "antonbabenko",
+          "contributions": 13
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:41.205Z"
+    },
+    {
+      "repository": "antimony-lang/antimony",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 171,
+      "fork": false,
+      "archived": false,
+      "description": "The Antimony programming language",
+      "url": "https://github.com/antimony-lang/antimony",
+      "contributorsUrl": "https://github.com/antimony-lang/antimony/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "garritfra",
+          "contributions": 506
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 45
+        },
+        {
+          "login": "YerinAlexey",
+          "contributions": 26
+        },
+        {
+          "login": "hexaredecimal",
+          "contributions": 17
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:41.272Z"
+    },
+    {
+      "repository": "antonioribeiro/countries",
+      "top5": false
+    },
+    {
+      "repository": "APA-Technology-Division/urban-and-regional-planning-resources",
+      "top5": false
+    },
+    {
+      "repository": "Anuken/Mindustry",
+      "top5": false
+    },
+    {
+      "repository": "AnyRPG/AnyRPGCore",
+      "top5": false
+    },
+    {
+      "repository": "apache/allura",
+      "top5": false
+    },
+    {
+      "repository": "aorumbayev/awesome-omarchy",
+      "top5": false
+    },
+    {
+      "repository": "apache/calcite-avatica",
+      "top5": false
+    },
+    {
+      "repository": "apache/casbin-node-casbin",
+      "top5": false
+    },
+    {
+      "repository": "apache/causeway",
+      "top5": false
+    },
+    {
+      "repository": "apache/calcite-avatica-go",
+      "top5": false
+    },
+    {
+      "repository": "apache/shardingsphere-elasticjob",
+      "top5": false
+    },
+    {
+      "repository": "apache/atlas",
+      "top5": false
+    },
+    {
+      "repository": "apache/skywalking-rover",
+      "top5": false
+    },
+    {
+      "repository": "appsinacup/godot-rapier-physics",
+      "top5": false
+    },
+    {
+      "repository": "arco-design/arco-design-vue",
+      "top5": false
+    },
+    {
+      "repository": "Ar-Ray-code/YOLOX-ROS",
+      "top5": false
+    },
+    {
+      "repository": "artem-sedykh/mini-climate-card",
+      "top5": false
+    },
+    {
+      "repository": "arco-design/arco-design-mobile",
+      "top5": false
+    },
+    {
+      "repository": "appleple/smartblock",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 317,
+      "fork": false,
+      "archived": false,
+      "description": "intuitive block based wysiwyg editor built with React and ProseMirror",
+      "url": "https://github.com/appleple/smartblock",
+      "contributorsUrl": "https://github.com/appleple/smartblock/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "steelydylan",
+          "contributions": 493
+        },
+        {
+          "login": "uidev1116",
+          "contributions": 146
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 92
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:43.442Z"
+    },
+    {
+      "repository": "ash-project/ash",
+      "top5": false
+    },
+    {
+      "repository": "armbrain-io/armbrain-cursor-plugin",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "description": "Official Armbrain Agent Plugin for Cursor and Grok Bot — remote MCP + skills",
+      "url": "https://github.com/armbrain-io/armbrain-cursor-plugin",
+      "contributorsUrl": "https://github.com/armbrain-io/armbrain-cursor-plugin/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "benfinklea",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:43.679Z"
+    },
+    {
+      "repository": "Asymptote-Labs/agent-beacon",
+      "top5": false
+    },
+    {
+      "repository": "AstraZeneca/awesome-drug-pair-scoring",
+      "top5": false
+    },
+    {
+      "repository": "avelino/awesome-go",
+      "top5": false
+    },
+    {
+      "repository": "avibe-bot/avibe",
+      "top5": false
+    },
+    {
+      "repository": "astrelsky/GhidraOrbis",
+      "rank": 4,
+      "contributions": 5,
+      "stars": 98,
+      "fork": false,
+      "archived": false,
+      "description": "Ghidra support for Orbis OS specific software and file formats",
+      "url": "https://github.com/astrelsky/GhidraOrbis",
+      "contributorsUrl": "https://github.com/astrelsky/GhidraOrbis/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "illusionyy",
+          "contributions": 15
+        },
+        {
+          "login": "astrelsky",
+          "contributions": 11
+        },
+        {
+          "login": "viniciuslrangel",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 5
+        },
+        {
+          "login": "Ryxm-a",
+          "contributions": 3
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:44.135Z"
+    },
+    {
+      "repository": "awesome-algorand/awesome-algorand",
+      "top5": false
+    },
+    {
+      "repository": "awesome-gptX/awesome-gpt",
+      "top5": false
+    },
+    {
+      "repository": "BabitMF/bmf",
+      "top5": false
+    },
+    {
+      "repository": "bbbenji/synthwave-hass",
+      "top5": false
+    },
+    {
+      "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "top5": false
+    },
+    {
+      "repository": "bcoe/awesome-cross-platform-nodejs",
+      "top5": false
+    },
+    {
+      "repository": "balintkissdev/awesome-dos",
+      "top5": false
+    },
+    {
+      "repository": "bilawalsidhu/gods-eye-view",
+      "top5": false
+    },
+    {
+      "repository": "Bogdanp/awesome-advent-of-code",
+      "top5": false
+    },
+    {
+      "repository": "busabase/busabase",
+      "top5": false
+    },
+    {
+      "repository": "BottlecapDave/HomeAssistant-OctopusEnergy",
+      "top5": false
+    },
+    {
+      "repository": "bkrem/awesome-solidity",
+      "top5": false
+    },
+    {
+      "repository": "bytecauldron/awesome-gamemaker",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/bolt",
+      "top5": false
+    },
+    {
+      "repository": "brainstormity/Jev-X-Sentiment-Analysis",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 229,
+      "fork": false,
+      "archived": false,
+      "description": "An on-demand crypto market intelligence and decision-support terminal powered by TypeSafe AI's System One model",
+      "url": "https://github.com/brainstormity/Jev-X-Sentiment-Analysis",
+      "contributorsUrl": "https://github.com/brainstormity/Jev-X-Sentiment-Analysis/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "brainstormity",
+          "contributions": 5
+        },
+        {
+          "login": "MrJev",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:46.097Z"
+    },
+    {
+      "repository": "BugeStudioTeam/Buge-App-Manager",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 332,
+      "fork": false,
+      "archived": false,
+      "description": "Buge App Manager is a powerful Android tool for app and permission management, requiring Shizuku, Dhizuku or ROOT.",
+      "url": "https://github.com/BugeStudioTeam/Buge-App-Manager",
+      "contributorsUrl": "https://github.com/BugeStudioTeam/Buge-App-Manager/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "BugeStudioTeam",
+          "contributions": 572
+        },
+        {
+          "login": "cynex1068",
+          "contributions": 18
+        },
+        {
+          "login": "Kevin233B",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "Tangmjiu",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:46.105Z"
+    },
+    {
+      "repository": "bytedance/AdsGlobalPackage",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/jaqmc",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/gg",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/SALMONN",
+      "top5": false
+    },
+    {
+      "repository": "cactus-compute/needle",
+      "top5": false
+    },
+    {
+      "repository": "bytedance/xgplayer",
+      "top5": false
+    },
+    {
+      "repository": "cashapp/turbine",
+      "top5": false
+    },
+    {
+      "repository": "chakra-ui/zag",
+      "top5": false
+    },
+    {
+      "repository": "Clooos/Bubble-Card",
+      "top5": false
+    },
+    {
+      "repository": "cloudwego/abcoder",
+      "top5": false
+    },
+    {
+      "repository": "cloudwego/eino",
+      "top5": false
+    },
+    {
+      "repository": "CelestoAI/celesto",
+      "top5": false
+    },
+    {
+      "repository": "collective/awesome-plone",
+      "top5": false
+    },
+    {
+      "repository": "cloudwego/eino-ext",
+      "top5": false
+    },
+    {
+      "repository": "Community-Access/quill",
+      "top5": false
+    },
+    {
+      "repository": "CopilotKit/OpenBot",
+      "top5": false
+    },
+    {
+      "repository": "Codepoints/awesome-codepoints",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 779,
+      "fork": false,
+      "archived": false,
+      "description": "Awesome Code Points",
+      "url": "https://github.com/Codepoints/awesome-codepoints",
+      "contributorsUrl": "https://github.com/Codepoints/awesome-codepoints/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Boldewyn",
+          "contributions": 37
+        },
+        {
+          "login": "dieseltravis",
+          "contributions": 2
+        },
+        {
+          "login": "frankrolf",
+          "contributions": 1
+        },
+        {
+          "login": "edent",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:48.068Z"
+    },
+    {
+      "repository": "coldteadotai/abide",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 623,
+      "fork": false,
+      "archived": false,
+      "description": "Make your coding agent abide by all your project rules ",
+      "url": "https://github.com/coldteadotai/abide",
+      "contributorsUrl": "https://github.com/coldteadotai/abide/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ohansemmanuel",
+          "contributions": 57
+        },
+        {
+          "login": "kha1n3vol3",
+          "contributions": 6
+        },
+        {
+          "login": "jchapuis",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "mattapperson",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:48.148Z"
+    },
+    {
+      "repository": "csinva/imodels",
+      "top5": false
+    },
+    {
+      "repository": "csingley/ofxtools",
+      "top5": false
+    },
+    {
+      "repository": "cssmagic/Awesome-AI",
+      "top5": false
+    },
+    {
+      "repository": "CScorza/OSINTAnonymous",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 476,
+      "fork": false,
+      "archived": false,
+      "description": "Creazione d'identità Fake - Impostazione Privacy Profili Social - Creazione Ambiente di Lavoro ",
+      "url": "https://github.com/CScorza/OSINTAnonymous",
+      "contributorsUrl": "https://github.com/CScorza/OSINTAnonymous/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "CScorza",
+          "contributions": 27
+        },
+        {
+          "login": "Maoxlr8",
+          "contributions": 1
+        },
+        {
+          "login": "EleqanT",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:48.615Z"
+    },
+    {
+      "repository": "ctjhoa/rust-learning",
+      "top5": false
+    },
+    {
+      "repository": "cubicdaiya/nginx-build",
+      "top5": false
+    },
+    {
+      "repository": "csound/csound",
+      "top5": false
+    },
+    {
+      "repository": "cubezhao/ai-tools-mng",
+      "top5": false
+    },
+    {
+      "repository": "cubxxw/awesome-cs-cloudnative-blockchain",
+      "top5": false
+    },
+    {
+      "repository": "CursorTouch/Android-MCP",
+      "top5": false
+    },
+    {
+      "repository": "CursorTouch/Windows-MCP",
+      "top5": false
+    },
+    {
+      "repository": "cubxxw/awesome-cs-course",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 197,
+      "fork": false,
+      "archived": false,
+      "description": "📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown",
+      "url": "https://github.com/cubxxw/awesome-cs-course",
+      "contributorsUrl": "https://github.com/cubxxw/awesome-cs-course/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "cubxxw",
+          "contributions": 193
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 9
+        },
+        {
+          "login": "3293172751n",
+          "contributions": 1
+        },
+        {
+          "login": "ImgBotApp",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:49.606Z"
+    },
+    {
+      "repository": "custom-components/ble_monitor",
+      "top5": false
+    },
+    {
+      "repository": "custom-cards/flex-table-card",
+      "rank": 5,
+      "contributions": 3,
+      "stars": 282,
+      "fork": false,
+      "archived": false,
+      "description": "Highly Flexible Lovelace Card - arbitrary contents/columns/rows, regex matched, perfect to show appdaemon created content and anything breaking out of the entity_id + attributes concept",
+      "url": "https://github.com/custom-cards/flex-table-card",
+      "contributorsUrl": "https://github.com/custom-cards/flex-table-card/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "daringer",
+          "contributions": 179
+        },
+        {
+          "login": "EdLeckert",
+          "contributions": 54
+        },
+        {
+          "login": "SBado",
+          "contributions": 7
+        },
+        {
+          "login": "Veejer",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:49.924Z"
+    },
+    {
+      "repository": "custom-components/places",
+      "top5": false
+    },
+    {
+      "repository": "cvat-ai/cvat",
+      "top5": false
+    },
+    {
+      "repository": "cwchenwang/awesome-3d-diffusion",
+      "top5": false
+    },
+    {
+      "repository": "cvilsmeier/sqinn-go",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 547,
+      "fork": false,
+      "archived": false,
+      "description": "Golang SQLite without cgo",
+      "url": "https://github.com/cvilsmeier/sqinn-go",
+      "contributorsUrl": "https://github.com/cvilsmeier/sqinn-go/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "cvilsmeier",
+          "contributions": 96
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:50.218Z"
+    },
+    {
+      "repository": "cybermaxs/awesome-analyzers",
+      "top5": false
+    },
+    {
+      "repository": "cycfi/elements",
+      "top5": false
+    },
+    {
+      "repository": "cycle/orm",
+      "top5": false
+    },
+    {
+      "repository": "cybertec-postgresql/pg_timetable",
+      "top5": false
+    },
+    {
+      "repository": "cyberchitta/scrapling-fetch-mcp",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 128,
+      "fork": false,
+      "archived": false,
+      "description": "Helps AI assistants access text content from bot-protected websites. MCP server that fetches HTML/markdown from sites with anti-automation measures using Scrapling.",
+      "url": "https://github.com/cyberchitta/scrapling-fetch-mcp",
+      "contributorsUrl": "https://github.com/cyberchitta/scrapling-fetch-mcp/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "restlessronin",
+          "contributions": 75
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:51.037Z"
+    },
+    {
+      "repository": "cwinvestments/memstack",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 429,
+      "fork": false,
+      "archived": false,
+      "description": "Persistent memory and skill framework for Claude Code: session diary, fact recall, 87 free skills, MCP skill loader",
+      "url": "https://github.com/cwinvestments/memstack",
+      "contributorsUrl": "https://github.com/cwinvestments/memstack/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "cwinvestments",
+          "contributions": 321
+        },
+        {
+          "login": "chaugan",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:51.065Z"
+    },
+    {
+      "repository": "cyclejs-community/awesome-cyclejs",
+      "top5": false
+    },
+    {
+      "repository": "cyclosm/cyclosm-cartocss-style",
+      "top5": false
+    },
+    {
+      "repository": "cymcsg/UltimateRecyclerView",
+      "top5": false
+    },
+    {
+      "repository": "cym1102/nginxWebUI",
+      "top5": false
+    },
+    {
+      "repository": "cypress-visual-regression/cypress-visual-regression",
+      "top5": false
+    },
+    {
+      "repository": "Cysharp/ConsoleAppFramework",
+      "top5": false
+    },
+    {
+      "repository": "d-widget-toolkit/dwt",
+      "top5": false
+    },
+    {
+      "repository": "d3plus/d3plus",
+      "top5": false
+    },
+    {
+      "repository": "d-wasserman/Complete_Street_Rule",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 218,
+      "fork": false,
+      "archived": false,
+      "description": "The Complete Street Rule for ArcGIS CityEngine is a scenario oriented design tool intended to enable users to quickly create procedurally generated multimodal streets. ",
+      "url": "https://github.com/d-wasserman/Complete_Street_Rule",
+      "contributorsUrl": "https://github.com/d-wasserman/Complete_Street_Rule/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "d-wasserman",
+          "contributions": 321
+        },
+        {
+          "login": "jobertuefer",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:52.118Z"
+    },
+    {
+      "repository": "daanx/mimalloc-bench",
+      "top5": false
+    },
+    {
+      "repository": "d-513/grok-bot-nix",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "description": null,
+      "url": "https://github.com/d-513/grok-bot-nix",
+      "contributorsUrl": "https://github.com/d-513/grok-bot-nix/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "github-actions[bot]",
+          "contributions": 31
+        },
+        {
+          "login": "d-513",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:52.443Z"
+    },
+    {
+      "repository": "dagrejs/graphlib",
+      "top5": false
+    },
+    {
+      "repository": "dadhi/DryIoc",
+      "top5": false
+    },
+    {
+      "repository": "d3-node/d3-node",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 684,
+      "fork": false,
+      "archived": false,
+      "description": "Server-side D3 for static chart/map generation ✨📊",
+      "url": "https://github.com/d3-node/d3-node",
+      "contributorsUrl": "https://github.com/d3-node/d3-node/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "bradoyler",
+          "contributions": 101
+        },
+        {
+          "login": "EranM6",
+          "contributions": 1
+        },
+        {
+          "login": "ffarzat",
+          "contributions": 1
+        },
+        {
+          "login": "t3db0t",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:53.084Z"
+    },
+    {
+      "repository": "daac-tools/vibrato",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 428,
+      "fork": false,
+      "archived": false,
+      "description": "🎤 vibrato: Viterbi-based accelerated tokenizer",
+      "url": "https://github.com/daac-tools/vibrato",
+      "contributorsUrl": "https://github.com/daac-tools/vibrato/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "kampersanda",
+          "contributions": 102
+        },
+        {
+          "login": "vbkaisetsu",
+          "contributions": 83
+        },
+        {
+          "login": "akiomik",
+          "contributions": 2
+        },
+        {
+          "login": "li-jin-quan",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:53.180Z"
+    },
+    {
+      "repository": "dagucloud/dagu",
+      "top5": false
+    },
+    {
+      "repository": "dai-shi/use-context-selector",
+      "top5": false
+    },
+    {
+      "repository": "dajobe/raptor",
+      "top5": false
+    },
+    {
+      "repository": "dail8859/NotepadNext",
+      "top5": false
+    },
+    {
+      "repository": "damianszczepanik/cucumber-reporting",
+      "top5": false
+    },
+    {
+      "repository": "dani-garcia/vaultwarden",
+      "top5": false
+    },
+    {
+      "repository": "dalisoft/awesome-storage",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 269,
+      "fork": false,
+      "archived": false,
+      "description": "List of cloud storage providers for individuals and family sorted by minimal plan price",
+      "url": "https://github.com/dalisoft/awesome-storage",
+      "contributorsUrl": "https://github.com/dalisoft/awesome-storage/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dalisoft",
+          "contributions": 46
+        },
+        {
+          "login": "chogarcia",
+          "contributions": 1
+        },
+        {
+          "login": "bancek",
+          "contributions": 1
+        },
+        {
+          "login": "valamidev",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:54.085Z"
+    },
+    {
+      "repository": "daniel-frak/keycloak-user-migration",
+      "top5": false
+    },
+    {
+      "repository": "daniel-sc/ng-extract-i18n-merge",
+      "top5": false
+    },
+    {
+      "repository": "dan2097/opsin",
+      "top5": false
+    },
+    {
+      "repository": "danieldotnl/ha-multiscrape",
+      "top5": false
+    },
+    {
+      "repository": "DanielGavin/ols",
+      "top5": false
+    },
+    {
+      "repository": "danielgerlag/workflow-core",
+      "top5": false
+    },
+    {
+      "repository": "DanielCardonaRojas/codemark",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 138,
+      "fork": false,
+      "archived": false,
+      "description": "A semantic code bookmarking system for humans and agents",
+      "url": "https://github.com/DanielCardonaRojas/codemark",
+      "contributorsUrl": "https://github.com/DanielCardonaRojas/codemark/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "DanielCardonaRojas",
+          "contributions": 408
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 2
+        },
+        {
+          "login": "Katalizatori",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:54.890Z"
+    },
+    {
+      "repository": "DanielMartensson/Open-SAE-J1939",
+      "top5": false
+    },
+    {
+      "repository": "damianricobelli/stepperize",
+      "top5": false
+    },
+    {
+      "repository": "danielperna84/hass-configurator",
+      "top5": false
+    },
+    {
+      "repository": "danielward27/flowjax",
+      "top5": false
+    },
+    {
+      "repository": "danielpclark/rutie",
+      "top5": false
+    },
+    {
+      "repository": "danlwarren/ENMTools",
+      "top5": false
+    },
+    {
+      "repository": "danielpalme/ReportGenerator",
+      "top5": false
+    },
+    {
+      "repository": "danmayer/coverband",
+      "top5": false
+    },
+    {
+      "repository": "dante-ev/latex-action",
+      "top5": false
+    },
+    {
+      "repository": "danuk/shm",
+      "top5": false
+    },
+    {
+      "repository": "Darazaki/indent-o-matic",
+      "top5": false
+    },
+    {
+      "repository": "dapper91/pydantic-xml",
+      "top5": false
+    },
+    {
+      "repository": "darold/pgcluu",
+      "top5": false
+    },
+    {
+      "repository": "darrenburns/posting",
+      "top5": false
+    },
+    {
+      "repository": "darsyn/ip",
+      "top5": false
+    },
+    {
+      "repository": "dannyfritz/awesome-ray-tracing",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 658,
+      "fork": false,
+      "archived": false,
+      "description": "Curated list of ray tracing resources",
+      "url": "https://github.com/dannyfritz/awesome-ray-tracing",
+      "contributorsUrl": "https://github.com/dannyfritz/awesome-ray-tracing/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dannyfritz",
+          "contributions": 140
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:56.685Z"
+    },
+    {
+      "repository": "darrenldl/docfd",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 292,
+      "fork": false,
+      "archived": false,
+      "description": "TUI multiline fuzzy document finder",
+      "url": "https://github.com/darrenldl/docfd",
+      "contributorsUrl": "https://github.com/darrenldl/docfd/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "darrenldl",
+          "contributions": 2645
+        },
+        {
+          "login": "chrjabs",
+          "contributions": 1
+        },
+        {
+          "login": "kseistrup",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:56.871Z"
+    },
+    {
+      "repository": "dashbitco/mox",
+      "top5": false
+    },
+    {
+      "repository": "dashbitco/flow",
+      "top5": false
+    },
+    {
+      "repository": "daseinlabs/open-jev",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 135,
+      "fork": false,
+      "archived": false,
+      "description": "Open Jev implementation with custom finetuning",
+      "url": "https://github.com/daseinlabs/open-jev",
+      "contributorsUrl": "https://github.com/daseinlabs/open-jev/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "subygan",
+          "contributions": 26
+        },
+        {
+          "login": "madhusiddharths",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:57.065Z"
+    },
+    {
+      "repository": "dashbitco/nimble_publisher",
+      "top5": false
+    },
+    {
+      "repository": "dashbitco/nimble_totp",
+      "top5": false
+    },
+    {
+      "repository": "data-forge/data-forge-ts",
+      "top5": false
+    },
+    {
+      "repository": "data-driven-forms/react-forms",
+      "top5": false
+    },
+    {
+      "repository": "datalayer/fasta2a",
+      "top5": false
+    },
+    {
+      "repository": "datalayer/jupyter-mcp-server",
+      "top5": false
+    },
+    {
+      "repository": "databricks/sjsonnet",
+      "top5": false
+    },
+    {
+      "repository": "datachain-ai/datachain",
+      "top5": false
+    },
+    {
+      "repository": "datamade/site-launch-checklist",
+      "top5": false
+    },
+    {
+      "repository": "datalevin/datalevin",
+      "top5": false
+    },
+    {
+      "repository": "datastax/jvector",
+      "top5": false
+    },
+    {
+      "repository": "dathere/qsv",
+      "top5": false
+    },
+    {
+      "repository": "davecom/SwiftGraph",
+      "top5": false
+    },
+    {
+      "repository": "datanucleus/datanucleus-core",
+      "top5": false
+    },
+    {
+      "repository": "davenverse/fuuid",
+      "top5": false
+    },
+    {
+      "repository": "datar001/Awesome-AD-on-T2IDM",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 105,
+      "fork": false,
+      "archived": false,
+      "description": "A collection of resources on attacks and defenses targeting text-to-image diffusion models",
+      "url": "https://github.com/datar001/Awesome-AD-on-T2IDM",
+      "contributorsUrl": "https://github.com/datar001/Awesome-AD-on-T2IDM/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "datar001",
+          "contributions": 36
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "huzimun",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:58.836Z"
+    },
+    {
+      "repository": "dbcli/pgcli",
+      "top5": false
+    },
+    {
+      "repository": "dbos-inc/awesome-dbos",
+      "top5": false
+    },
+    {
+      "repository": "ddotta/awesome-polars",
+      "top5": false
+    },
+    {
+      "repository": "deadc0de6/dotdrop",
+      "top5": false
+    },
+    {
+      "repository": "debpalash/VoiceStudio",
+      "top5": false
+    },
+    {
+      "repository": "decentralized-identity/did-resolver",
+      "top5": false
+    },
+    {
+      "repository": "deajan/osync",
+      "top5": false
+    },
+    {
+      "repository": "decke/smtprelay",
+      "top5": false
+    },
+    {
+      "repository": "decompil3d/lovelace-hourly-weather",
+      "top5": false
+    },
+    {
+      "repository": "dayflow-js/BlossomColorPicker",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 402,
+      "fork": false,
+      "archived": false,
+      "description": "A beautiful, blooming color picker for Web, built with pure CSS and compatible with JS, React, Vue, Svelte, and Angular.",
+      "url": "https://github.com/dayflow-js/BlossomColorPicker",
+      "contributorsUrl": "https://github.com/dayflow-js/BlossomColorPicker/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "JayceV552",
+          "contributions": 60
+        },
+        {
+          "login": "mertarica",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:58:59.771Z"
+    },
+    {
+      "repository": "DeepSpec/InteractionTrees",
+      "top5": false
+    },
+    {
+      "repository": "deepstreamIO/deepstream.io-client-js",
+      "top5": false
+    },
+    {
+      "repository": "deeptime-ml/deeptime",
+      "top5": false
+    },
+    {
+      "repository": "delucis/astro-auto-import",
+      "top5": false
+    },
+    {
+      "repository": "denodrivers/redis",
+      "top5": false
+    },
+    {
+      "repository": "dermotduffy/advanced-camera-card",
+      "top5": false
+    },
+    {
+      "repository": "devxoul/Then",
+      "top5": false
+    },
+    {
+      "repository": "demystifyfp/FsToolkit.ErrorHandling",
+      "top5": false
+    },
+    {
+      "repository": "dhimmel/obonet",
+      "top5": false
+    },
+    {
+      "repository": "didww/credit_card_validations",
+      "top5": false
+    },
+    {
+      "repository": "dieselpoint/norm",
+      "top5": false
+    },
+    {
+      "repository": "diegohaz/constate",
+      "top5": false
+    },
+    {
+      "repository": "DietrichGebert/ponytail",
+      "top5": false
+    },
+    {
+      "repository": "DiscoverBSD/awesome-bsd",
+      "top5": false
+    },
+    {
+      "repository": "disco-lang/disco",
+      "top5": false
+    },
+    {
+      "repository": "discord-haskell/discord-haskell",
+      "top5": false
+    },
+    {
+      "repository": "disposable/disposable",
+      "top5": false
+    },
+    {
+      "repository": "dimtass/DSP-Cpp-filters",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 188,
+      "fork": false,
+      "archived": false,
+      "description": "DSP C++ audio filters",
+      "url": "https://github.com/dimtass/DSP-Cpp-filters",
+      "contributorsUrl": "https://github.com/dimtass/DSP-Cpp-filters/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dimtass",
+          "contributions": 20
+        },
+        {
+          "login": "dimtas",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        },
+        {
+          "login": "daleonov",
+          "contributions": 1
+        },
+        {
+          "login": "ebudae",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:01.567Z"
+    },
+    {
+      "repository": "django-cms/djangocms-admin-style",
+      "top5": false
+    },
+    {
+      "repository": "divo12/awesome-grok-bot-templates",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 4,
+      "fork": false,
+      "archived": false,
+      "description": "A curated list of public Grok Bot templates and reusable team operating systems.",
+      "url": "https://github.com/divo12/awesome-grok-bot-templates",
+      "contributorsUrl": "https://github.com/divo12/awesome-grok-bot-templates/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "divo12",
+          "contributions": 12
+        },
+        {
+          "login": "cursoragent",
+          "contributions": 3
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:01.889Z"
+    },
+    {
+      "repository": "dj-nitehawk/MongoDB.Entities",
+      "top5": false
+    },
+    {
+      "repository": "django-mptt/django-mptt",
+      "top5": false
+    },
+    {
+      "repository": "django-guardian/django-guardian",
+      "top5": false
+    },
+    {
+      "repository": "DjangoEx/awesome-python-resources",
+      "top5": false
+    },
+    {
+      "repository": "dlepaux/realtime-bpm-analyzer",
+      "top5": false
+    },
+    {
+      "repository": "dlang-community/awesome-d",
+      "top5": false
+    },
+    {
+      "repository": "dlint-py/dlint",
+      "top5": false
+    },
+    {
+      "repository": "dmjio/envy",
+      "top5": false
+    },
+    {
+      "repository": "dnote/dnote",
+      "top5": false
+    },
+    {
+      "repository": "doanbactam/awesome-builder-programs",
+      "top5": false
+    },
+    {
+      "repository": "doctrine/inflector",
+      "top5": false
+    },
+    {
+      "repository": "dmmulroy/anti-slop",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 5971,
+      "fork": false,
+      "archived": false,
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "contributorsUrl": "https://github.com/dmmulroy/anti-slop/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dmmulroy",
+          "contributions": 32
+        },
+        {
+          "login": "K-Mistele",
+          "contributions": 2
+        },
+        {
+          "login": "haydenbleasel",
+          "contributions": 1
+        },
+        {
+          "login": "akshaypal912",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:02.998Z"
+    },
+    {
+      "repository": "doctrine/instantiator",
+      "top5": false
+    },
+    {
+      "repository": "doctrine/lexer",
+      "top5": false
+    },
+    {
+      "repository": "docat-org/docat",
+      "top5": false
+    },
+    {
+      "repository": "doctrine/persistence",
+      "top5": false
+    },
+    {
+      "repository": "dongri/openai-api-rs",
+      "top5": false
+    },
+    {
+      "repository": "dompdf/dompdf",
+      "top5": false
+    },
+    {
+      "repository": "donseba/go-htmx",
+      "top5": false
+    },
+    {
+      "repository": "donghao51/Awesome-Multimodal-Adaptation",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 195,
+      "fork": false,
+      "archived": false,
+      "description": "[TPAMI 2026] Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models",
+      "url": "https://github.com/donghao51/Awesome-Multimodal-Adaptation",
+      "contributorsUrl": "https://github.com/donghao51/Awesome-Multimodal-Adaptation/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "donghao51",
+          "contributions": 115
+        },
+        {
+          "login": "YushengZhao",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:04.066Z"
+    },
+    {
+      "repository": "domn1995/dunet",
+      "top5": false
+    },
+    {
+      "repository": "dongyubin/Awesome-AI-Images-Prompts",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 294,
+      "fork": false,
+      "archived": false,
+      "description": "2026年11月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro 2.1 Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词",
+      "url": "https://github.com/dongyubin/Awesome-AI-Images-Prompts",
+      "contributorsUrl": "https://github.com/dongyubin/Awesome-AI-Images-Prompts/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dongyubin",
+          "contributions": 50
+        },
+        {
+          "login": "Chang-Hai",
+          "contributions": 1
+        },
+        {
+          "login": "wildematt",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:04.480Z"
+    },
+    {
+      "repository": "dotnet-state-machine/stateless",
+      "top5": false
+    },
+    {
+      "repository": "dorumrr/de1984",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 500,
+      "fork": false,
+      "archived": false,
+      "description": "Privacy isn’t default. Take it back with De1984 Firewall and Package Control",
+      "url": "https://github.com/dorumrr/de1984",
+      "contributorsUrl": "https://github.com/dorumrr/de1984/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dorumrr",
+          "contributions": 584
+        },
+        {
+          "login": "Sup-25498",
+          "contributions": 10
+        },
+        {
+          "login": "Korb",
+          "contributions": 3
+        },
+        {
+          "login": "ZineeEddine",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:04.692Z"
+    },
+    {
+      "repository": "dotnet-presentations/dotnet-maui-workshop",
+      "top5": false
+    },
+    {
+      "repository": "dotnet/AspNetCore.Docs",
+      "top5": false
+    },
+    {
+      "repository": "DravenALG/awesome-vla-wam",
+      "top5": false
+    },
+    {
+      "repository": "drachtio/drachtio-server",
+      "top5": false
+    },
+    {
+      "repository": "DouyinFE/semi-design",
+      "top5": false
+    },
+    {
+      "repository": "dosasm/masm-tasm",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 183,
+      "fork": false,
+      "archived": false,
+      "description": "run and debug TASM/MASM code in VSCode via JSDos, DOSBox and DOSBox-x. compatiable for web platform",
+      "url": "https://github.com/dosasm/masm-tasm",
+      "contributorsUrl": "https://github.com/dosasm/masm-tasm/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "xsro",
+          "contributions": 118
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:05.526Z"
+    },
+    {
+      "repository": "dpt/The-Great-Escape-in-C",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 133,
+      "fork": false,
+      "archived": false,
+      "description": "Classic ZX Spectrum game \"The Great Escape\" rewritten in portable C",
+      "url": "https://github.com/dpt/The-Great-Escape-in-C",
+      "contributorsUrl": "https://github.com/dpt/The-Great-Escape-in-C/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dpt",
+          "contributions": 1162
+        },
+        {
+          "login": "archifishaldev",
+          "contributions": 3
+        },
+        {
+          "login": "dougieh",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:05.543Z"
+    },
+    {
+      "repository": "dreamhead/moco",
+      "top5": false
+    },
+    {
+      "repository": "drogonframework/drogon",
+      "top5": false
+    },
+    {
+      "repository": "drduh/Debian-Privacy-Server-Guide",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 447,
+      "fork": false,
+      "archived": false,
+      "description": "Guide to using a remote Debian server for security and privacy services",
+      "url": "https://github.com/drduh/Debian-Privacy-Server-Guide",
+      "contributorsUrl": "https://github.com/drduh/Debian-Privacy-Server-Guide/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "drduh",
+          "contributions": 42
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:06.048Z"
+    },
+    {
+      "repository": "dtc111111/awesome-representation-for-robotics",
+      "top5": false
+    },
+    {
+      "repository": "dromara/carbon",
+      "top5": false
+    },
+    {
+      "repository": "dreamtheater123/Awesome-SpeechLM-Survey",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 226,
+      "fork": false,
+      "archived": false,
+      "description": "Github repository for ACL 2025 paper: Recent Advances in Speech Language Models: A Survey.",
+      "url": "https://github.com/dreamtheater123/Awesome-SpeechLM-Survey",
+      "contributorsUrl": "https://github.com/dreamtheater123/Awesome-SpeechLM-Survey/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "dreamtheater123",
+          "contributions": 11
+        },
+        {
+          "login": "BKtensor",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:06.316Z"
+    },
+    {
+      "repository": "duckdb/dbt-duckdb",
+      "top5": false
+    },
+    {
+      "repository": "duckdb/duckdb-rs",
+      "top5": false
+    },
+    {
+      "repository": "duckdb/duckdb-spatial",
+      "top5": false
+    },
+    {
+      "repository": "dweinstein/awesome-frida",
+      "top5": false
+    },
+    {
+      "repository": "duckdb/ducklake",
+      "top5": false
+    },
+    {
+      "repository": "dyweb/awesome-resume-for-chinese",
+      "top5": false
+    },
+    {
+      "repository": "earwig/git-repo-updater",
+      "top5": false
+    },
+    {
+      "repository": "EasonTuT/Awesome-Interactive-World-Model",
+      "top5": false
+    },
+    {
+      "repository": "ebertti/awesome-telegram",
+      "top5": false
+    },
+    {
+      "repository": "elixir-lang/ex_doc",
+      "top5": false
+    },
+    {
+      "repository": "elixir-nebulex/nebulex",
+      "top5": false
+    },
+    {
+      "repository": "emilk/egui",
+      "top5": false
+    },
+    {
+      "repository": "elixir-nx/nx",
+      "top5": false
+    },
+    {
+      "repository": "figranium/figranium",
+      "top5": false
+    },
+    {
+      "repository": "ever-co/ever-gauzy",
+      "top5": false
+    },
+    {
+      "repository": "fenixsoft/awesome-fenix",
+      "top5": false
+    },
+    {
+      "repository": "foliojs/fontkit",
+      "top5": false
+    },
+    {
+      "repository": "featherless-ai/simple-jev",
+      "top5": false
+    },
+    {
+      "repository": "francois-le-ko4la/lovelace-entity-progress-card",
+      "top5": false
+    },
+    {
+      "repository": "gbdev/awesome-gbdev",
+      "top5": false
+    },
+    {
+      "repository": "freeCodeCamp/devdocs",
+      "top5": false
+    },
+    {
+      "repository": "GopeedLab/gopeed",
+      "top5": false
+    },
+    {
+      "repository": "guidance-ai/jsonschemabench",
+      "top5": false
+    },
+    {
+      "repository": "hal9ai/awesome-dataviz",
+      "top5": false
+    },
+    {
+      "repository": "gruhn/awesome-naming",
+      "rank": 4,
+      "contributions": 2,
+      "stars": 1457,
+      "fork": false,
+      "archived": false,
+      "description": "A curated list for when naming things is done right.",
+      "url": "https://github.com/gruhn/awesome-naming",
+      "contributorsUrl": "https://github.com/gruhn/awesome-naming/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "gruhn",
+          "contributions": 90
+        },
+        {
+          "login": "BossBabyOfficial",
+          "contributions": 2
+        },
+        {
+          "login": "ahujaesh",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "je12123",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:08.961Z"
+    },
+    {
+      "repository": "handsomestWei/patent-disclosure-skill",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 13027,
+      "fork": false,
+      "archived": false,
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "contributorsUrl": "https://github.com/handsomestWei/patent-disclosure-skill/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "handsomestWei",
+          "contributions": 68
+        },
+        {
+          "login": "yizchu",
+          "contributions": 3
+        },
+        {
+          "login": "917Dhj",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "liuzl",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:09.263Z"
+    },
+    {
+      "repository": "harry0703/MoneyPrinterTurbo",
+      "top5": false
+    },
+    {
+      "repository": "heygen-com/hyperframes",
+      "top5": false
+    },
+    {
+      "repository": "hassio-addons/app-aircast",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 410,
+      "fork": false,
+      "archived": false,
+      "description": "AirCast - Home Assistant Community Apps",
+      "url": "https://github.com/hassio-addons/app-aircast",
+      "contributorsUrl": "https://github.com/hassio-addons/app-aircast/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "frenck",
+          "contributions": 172
+        },
+        {
+          "login": "renovate[bot]",
+          "contributions": 55
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 46
+        },
+        {
+          "login": "velijv",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:09.706Z"
+    },
+    {
+      "repository": "headroomlabs-ai/headroom",
+      "top5": false
+    },
+    {
+      "repository": "huggingface/transformers",
+      "top5": false
+    },
+    {
+      "repository": "HKUDS/DeepCode",
+      "top5": false
+    },
+    {
+      "repository": "igorbarinov/awesome-bitcoin",
+      "top5": false
+    },
+    {
+      "repository": "iamericfletcher/awesome-r-learning-resources",
+      "top5": false
+    },
+    {
+      "repository": "infosecB/awesome-detection-engineering",
+      "top5": false
+    },
+    {
+      "repository": "getsentry/sentry",
+      "top5": false
+    },
+    {
+      "repository": "Imbad0202/academic-research-skills",
+      "top5": false
+    },
+    {
+      "repository": "JanVanRyswyck/awesome-talks",
+      "top5": false
+    },
+    {
+      "repository": "JackyTJie/SJTURunningMan_Advanced_Edition",
+      "top5": false
+    },
+    {
+      "repository": "jbetancur/react-data-table-component",
+      "top5": false
+    },
+    {
+      "repository": "ipenywis/laya-ultrafast",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 267,
+      "fork": false,
+      "archived": false,
+      "description": "Same as jev-ultrafast but using Laya",
+      "url": "https://github.com/ipenywis/laya-ultrafast",
+      "contributorsUrl": "https://github.com/ipenywis/laya-ultrafast/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "gregpr07",
+          "contributions": 3
+        },
+        {
+          "login": "ipenywis",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:11.168Z"
+    },
+    {
+      "repository": "joinmarket-webui/jam",
+      "top5": false
+    },
+    {
+      "repository": "jpettitt/weather-radar-card",
+      "top5": false
+    },
+    {
+      "repository": "K-Dense-AI/scientific-agent-skills",
+      "top5": false
+    },
+    {
+      "repository": "K9i-0/ccpocket",
+      "top5": false
+    },
+    {
+      "repository": "jerryjliu/docjev",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 550,
+      "fork": false,
+      "archived": false,
+      "description": "A very fast document classifier/splitter using Jev ",
+      "url": "https://github.com/jerryjliu/docjev",
+      "contributorsUrl": "https://github.com/jerryjliu/docjev/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "jerryjliu",
+          "contributions": 8
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "xujiantop-crypto",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:11.893Z"
+    },
+    {
+      "repository": "jkudish/jev-browser",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 367,
+      "fork": false,
+      "archived": false,
+      "description": "Browser use using Typesafe's Jev model",
+      "url": "https://github.com/jkudish/jev-browser",
+      "contributorsUrl": "https://github.com/jkudish/jev-browser/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "jkudish",
+          "contributions": 94
+        },
+        {
+          "login": "scripness",
+          "contributions": 1
+        },
+        {
+          "login": "MrJev",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:11.923Z"
+    },
+    {
+      "repository": "kalkih/mini-graph-card",
+      "top5": false
+    },
+    {
+      "repository": "ktwu01/benchmark-radar",
+      "top5": false
+    },
+    {
+      "repository": "krahabb/meross_lan",
+      "top5": false
+    },
+    {
+      "repository": "kyrolabs/awesome-agents",
+      "top5": false
+    },
+    {
+      "repository": "junegunn/vim-emoji",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 615,
+      "fork": false,
+      "archived": false,
+      "description": ":smiley: Emoji in Vim",
+      "url": "https://github.com/junegunn/vim-emoji",
+      "contributorsUrl": "https://github.com/junegunn/vim-emoji/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "junegunn",
+          "contributions": 32
+        },
+        {
+          "login": "adelarsq",
+          "contributions": 1
+        },
+        {
+          "login": "watagashi",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:12.453Z"
+    },
+    {
+      "repository": "Kikobeats/awesome-network-js",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 585,
+      "fork": false,
+      "archived": false,
+      "description": "A :tophat: list of network layer resources written pure JS.",
+      "url": "https://github.com/Kikobeats/awesome-network-js",
+      "contributorsUrl": "https://github.com/Kikobeats/awesome-network-js/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Kikobeats",
+          "contributions": 43
+        },
+        {
+          "login": "mkozjak",
+          "contributions": 1
+        },
+        {
+          "login": "watson",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:12.643Z"
+    },
+    {
+      "repository": "Lakr233/vphone-cli",
+      "top5": false
+    },
+    {
+      "repository": "larksuite/cli",
+      "top5": false
+    },
+    {
+      "repository": "lastlogin-net/obligator",
+      "top5": false
+    },
+    {
+      "repository": "Lascorbe/CocoaConferences",
+      "top5": false
+    },
+    {
+      "repository": "larksuite/node-sdk",
+      "top5": false
+    },
+    {
+      "repository": "launchdarkly/js-client-sdk",
+      "top5": false
+    },
+    {
+      "repository": "Lazer-Database/Lazer-Database",
+      "top5": false
+    },
+    {
+      "repository": "LastOliveGames/becsy",
+      "rank": 5,
+      "contributions": 1,
+      "stars": 299,
+      "fork": false,
+      "archived": false,
+      "description": "A multithreaded Entity Component System (ECS) for TypeScript and JavaScript, inspired by ECSY and bitecs.",
+      "url": "https://github.com/LastOliveGames/becsy",
+      "contributorsUrl": "https://github.com/LastOliveGames/becsy/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "pkaminski",
+          "contributions": 331
+        },
+        {
+          "login": "endel",
+          "contributions": 1
+        },
+        {
+          "login": "getkey",
+          "contributions": 1
+        },
+        {
+          "login": "marionebl",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:13.713Z"
+    },
+    {
+      "repository": "latex2html/latex2html",
+      "top5": false
+    },
+    {
+      "repository": "laurencelundblade/QCBOR",
+      "top5": false
+    },
+    {
+      "repository": "livekit/agents",
+      "top5": false
+    },
+    {
+      "repository": "ljmerza/light-entity-card",
+      "top5": false
+    },
+    {
+      "repository": "lyogavin/airllm",
+      "top5": false
+    },
+    {
+      "repository": "legrego/homeassistant-elasticsearch",
+      "top5": false
+    },
+    {
+      "repository": "lynx-family/lynx-stack",
+      "top5": false
+    },
+    {
+      "repository": "MG1937/ASC",
+      "top5": false
+    },
+    {
+      "repository": "matiaszanolli/Auralis",
+      "top5": false
+    },
+    {
+      "repository": "milind-soni/OpenMausBot",
+      "top5": false
+    },
+    {
+      "repository": "malevrigns/agent-jev",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 396,
+      "fork": false,
+      "archived": false,
+      "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+      "url": "https://github.com/malevrigns/agent-jev",
+      "contributorsUrl": "https://github.com/malevrigns/agent-jev/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "malevrigns",
+          "contributions": 42
+        },
+        {
+          "login": "zkmluck",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "xiushen01",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:14.779Z"
+    },
+    {
+      "repository": "monoio-rs/monoio",
+      "top5": false
+    },
+    {
+      "repository": "mvanhorn/last30days-skill",
+      "top5": false
+    },
+    {
+      "repository": "maxwroc/battery-state-card",
+      "top5": false
+    },
+    {
+      "repository": "nab138/iloader",
+      "top5": false
+    },
+    {
+      "repository": "MultiQC/MultiQC",
+      "top5": false
+    },
+    {
+      "repository": "mlorentedev/hive",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 10,
+      "fork": false,
+      "archived": false,
+      "description": "Context infrastructure for AI-assisted development — on-demand Obsidian vault access via MCP",
+      "url": "https://github.com/mlorentedev/hive",
+      "contributorsUrl": "https://github.com/mlorentedev/hive/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "mlorentedev",
+          "contributions": 392
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 70
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:15.323Z"
+    },
+    {
+      "repository": "nageoffer/ragent",
+      "top5": false
+    },
+    {
+      "repository": "NemesisRE/kiosk-mode",
+      "top5": false
+    },
+    {
+      "repository": "NationalSecurityAgency/ghidra",
+      "top5": false
+    },
+    {
+      "repository": "nginx-proxy/docker-gen",
+      "top5": false
+    },
+    {
+      "repository": "neovide/neovide",
+      "top5": false
+    },
+    {
+      "repository": "nlohmann/json",
+      "top5": false
+    },
+    {
+      "repository": "okf-memory/okf-agent-memory",
+      "top5": false
+    },
+    {
+      "repository": "ofekashery/vertical-stack-in-card",
+      "top5": false
+    },
+    {
+      "repository": "nvm-sh/nvm",
+      "top5": false
+    },
+    {
+      "repository": "nordicopen/easee_hass",
+      "top5": false
+    },
+    {
+      "repository": "Nezz/homeassistant-visionos-theme",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 436,
+      "fork": false,
+      "archived": false,
+      "description": "Theme inspired by visionOS for Home Assistant",
+      "url": "https://github.com/Nezz/homeassistant-visionos-theme",
+      "contributorsUrl": "https://github.com/Nezz/homeassistant-visionos-theme/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "Nezz",
+          "contributions": 69
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:16.633Z"
+    },
+    {
+      "repository": "onnxsim/onnxsim",
+      "top5": false
+    },
+    {
+      "repository": "opengeos/GeoLibre",
+      "top5": false
+    },
+    {
+      "repository": "OrchestratorInc/agent-orchestrator",
+      "top5": false
+    },
+    {
+      "repository": "petk/awesome-dojo",
+      "top5": false
+    },
+    {
+      "repository": "petretiandrea/home-assistant-tapo-p100",
+      "top5": false
+    },
+    {
+      "repository": "phodal/auto-dev",
+      "top5": false
+    },
+    {
+      "repository": "patman15/BMS_BLE-HA",
+      "top5": false
+    },
+    {
+      "repository": "ParisNeo/lollms",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 106,
+      "fork": false,
+      "archived": false,
+      "description": "An all in one AI solution compatible with any known AI service on the planet",
+      "url": "https://github.com/ParisNeo/lollms",
+      "contributorsUrl": "https://github.com/ParisNeo/lollms/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ParisNeo",
+          "contributions": 1381
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 3
+        },
+        {
+          "login": "celtic-coder",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:17.556Z"
+    },
+    {
+      "repository": "philhawthorne/ha-dockermon",
+      "top5": false
+    },
+    {
+      "repository": "piitaya/lovelace-mushroom",
+      "top5": false
+    },
+    {
+      "repository": "phoenixframework/phoenix",
+      "top5": false
+    },
+    {
+      "repository": "phodal/awesome-iot",
+      "top5": false
+    },
+    {
+      "repository": "pixeltable/pixeltable",
+      "top5": false
+    },
+    {
+      "repository": "podman-container-tools/skopeo",
+      "top5": false
+    },
+    {
+      "repository": "qufei1993/skills-hub",
+      "top5": false
+    },
+    {
+      "repository": "pypolestar/polestar_api",
+      "top5": false
+    },
+    {
+      "repository": "Pico-Developer/SpatialMP4",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 22,
+      "fork": false,
+      "archived": false,
+      "description": "SpatialMP4 format cpp/python toolkit.",
+      "url": "https://github.com/Pico-Developer/SpatialMP4",
+      "contributorsUrl": "https://github.com/Pico-Developer/SpatialMP4/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "DuinoDu",
+          "contributions": 75
+        },
+        {
+          "login": "KairuiLiu",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        },
+        {
+          "login": "dang217",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:18.341Z"
+    },
+    {
+      "repository": "rabits/ha-ef-ble",
+      "top5": false
+    },
+    {
+      "repository": "reflex-dev/reflex",
+      "top5": false
+    },
+    {
+      "repository": "revolist/vue-datagrid",
+      "top5": false
+    },
+    {
+      "repository": "revtel/react-native-nfc-manager",
+      "top5": false
+    },
+    {
+      "repository": "richnologies/ngx-stripe",
+      "top5": false
+    },
+    {
+      "repository": "RienNeVaPlus/human-id",
+      "top5": false
+    },
+    {
+      "repository": "realZachi/pg-jev",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 1266,
+      "fork": false,
+      "archived": false,
+      "description": "Ask your Postgres tables questions in plain language. A PostgreSQL extension powered by TypeSafe's Jev.",
+      "url": "https://github.com/realZachi/pg-jev",
+      "contributorsUrl": "https://github.com/realZachi/pg-jev/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "realZachi",
+          "contributions": 12
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:19.305Z"
+    },
+    {
+      "repository": "ricoberger/vault-secrets-operator",
+      "top5": false
+    },
+    {
+      "repository": "rigaya/NVEnc",
+      "top5": false
+    },
+    {
+      "repository": "rickb777/date",
+      "rank": 2,
+      "contributions": 2,
+      "stars": 142,
+      "fork": false,
+      "archived": false,
+      "description": "A Go package for working with dates",
+      "url": "https://github.com/rickb777/date",
+      "contributorsUrl": "https://github.com/rickb777/date/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "rickb777",
+          "contributions": 135
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 2
+        },
+        {
+          "login": "ali-ince",
+          "contributions": 1
+        },
+        {
+          "login": "capnspacehook",
+          "contributions": 1
+        },
+        {
+          "login": "danny-goldberg-transcarent",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:19.670Z"
+    },
+    {
+      "repository": "rikulo/stream",
+      "top5": false
+    },
+    {
+      "repository": "rime/librime",
+      "top5": false
+    },
+    {
+      "repository": "righel/gitlab-version-nse",
+      "rank": 2,
+      "contributions": 1,
+      "stars": 255,
+      "fork": false,
+      "archived": false,
+      "description": "Nmap script to guess* a GitLab version. ",
+      "url": "https://github.com/righel/gitlab-version-nse",
+      "contributorsUrl": "https://github.com/righel/gitlab-version-nse/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "righel",
+          "contributions": 246
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:19.992Z"
+    },
+    {
+      "repository": "rime/rime-emoji",
+      "top5": false
+    },
+    {
+      "repository": "rime/squirrel",
+      "top5": false
+    },
+    {
+      "repository": "rime/weasel",
+      "top5": false
+    },
+    {
+      "repository": "ringabout/awesome-nim",
+      "top5": false
+    },
+    {
+      "repository": "RobertD502/home-assistant-petkit",
+      "top5": false
+    },
+    {
+      "repository": "robmarkcole/HASS-data-detective",
+      "top5": false
+    },
+    {
+      "repository": "rothgar/awesome-tmux",
+      "top5": false
+    },
+    {
+      "repository": "Rizzo-AI-Academy/rizzo-flow",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 958,
+      "fork": false,
+      "archived": false,
+      "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "contributorsUrl": "https://github.com/Rizzo-AI-Academy/rizzo-flow/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "simone-rizzo",
+          "contributions": 38
+        },
+        {
+          "login": "danilocarta",
+          "contributions": 2
+        },
+        {
+          "login": "BiG86",
+          "contributions": 2
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:20.932Z"
+    },
+    {
+      "repository": "rstackjs/rspack-vue-loader",
+      "top5": false
+    },
+    {
+      "repository": "RomanSlack/jev-drone",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 298,
+      "fork": false,
+      "archived": false,
+      "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
+      "url": "https://github.com/RomanSlack/jev-drone",
+      "contributorsUrl": "https://github.com/RomanSlack/jev-drone/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "RomanSlack",
+          "contributions": 11
+        },
+        {
+          "login": "Ashfaqbs",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:21.120Z"
+    },
+    {
+      "repository": "ron190/jsql-injection",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 1789,
+      "fork": false,
+      "archived": false,
+      "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+      "url": "https://github.com/ron190/jsql-injection",
+      "contributorsUrl": "https://github.com/ron190/jsql-injection/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "ron190",
+          "contributions": 1447
+        },
+        {
+          "login": "Crobmar",
+          "contributions": 1
+        },
+        {
+          "login": "juliusMansus",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:21.295Z"
+    },
+    {
+      "repository": "samber/awesome-prometheus-alerts",
+      "top5": false
+    },
+    {
+      "repository": "ryota-murakami/vite-rtk-query",
+      "top5": false
+    },
+    {
+      "repository": "SamurAIGPT/postiz-cheap",
+      "top5": false
+    },
+    {
+      "repository": "SauersML/gam",
+      "top5": false
+    },
+    {
+      "repository": "schmitech/orbit",
+      "top5": false
+    },
+    {
+      "repository": "seangreen2/slate_theme",
+      "top5": false
+    },
+    {
+      "repository": "semantica-agi/semantica",
+      "top5": false
+    },
+    {
+      "repository": "sentinel-hub/sentinelhub-py",
+      "top5": false
+    },
+    {
+      "repository": "shadcn-labs/pdfcn",
+      "top5": false
+    },
+    {
+      "repository": "sgl-project/sglang-omni",
+      "top5": false
+    },
+    {
+      "repository": "Shubhamsaboo/awesome-llm-apps",
+      "top5": false
+    },
+    {
+      "repository": "skyzh/mini-lsm",
+      "top5": false
+    },
+    {
+      "repository": "slackhq/compose-lints",
+      "top5": false
+    },
+    {
+      "repository": "shareAI-lab/learn-claude-code",
+      "top5": false
+    },
+    {
+      "repository": "temporalio/sdk-typescript",
+      "top5": false
+    },
+    {
+      "repository": "swc-project/swc",
+      "top5": false
+    },
+    {
+      "repository": "Snailclimb/JavaGuide",
+      "top5": false
+    },
+    {
+      "repository": "TheAlgorithms/Python",
+      "top5": false
+    },
+    {
+      "repository": "thedotmack/claude-mem",
+      "top5": false
+    },
+    {
+      "repository": "thruwire/foreman",
+      "top5": false
+    },
+    {
+      "repository": "tigerless-labs/agent-memory",
+      "top5": false
+    },
+    {
+      "repository": "tinkerologie/ha-unraid",
+      "top5": false
+    },
+    {
+      "repository": "thibmaek/awesome-raspberry-pi",
+      "top5": false
+    },
+    {
+      "repository": "THU-MAIC/OpenMAIC",
+      "top5": false
+    },
+    {
+      "repository": "titanwings/distilly",
+      "top5": false
+    },
+    {
+      "repository": "stoolap/stoolap",
+      "rank": 4,
+      "contributions": 1,
+      "stars": 1248,
+      "fork": false,
+      "archived": false,
+      "description": "A Modern Embedded SQL Database written in Rust",
+      "url": "https://github.com/stoolap/stoolap",
+      "contributorsUrl": "https://github.com/stoolap/stoolap/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "semihalev",
+          "contributions": 886
+        },
+        {
+          "login": "youdie006",
+          "contributions": 6
+        },
+        {
+          "login": "Svafk",
+          "contributions": 5
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:23.899Z"
+    },
+    {
+      "repository": "tokio-rs/tokio",
+      "top5": false
+    },
+    {
+      "repository": "totaldebug/atomic-calendar-revive",
+      "top5": false
+    },
+    {
+      "repository": "trycua/cua",
+      "top5": false
+    },
+    {
+      "repository": "tt-a1i/archify",
+      "top5": false
+    },
+    {
+      "repository": "ueberauth/ueberauth",
+      "top5": false
+    },
+    {
+      "repository": "tuist/tuist",
+      "top5": false
+    },
+    {
+      "repository": "usebruno/bruno",
+      "top5": false
+    },
+    {
+      "repository": "VEY-OSS/vey",
+      "top5": false
+    },
+    {
+      "repository": "uiua-lang/uiua",
+      "top5": false
+    },
+    {
+      "repository": "virattt/ai-hedge-fund",
+      "top5": false
+    },
+    {
+      "repository": "virgiliojr94/book-to-skill",
+      "top5": false
+    },
+    {
+      "repository": "vitalets/awesome-smart-tv",
+      "top5": false
+    },
+    {
+      "repository": "ultraworkers/claw-code",
+      "top5": false
+    },
+    {
+      "repository": "vorssaint/vorssaint-utils",
+      "top5": false
+    },
+    {
+      "repository": "vitali87/code-graph-rag",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/modern.js",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/midscene",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/rstest",
+      "top5": false
+    },
+    {
+      "repository": "wills106/homeassistant-solax-modbus",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/rsbuild",
+      "top5": false
+    },
+    {
+      "repository": "web-infra-dev/rsdoctor",
+      "top5": false
+    },
+    {
+      "repository": "wlcrs/huawei_solar",
+      "top5": false
+    },
+    {
+      "repository": "wuyoscar/jev-skill",
+      "top5": false
+    },
+    {
+      "repository": "wendyLei0620/CS4248-Memesense",
+      "rank": 3,
+      "contributions": 3,
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "description": "CS4248 course project, presented in the 28th NUS SOC Term Project Showcase and won a #4th place award.",
+      "url": "https://github.com/wendyLei0620/CS4248-Memesense",
+      "contributorsUrl": "https://github.com/wendyLei0620/CS4248-Memesense/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "wendyLei0620",
+          "contributions": 24
+        },
+        {
+          "login": "SpongeBabyHe",
+          "contributions": 4
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 3
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:26.526Z"
+    },
+    {
+      "repository": "zilliztech/vector-graph-rag",
+      "rank": 3,
+      "contributions": 1,
+      "stars": 265,
+      "fork": false,
+      "archived": false,
+      "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
+      "url": "https://github.com/zilliztech/vector-graph-rag",
+      "contributorsUrl": "https://github.com/zilliztech/vector-graph-rag/graphs/contributors",
+      "topContributors": [
+        {
+          "login": "zc277584121",
+          "contributions": 90
+        },
+        {
+          "login": "mgoltzsche",
+          "contributions": 1
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 1
+        }
+      ],
+      "checkedAt": "2026-11-06T15:59:27.490Z"
+    }
+  ],
+  "featured": [
+    "HKUDS/DeepTutor",
+    "MervinPraison/PraisonAI",
+    "mvschwarz/openrig",
+    "tinyplex/tinybase",
+    "dongrixinyu/JioNLP",
+    "domokane/FinancePy",
+    "zhtyyx/ioe",
+    "lasantosr/intelli-shell",
+    "doriaxengine/doriax",
+    "RevoltSecurities/Subdominator",
+    "revoframework/Revo",
+    "bytedance/vArmor",
+    "lateralblast/lunar",
+    "d3x0r/JSON6",
+    "1parado/grok-build-switch",
+    "kuan-er/sjtu-agent",
+    "astrelsky/GhidraOrbis",
+    "massimodeluisa/sidus-tools"
+  ]
+}

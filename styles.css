@@ -729,3 +729,11 @@ h2 {
 .case-list li { padding-block: 0.2rem; }
 .case-list a { font-weight: 650; }
 .evidence-note { margin: 0.6rem 0 1rem; color: var(--muted); font-size: 0.72rem; }
+
+.rank-intro { max-width: 55rem; color: var(--muted); font-size: 0.85rem; }
+.rank-list { list-style: none; margin: 0; padding: 0; }
+.rank-list li { padding: 0.6rem 0; border-bottom: 1px solid var(--line); font-size: 0.83rem; overflow-wrap: anywhere; }
+.rank-list strong { color: var(--blue); font-family: var(--mono); }
+.rank-list p { margin: 0.3rem 0 0; }
+.rank-list span { color: var(--muted); font-size: 0.75rem; }
+.historical-contributions summary { cursor: pointer; font-size: 0.83rem; margin-block: 1rem; }

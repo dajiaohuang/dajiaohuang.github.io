@@ -8,6 +8,11 @@
   const ogDescription = document.querySelector('meta[property="og:description"]');
 
   const english = {
+    rankIntro: "As of 2026-11-06 UTC: listed in the top five contributors of 157 non-fork external projects among 779 repositories checked from my historical contribution snapshot. Featured projects have at least 5 attributed commits; up to 20 are selected by repository stars.",
+    rankMethod: "Positions follow the GitHub Contributors API: all-time attributed commits, including bots, with ties in API order. Stars describe repository reach, not personal credit. Coverage starts from the 2026-10-27 merged-PR snapshot, not a current account-wide census.",
+    rankLedger: 'All verified top-five projects ↗',
+    rankSnapshot: 'API snapshot ↗',
+    historicalContributions: 'Contribution areas and historical PR counts',
     groupagents: 'Agents & developer tools',
     groupscience: 'Scientific interfaces',
     caseTitle: 'Selected merged fixes',
@@ -39,7 +44,7 @@
     workTitle: 'Selected projects', sagaDesc: "Agent-led TTRPG platform with a rules engine (Alpha)",
     repoDesc: "Repository workflows and a Pi-native execution harness: native queues, durable continuation, and OpenRig integration",
     cotDesc: "Local Go AI gateway across providers and accounts",
-    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Agent / AI Infra contributions', exclusionNote: "As of 2026-10-27 (UTC): 6,964 public authored PRs (2,398 merged); 1,552 merged PRs across 779 public external repositories, excluding repositories owned by dajiaohuang or SagaSmithAI.",
+    site: 'Site ↗', source: 'Source ↗', contribTitle: 'Projects where I’m a top contributor', exclusionNote: "As of 2026-10-27 (UTC): 6,964 public authored PRs (2,398 merged); 1,552 merged PRs across 779 public external repositories, excluding repositories owned by dajiaohuang or SagaSmithAI.",
     researchTitle: 'Research', researchIntro: 'Human motion and interaction research, with two co-authored papers.',
     interxRole: 'Co-author · dual-human interaction dataset and benchmark', himoRole: 'Co-author · human–multi-object interaction benchmark',
     paper: 'Paper ↗', project: 'Project ↗', timelineAria: 'Experience', present: 'Now', tiktokRole: 'Software Engineer Intern', nus: 'National University of Singapore',

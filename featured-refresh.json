@@ -1,10 +1,10 @@
 {
   "capturedAt": "2026-11-11T07:57:09.560Z",
-  "scope": "Previously featured repositories only; not a refreshed 779-repository census.",
+  "scope": "Previously featured repositories only; refreshed 2026-11-11 UTC. Bot accounts whose login ends in [bot] have been removed from the captured Contributors API lists, and remaining contributors reranked by attributed commit count; not a refreshed 779-repository census.",
   "results": [
     {
       "repository": "HKUDS/DeepTutor",
-      "rank": 5,
+      "rank": 4,
       "contributions": 70,
       "stars": 58112,
       "fork": false,
@@ -19,10 +19,6 @@
           "contributions": 116
         },
         {
-          "login": "github-actions[bot]",
-          "contributions": 108
-        },
-        {
           "login": "evan188199-tech",
           "contributions": 84
         },
@@ -30,11 +26,12 @@
           "login": "dajiaohuang",
           "contributions": 70
         }
-      ]
+      ],
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "MervinPraison/PraisonAI",
-      "rank": 4,
+      "rank": 2,
       "contributions": 272,
       "stars": 9333,
       "fork": false,
@@ -45,22 +42,11 @@
           "contributions": 5543
         },
         {
-          "login": "praisonai-triage-agent[bot]",
-          "contributions": 3996
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 277
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 272
-        },
-        {
-          "login": "claude[bot]",
-          "contributions": 219
         }
-      ]
+      ],
+      "botExcludedContributorCount": 3
     },
     {
       "repository": "mvschwarz/openrig",
@@ -90,7 +76,8 @@
           "login": "AdamWhitehurst",
           "contributions": 38
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "tinyplex/tinybase",
@@ -120,7 +107,8 @@
           "login": "dajiaohuang",
           "contributions": 5
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dongrixinyu/JioNLP",
@@ -150,7 +138,8 @@
           "login": "lsvih",
           "contributions": 4
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "domokane/FinancePy",
@@ -180,7 +169,8 @@
           "login": "Cashubski",
           "contributions": 28
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "zhtyyx/ioe",
@@ -210,7 +200,8 @@
           "login": "hzh0292",
           "contributions": 3
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "lasantosr/intelli-shell",
@@ -240,7 +231,8 @@
           "login": "forivall",
           "contributions": 1
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "doriaxengine/doriax",
@@ -270,7 +262,8 @@
           "login": "caiotava",
           "contributions": 3
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "RevoltSecurities/Subdominator",
@@ -300,7 +293,8 @@
           "login": "Raghunani12",
           "contributions": 1
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "revoframework/Revo",
@@ -325,12 +319,9 @@
         {
           "login": "martinadam511",
           "contributions": 2
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 2
         }
-      ]
+      ],
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "bytedance/vArmor",
@@ -355,12 +346,9 @@
         {
           "login": "hobostay",
           "contributions": 6
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 5
         }
-      ]
+      ],
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "lateralblast/lunar",
@@ -390,7 +378,8 @@
           "login": "Seegras",
           "contributions": 7
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "d3x0r/JSON6",
@@ -420,7 +409,8 @@
           "login": "RichMorin",
           "contributions": 1
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "1parado/grok-build-switch",
@@ -450,7 +440,8 @@
           "login": "ztlovelsw",
           "contributions": 2
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "kuan-er/sjtu-agent",
@@ -480,7 +471,8 @@
           "login": "Aixiaoxia",
           "contributions": 4
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "astrelsky/GhidraOrbis",
@@ -510,7 +502,8 @@
           "login": "Ryxm-a",
           "contributions": 3
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "massimodeluisa/sidus-tools",
@@ -532,7 +525,19 @@
           "login": "SpaceOceanCorp",
           "contributions": 1
         }
-      ]
+      ],
+      "botExcludedContributorCount": 0
     }
-  ]
+  ],
+  "botFilter": {
+    "excludedAccountLoginsEnding": "[bot]",
+    "excludedAccounts": [
+      "claude[bot]",
+      "dependabot[bot]",
+      "github-actions[bot]",
+      "praisonai-triage-agent[bot]"
+    ],
+    "rankBasis": "After excluding bot accounts from the captured GitHub Contributors API top-five list; the user's attributed commit count is unchanged.",
+    "capturedAt": "2026-11-11T07:57:09.560Z"
+  }
 }

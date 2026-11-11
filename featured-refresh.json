@@ -1,0 +1,538 @@
+{
+  "capturedAt": "2026-11-11T07:57:09.560Z",
+  "scope": "Previously featured repositories only; not a refreshed 779-repository census.",
+  "results": [
+    {
+      "repository": "HKUDS/DeepTutor",
+      "rank": 5,
+      "contributions": 70,
+      "stars": 58112,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:56:59.737Z",
+      "topContributors": [
+        {
+          "login": "pancacake",
+          "contributions": 2054
+        },
+        {
+          "login": "Pinkllow",
+          "contributions": 116
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 108
+        },
+        {
+          "login": "evan188199-tech",
+          "contributions": 84
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 70
+        }
+      ]
+    },
+    {
+      "repository": "MervinPraison/PraisonAI",
+      "rank": 4,
+      "contributions": 272,
+      "stars": 9333,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:00.265Z",
+      "topContributors": [
+        {
+          "login": "MervinPraison",
+          "contributions": 5543
+        },
+        {
+          "login": "praisonai-triage-agent[bot]",
+          "contributions": 3996
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 277
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 272
+        },
+        {
+          "login": "claude[bot]",
+          "contributions": 219
+        }
+      ]
+    },
+    {
+      "repository": "mvschwarz/openrig",
+      "rank": 3,
+      "contributions": 69,
+      "stars": 8815,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:00.778Z",
+      "topContributors": [
+        {
+          "login": "mvschwarz",
+          "contributions": 2804
+        },
+        {
+          "login": "rudycelekli",
+          "contributions": 219
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 69
+        },
+        {
+          "login": "Nikhi00718",
+          "contributions": 58
+        },
+        {
+          "login": "AdamWhitehurst",
+          "contributions": 38
+        }
+      ]
+    },
+    {
+      "repository": "tinyplex/tinybase",
+      "rank": 5,
+      "contributions": 5,
+      "stars": 5212,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:01.337Z",
+      "topContributors": [
+        {
+          "login": "jamesgpearce",
+          "contributions": 4585
+        },
+        {
+          "login": "bndkt",
+          "contributions": 18
+        },
+        {
+          "login": "jakubriedl",
+          "contributions": 9
+        },
+        {
+          "login": "acoreyj",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 5
+        }
+      ]
+    },
+    {
+      "repository": "dongrixinyu/JioNLP",
+      "rank": 2,
+      "contributions": 12,
+      "stars": 3874,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:01.874Z",
+      "topContributors": [
+        {
+          "login": "dongrixinyu",
+          "contributions": 510
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 12
+        },
+        {
+          "login": "Yulv-git",
+          "contributions": 9
+        },
+        {
+          "login": "Yellow-BringtEast",
+          "contributions": 7
+        },
+        {
+          "login": "lsvih",
+          "contributions": 4
+        }
+      ]
+    },
+    {
+      "repository": "domokane/FinancePy",
+      "rank": 3,
+      "contributions": 80,
+      "stars": 3222,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:02.532Z",
+      "topContributors": [
+        {
+          "login": "domokane",
+          "contributions": 1150
+        },
+        {
+          "login": "FergalOK",
+          "contributions": 136
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 80
+        },
+        {
+          "login": "idorrington92",
+          "contributions": 67
+        },
+        {
+          "login": "Cashubski",
+          "contributions": 28
+        }
+      ]
+    },
+    {
+      "repository": "zhtyyx/ioe",
+      "rank": 3,
+      "contributions": 5,
+      "stars": 1638,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:03.036Z",
+      "topContributors": [
+        {
+          "login": "zhtyyx",
+          "contributions": 47
+        },
+        {
+          "login": "cursoragent",
+          "contributions": 9
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 5
+        },
+        {
+          "login": "LJzht",
+          "contributions": 4
+        },
+        {
+          "login": "hzh0292",
+          "contributions": 3
+        }
+      ]
+    },
+    {
+      "repository": "lasantosr/intelli-shell",
+      "rank": 2,
+      "contributions": 7,
+      "stars": 1306,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:03.630Z",
+      "topContributors": [
+        {
+          "login": "lasantosr",
+          "contributions": 163
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 7
+        },
+        {
+          "login": "lalvarezt",
+          "contributions": 3
+        },
+        {
+          "login": "palozano",
+          "contributions": 2
+        },
+        {
+          "login": "forivall",
+          "contributions": 1
+        }
+      ]
+    },
+    {
+      "repository": "doriaxengine/doriax",
+      "rank": 3,
+      "contributions": 8,
+      "stars": 917,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:04.264Z",
+      "topContributors": [
+        {
+          "login": "eduardodoria",
+          "contributions": 3396
+        },
+        {
+          "login": "e1e5en-gd",
+          "contributions": 10
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 8
+        },
+        {
+          "login": "JordanGrant3D",
+          "contributions": 4
+        },
+        {
+          "login": "caiotava",
+          "contributions": 3
+        }
+      ]
+    },
+    {
+      "repository": "RevoltSecurities/Subdominator",
+      "rank": 1,
+      "contributions": 9,
+      "stars": 814,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:04.874Z",
+      "topContributors": [
+        {
+          "login": "dajiaohuang",
+          "contributions": 9
+        },
+        {
+          "login": "0xPugal",
+          "contributions": 6
+        },
+        {
+          "login": "th3sanjai",
+          "contributions": 3
+        },
+        {
+          "login": "th3gokul",
+          "contributions": 3
+        },
+        {
+          "login": "Raghunani12",
+          "contributions": 1
+        }
+      ]
+    },
+    {
+      "repository": "revoframework/Revo",
+      "rank": 3,
+      "contributions": 8,
+      "stars": 718,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:05.464Z",
+      "topContributors": [
+        {
+          "login": "martinzima",
+          "contributions": 454
+        },
+        {
+          "login": "JanDrozen",
+          "contributions": 22
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 8
+        },
+        {
+          "login": "martinadam511",
+          "contributions": 2
+        },
+        {
+          "login": "dependabot[bot]",
+          "contributions": 2
+        }
+      ]
+    },
+    {
+      "repository": "bytedance/vArmor",
+      "rank": 3,
+      "contributions": 7,
+      "stars": 516,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:06.170Z",
+      "topContributors": [
+        {
+          "login": "Danny-Wei",
+          "contributions": 1045
+        },
+        {
+          "login": "UgOrange",
+          "contributions": 78
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 7
+        },
+        {
+          "login": "hobostay",
+          "contributions": 6
+        },
+        {
+          "login": "github-actions[bot]",
+          "contributions": 5
+        }
+      ]
+    },
+    {
+      "repository": "lateralblast/lunar",
+      "rank": 2,
+      "contributions": 54,
+      "stars": 317,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:06.787Z",
+      "topContributors": [
+        {
+          "login": "richardatlateralblast",
+          "contributions": 1279
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 54
+        },
+        {
+          "login": "unixben",
+          "contributions": 16
+        },
+        {
+          "login": "shivankar-madaan",
+          "contributions": 14
+        },
+        {
+          "login": "Seegras",
+          "contributions": 7
+        }
+      ]
+    },
+    {
+      "repository": "d3x0r/JSON6",
+      "rank": 3,
+      "contributions": 6,
+      "stars": 242,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:07.284Z",
+      "topContributors": [
+        {
+          "login": "d3x0r",
+          "contributions": 115
+        },
+        {
+          "login": "brettz9",
+          "contributions": 83
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 6
+        },
+        {
+          "login": "FnControlOption",
+          "contributions": 1
+        },
+        {
+          "login": "RichMorin",
+          "contributions": 1
+        }
+      ]
+    },
+    {
+      "repository": "1parado/grok-build-switch",
+      "rank": 3,
+      "contributions": 19,
+      "stars": 206,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:07.844Z",
+      "topContributors": [
+        {
+          "login": "shiaho777",
+          "contributions": 160
+        },
+        {
+          "login": "1parado",
+          "contributions": 36
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 19
+        },
+        {
+          "login": "Xbai-hang",
+          "contributions": 4
+        },
+        {
+          "login": "ztlovelsw",
+          "contributions": 2
+        }
+      ]
+    },
+    {
+      "repository": "kuan-er/sjtu-agent",
+      "rank": 3,
+      "contributions": 25,
+      "stars": 104,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:08.425Z",
+      "topContributors": [
+        {
+          "login": "Azzygoatcoder",
+          "contributions": 594
+        },
+        {
+          "login": "kuan-er",
+          "contributions": 103
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 25
+        },
+        {
+          "login": "JackyTJie",
+          "contributions": 5
+        },
+        {
+          "login": "Aixiaoxia",
+          "contributions": 4
+        }
+      ]
+    },
+    {
+      "repository": "astrelsky/GhidraOrbis",
+      "rank": 4,
+      "contributions": 5,
+      "stars": 98,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:08.996Z",
+      "topContributors": [
+        {
+          "login": "illusionyy",
+          "contributions": 15
+        },
+        {
+          "login": "astrelsky",
+          "contributions": 11
+        },
+        {
+          "login": "viniciuslrangel",
+          "contributions": 6
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 5
+        },
+        {
+          "login": "Ryxm-a",
+          "contributions": 3
+        }
+      ]
+    },
+    {
+      "repository": "massimodeluisa/sidus-tools",
+      "rank": 2,
+      "contributions": 54,
+      "stars": 3,
+      "fork": false,
+      "checkedAt": "2026-11-11T07:57:09.516Z",
+      "topContributors": [
+        {
+          "login": "massimodeluisa",
+          "contributions": 87
+        },
+        {
+          "login": "dajiaohuang",
+          "contributions": 54
+        },
+        {
+          "login": "SpaceOceanCorp",
+          "contributions": 1
+        }
+      ]
+    }
+  ]
+}

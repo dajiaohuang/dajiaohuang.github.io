@@ -8,7 +8,7 @@
   const ogDescription = document.querySelector('meta[property="og:description"]');
 
   const english = {
-    rankIntro: "As of 2026-11-06 UTC: listed in the top five contributors of 157 non-fork external projects among 779 repositories checked from my historical contribution snapshot. Featured projects have at least 5 attributed commits; up to 20 are selected by repository stars.",
+    rankIntro: "Featured projects rechecked on 2026-11-11 UTC using the GitHub Contributors API (including bots). Each has at least 5 attributed commits and a top-five position. The broader 779-repository census remains dated 2026-11-06; this refresh covers the previously featured projects.",
     rankMethod: "Positions follow the GitHub Contributors API: all-time attributed commits, including bots, with ties in API order. Stars describe repository reach, not personal credit. Coverage starts from the 2026-10-27 merged-PR snapshot, not a current account-wide census.",
     rankLedger: 'All verified top-five projects ↗',
     rankSnapshot: 'API snapshot ↗',
